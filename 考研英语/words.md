@@ -77,3 +77,4 @@
 75. *literature* 文学
 76. *reluctant* 不情愿的    *resistant* 抵制的，反抗的
 77. *maintain* 维持，保养，**声称，断言**
+78. *demand* 需求

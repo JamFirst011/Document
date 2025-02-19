@@ -6,7 +6,7 @@
 4. adapt 适应 改编
 5. automatic automate automation 自动的
 6. debate 讨论辩论
-7. bias 偏差，偏见
+7. *bias* *prejudice* 偏差，偏见
 8. brief 短暂的，简洁的
 9. forcast 预测，预报
 10. perceive 意识到，将...视为
@@ -25,7 +25,7 @@
 23. contrary 对立的，相反的
 24. corporation 公司，法人
 25. critic 批判家 critical 批判的，关键的，危急的
-26.  criticize 批判
+26. criticize 批判
 27. crude 粗糙的，天然的
 28. cultivate 种植，培养
 29. custom 习俗，习惯，顾客
@@ -34,13 +34,13 @@
 32. indicate 表明，暗示
 33. discipline 纪律，自制力
 34. domestic 家庭的，国内的
-35. dominant 有影响力的
-36. conduct 执行，组织/行为，管理方式
+35. *dominant* *dominate* 有影响力的
+36. *conduct* 执行，组织/行为，管理方式 e.g: Conduct a survey 进行调查
 37. productive 多产的
 38. endure 忍耐承受，持续
 39. equality 平等
 40. estimate 估计，判断
-41. ehics 伦理道德
+41. ethics 伦理道德
 42. inevitable 必然发生的
 43. reference 引用，提及
 44. confine 限制，使局限于
@@ -55,7 +55,7 @@
 53. confront 面对，处理
 54. aggressive 好斗的，有说服力的
 55. congress 国会
-56. inherent 内在的，本质的
+56. *inherent* 内在的，本质的 *inherit* 继承
 57. identify 认出
 58. identify with 认同
 59. intellecture 智力的，知识分子
@@ -66,14 +66,14 @@
 64. jury 陪审团
 65. justify 证明，提供依据
 66. collapse 坍塌，崩溃，昏倒
-67. neglect 疏忽
+67. neglect 疏忽,忽视
 68. *collective* 集体的，共同的
 69. *lecture* 讲座
 70. *liability* 责任(特指法律责任)，义务，负债
 71. *legitimate* 合法的，=legal
 72. *legislation* 法律法规
 73. *liberal* 自由开放的，思想开明的
-74. *eliminate* 排除，淘汰
+74. *eliminate* *exclude* 排除，淘汰
 75. *literature* 文学
 76. *reluctant* 不情愿的    *resistant* 抵制的，反抗的
 77. *maintain* 维持，保养，**声称，断言**
@@ -90,3 +90,7 @@
 88. *commodity* 商品
 89. *promote* 促进 *prompt* 迅速的，促进，提示，提示符
 90. *immune* 免疫的 *immune system* 免疫系统 *immunity* 免疫力
+91. *renaissance* 复兴
+92. *enormous* *massive* 巨大的 *abundant* 大量丰富的 *substantial* 大量的
+93. *obscure* 模糊的，费解的
+94. *adopt* 采纳，收养

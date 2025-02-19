@@ -78,3 +78,15 @@
 76. *reluctant* 不情愿的    *resistant* 抵制的，反抗的
 77. *maintain* 维持，保养，**声称，断言**
 78. *demand* 需求
+79. *remark* *comment* 评论 *remarkabl* 非凡的，卓越的
+80. *mechanism* 机械，机制
+81. *commercial* 商业的，贸易的  *commercial ship* 商船 
+82. *military* 军人的，武装部队
+83. *diminish* 减少，贬低
+84. *administration* 政府，管理，经营
+85. *commit* 犯错，承诺，投入
+86. *dismiss* 排除/不考虑，解散，开除
+87. *commission* 委托，任命
+88. *commodity* 商品
+89. *promote* 促进 *prompt* 迅速的，促进，提示，提示符
+90. *immune* 免疫的 *immune system* 免疫系统 *immunity* 免疫力

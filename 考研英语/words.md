@@ -7,7 +7,7 @@
 5. automatic automate automation 自动的
 6. debate 讨论辩论
 7. *bias* *prejudice* 偏差，偏见
-8. brief 短暂的，简洁的
+8. brief 短暂的，简洁的 e.g There was a brief silence before his speech
 9. forcast 预测，预报
 10. perceive 意识到，将...视为
 11. celebrity 名人，名望
@@ -84,7 +84,7 @@
 82. *military* 军人的，武装部队
 83. *diminish* 减少，贬低
 84. *administration* 政府，管理，经营
-85. *commit* 犯错，承诺，投入
+85. *commit* 犯错，承诺，投入 e.g most crimes are committed by young man. 犯下
 86. *dismiss* 排除/不考虑，解散，开除
 87. *commission* 委托，任命
 88. *commodity* 商品
@@ -94,3 +94,26 @@
 92. *enormous* *massive* 巨大的 *abundant* 大量丰富的 *substantial* 大量的
 93. *obscure* 模糊的，费解的
 94. *adopt* 采纳，收养
+95. *impact* 显著影响，冲击
+96. *parliament* 议会，国会
+97. *partly* 部分的，e.g partly responsible for...
+98. *departure* 离开，出发，背离
+99. *sympathy* 同情，支持赞成
+100. *appeal* 吸引，上诉
+101. *impulse* 冲动
+102. *peculiar* 奇怪的，特殊的
+103. *personality* 个性，名人
+104. *pleasant* 愉快的，友善的
+105. *employment* 工作，雇佣
+106. *apply* 申请，应用
+107. *implication* 影响，暗示
+108. *monopoly* 垄断
+109. *propose* *proposal* 提议，求婚
+110. *composition* 组成，作品
+111. *suppress* 镇压，封锁
+112. *deprive* 剥夺
+113. *approach* 靠近，道路，方法
+114. *publication* 出版，发表
+115. *enquire* 询问 *inquire* 调查、
+116. *interior* *internal* 内部的
+117. *general* 总体的，普遍的 *generous* 慷慨的

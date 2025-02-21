@@ -99,7 +99,7 @@
 97. *partly* 部分的，e.g partly responsible for...
 98. *departure* 离开，出发，背离
 99. *sympathy* 同情，支持赞成
-100. *appeal* 吸引，上诉
+100. *appeal* 吸引，上诉，呼吁
 101. *impulse* 冲动
 102. *peculiar* 奇怪的，特殊的
 103. *personality* 个性，名人
@@ -127,7 +127,7 @@
 123. *regulate* 管理，调节 e.g can regulate the temperature
 124. *regulation* 规章
 125. *render* 使变成    e.g Car accident has rendered him unconscious
-126. *derive* 来源
+126. *derive* 来源 获得
 127. *scale* 规模，缩减
 128. *segment* 部分 *section* 部分，常指书段落
 129. *presence*  出席，在场 e.g She was nervous to speak in the presence of so many people
@@ -141,4 +141,10 @@
 137. *prosperity* 繁荣
 138. *spouse* 配偶
 139. *statement* *declare* *claim* *proclaim* 声明
-140. *contrast* 对比，差异
+140. *contrast* 对比，差异 *distinction* 差异，卓越
+141. *estate* 财产，遗产    e.g His estate was left to his son
+142. *stimulate* 促使，激发 e.g This game has stimulated her interested in studying
+143. *constitute* 组成，相当于 *constitution* 宪法，组成 *institute* 协会，建立
+144. *strain* 拉伤，压力 e.g I strained my back yesterday
+145. *assure* 保证，查明 e.g The captain assure the sailors of their safety
+146. *demonstate* 证明，显露 e.g ...say demonstrating talent in at least one...

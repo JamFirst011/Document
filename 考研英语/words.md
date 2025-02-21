@@ -117,3 +117,28 @@
 115. *enquire* 询问 *inquire* 调查、
 116. *interior* *internal* 内部的
 117. *general* 总体的，普遍的 *generous* 慷慨的
+118. *acquisition* 获得，习得 e.g acquisition of new language is difficult
+119. *radical* 彻底的，激进的，激进分子 e.g times of radical changes
+120. *reasonable* 合理的，适当的<br>
+    - 合理：What could be more reasonable<br>
+    - 适当：They could take reasonable measures to ...
+121. *rigid* 死板的
+122. *region* 区域
+123. *regulate* 管理，调节 e.g can regulate the temperature
+124. *regulation* 规章
+125. *render* 使变成    e.g Car accident has rendered him unconscious
+126. *derive* 来源
+127. *scale* 规模，缩减
+128. *segment* 部分 *section* 部分，常指书段落
+129. *presence*  出席，在场 e.g She was nervous to speak in the presence of so many people
+130. *sensitive* 敏感的，体贴的 e.g He is a sensitive man
+131. *consequently* 因此，所以
+132. *conservative* 保守的
+133. *preserve* *conserve* 保护，保存 *reserve* 预定
+134. *considerable* 相当大的，很多的
+135. *speculate* 推测，猜测
+136. *prospect* 可能性，希望 *prospective* 有希望的，有前途的
+137. *prosperity* 繁荣
+138. *spouse* 配偶
+139. *statement* *declare* *claim* *proclaim* 声明
+140. *contrast* 对比，差异

@@ -76,7 +76,7 @@
 74. *eliminate* *exclude* 排除，淘汰
 75. *literature* 文学
 76. *reluctant* 不情愿的    *resistant* 抵制的，反抗的
-77. *maintain* 维持，保养，**声称，断言**
+77. *maintain* 维持，保养，**声称，断言** *retain* 保持
 78. *demand* 需求
 79. *remark* *comment* 评论 *remarkabl* 非凡的，卓越的
 80. *mechanism* 机械，机制
@@ -117,7 +117,7 @@
 115. *enquire* 询问 *inquire* 调查、
 116. *interior* *internal* 内部的
 117. *general* 总体的，普遍的 *generous* 慷慨的
-118. *acquisition* 获得，习得 e.g acquisition of new language is difficult
+118. *acquisition* 获得，习得 e.g acquisition of new language is difficult *obtain* 得到
 119. *radical* 彻底的，激进的，激进分子 e.g times of radical changes
 120. *reasonable* 合理的，适当的<br>
     - 合理：What could be more reasonable<br>
@@ -148,3 +148,40 @@
 144. *strain* 拉伤，压力 e.g I strained my back yesterday
 145. *assure* 保证，查明 e.g The captain assure the sailors of their safety
 146. *demonstate* 证明，显露 e.g ...say demonstrating talent in at least one...
+1. *attach* 附属，附上的
+    - I attached a copy of my notes for you
+    - This tag has been attached to them...
+148. *content* 内容，满足的
+149. *temporary* 暂时的 *permanent* 
+150. *attempt* 尝试
+151. *extent* 程度，范围 *extend* 扩展 e.g It's impossible to estimate the extent of damage
+152. *tension* 紧张(局势) e.g ...told a joke to ease the tension...
+1. *intense* 强度很高的 e.g This works demands intense concentration
+1. *entitle* 给...权利,享有，命名 e.g You will be entitled to your pension when... 
+1. *track* 踪迹，轨道 e.g Follow the bear's track...
+1. *trace* 痕迹，追溯 e.g Let's trace back Chinese history...
+1. *trait* 特征 *property* *attibute* 属性，特征,归功于 e.g His success attribute to his persistense...
+1. *equivalent* 相等的，对应的 e.g This Chinese character has no equivalent in English 
+1. *vanish* *vanishment* 消失，灭亡 e.g The car was so fast that it vanish from my sight within seconds 
+    - *extinct* 灭绝的 *endangered* 濒临灭绝的
+1. *variable* 可变的多变的，变量
+1. *reveal* 揭露 *revelation* 
+1. *convention* 传统 *conventional* 传统的
+    - *contradictary* 矛盾的 *contradiction* 矛盾
+    - *contraversial* 争议的 *contraversy* 争议
+1. *verbal* 口头的 e.g A verbal promise is not reliable
+1. *universal* 普遍的 
+1. *invest* 投资 *investment* 
+1. *evidence* 证据 *evident* 明显的 
+1. *provide* *provision* 供给，规定
+1. *violate* 违反 *violent* 暴力的 *violence* 
+1. *virtue* 美德 *virtual* 虚拟的 *vital* 必不可少的，重要的，活力的 *vitality* 活力
+1. *involve* 包含，使参与 e.g involve everyone in the decision making
+1. *volume* 音量，容量，量  e.g The volume of traffic on the road... *capacity* 
+1. *vulnerable* 脆弱的
+1. *alongside* 沿着，共同 
+    - land alongside the river
+    - work alongside robots
+1. *blueprint* 蓝图，模版
+1. *outcome* 结果，效果 e.g final outcome of negotiatinos
+1. *outline* 概括，大纲 e.g the brief outline of this book

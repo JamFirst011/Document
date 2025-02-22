@@ -44,14 +44,14 @@
 42. inevitable 必然发生的
 43. reference 引用，提及
 44. confine 限制，使局限于
-45. faculty 天赋，能力，全体教职工
+45. faculty 身体机能，能力，全体教职工
 46. sufficient 足够的
 47. artificial 人工的，虚伪的
 48. effective 有效的 efficient 高效的
 49. influential 有影响力的
 50. inform 通知
 51. formation 形成
-52. fortune 好运，大笔钱
+52. fortune 好运，大笔钱,命运 e.g fortune will guide her to the right path
 53. confront 面对，处理
 54. aggressive 好斗的，有说服力的
 55. congress 国会
@@ -66,10 +66,10 @@
 64. jury 陪审团
 65. justify 证明，提供依据
 66. collapse 坍塌，崩溃，昏倒
-67. neglect 疏忽,忽视
+67. neglect 疏忽,忽视 e.g staff was fired for neglecting their duties
 68. *collective* 集体的，共同的
 69. *lecture* 讲座
-70. *liability* 责任(特指法律责任)，义务，负债
+70. *liability* 责任(特指法律责任)，义务，负债 *obligation* 责任
 71. *legitimate* 合法的，=legal
 72. *legislation* 法律法规
 73. *liberal* 自由开放的，思想开明的
@@ -85,7 +85,9 @@
 83. *diminish* 减少，贬低
 84. *administration* 政府，管理，经营
 85. *commit* 犯错，承诺，投入 e.g most crimes are committed by young man. 犯下
-86. *dismiss* 排除/不考虑，解散，开除
+1. *dismiss* 排除/不考虑，解散，开除 
+    - she was dimissed as a dreamer 
+    - Don't dismiss this possibility
 87. *commission* 委托，任命
 88. *commodity* 商品
 89. *promote* 促进 *prompt* 迅速的，促进，提示，提示符
@@ -95,7 +97,7 @@
 93. *obscure* 模糊的，费解的
 94. *adopt* 采纳，收养
 95. *impact* 显著影响，冲击
-96. *parliament* 议会，国会
+96. *parliament* 议会，国会 *council* *congress* 一样意思
 97. *partly* 部分的，e.g partly responsible for...
 98. *departure* 离开，出发，背离
 99. *sympathy* 同情，支持赞成
@@ -106,7 +108,7 @@
 104. *pleasant* 愉快的，友善的
 105. *employment* 工作，雇佣
 106. *apply* 申请，应用
-107. *implication* 影响，暗示
+107. *implication* 影响，暗示 e.g team failed to consider the implication of their actions
 108. *monopoly* 垄断
 109. *propose* *proposal* 提议，求婚
 110. *composition* 组成，作品
@@ -119,8 +121,8 @@
 117. *general* 总体的，普遍的 *generous* 慷慨的
 118. *acquisition* 获得，习得 e.g acquisition of new language is difficult *obtain* 得到
 119. *radical* 彻底的，激进的，激进分子 e.g times of radical changes
-120. *reasonable* 合理的，适当的<br>
-    - 合理：What could be more reasonable<br>
+1. *reasonable* 合理的，适当的
+    - 合理：What could be more reasonable
     - 适当：They could take reasonable measures to ...
 121. *rigid* 死板的
 122. *region* 区域
@@ -141,11 +143,11 @@
 137. *prosperity* 繁荣
 138. *spouse* 配偶
 139. *statement* *declare* *claim* *proclaim* 声明
-140. *contrast* 对比，差异 *distinction* 差异，卓越
+140. *contrast* 对比，差异 *distinction* 差异，卓越 *distinct* 清楚的 *distinctive* 独特的
 141. *estate* 财产，遗产    e.g His estate was left to his son
 142. *stimulate* 促使，激发 e.g This game has stimulated her interested in studying
 143. *constitute* 组成，相当于 *constitution* 宪法，组成 *institute* 协会，建立
-144. *strain* 拉伤，压力 e.g I strained my back yesterday
+144. *strain* 拉伤，紧张，筋疲力尽 e.g I strained my back yesterday
 145. *assure* 保证，查明 e.g The captain assure the sailors of their safety
 146. *demonstate* 证明，显露 e.g ...say demonstrating talent in at least one...
 1. *attach* 附属，附上的
@@ -185,3 +187,7 @@
 1. *blueprint* 蓝图，模版
 1. *outcome* 结果，效果 e.g final outcome of negotiatinos
 1. *outline* 概括，大纲 e.g the brief outline of this book
+1. *severe* 严重的，非常的，用来形容不好的东西 e.g suffer from severe brain injury
+1. *grant* 授予 e.g They were granted refugee status
+1. *practical* 可行的，实际的 e.g teacher give students some practical advice
+1. *regular* 有规律的，常规的 *conventional* 常规的，传统的

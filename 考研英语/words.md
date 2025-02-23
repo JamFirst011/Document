@@ -66,7 +66,7 @@
 64. jury 陪审团
 65. justify 证明，提供依据
 66. collapse 坍塌，崩溃，昏倒
-67. neglect 疏忽,忽视 e.g staff was fired for neglecting their duties
+67. neglect 疏忽,忽视 e.g staff was fired for neglecting their duties *overlook* 忽视，俯视
 68. *collective* 集体的，共同的
 69. *lecture* 讲座
 70. *liability* 责任(特指法律责任)，义务，负债 *obligation* 责任
@@ -191,3 +191,38 @@
 1. *grant* 授予 e.g They were granted refugee status
 1. *practical* 可行的，实际的 e.g teacher give students some practical advice
 1. *regular* 有规律的，常规的 *conventional* 常规的，传统的
+1. *overall* 总的，总计 e.g How much overall price will increase  总价
+1. *overlook* 俯视，忽略
+1. *somewhat* 有点，稍微 e.g She become somewhat more confident
+1. *throughout* 自始至终，贯穿 e.g open daily throughout the year
+1. *undermine* 破坏，削弱 e.g Don't let them undermine your confidence
+1. *withdraw* 撤退，提取 e.g Government military were forced to withdraw
+1. *worthwhile* 值得的，有价值的 e.g consider charity a worthwhile carreer
+1. *abuse* 滥用，虐待
+1. *acknowledge* 认可，承认 e.g acknowledge the force of his argument
+1. *affair* 事情 *matter* *business* 都指一般事情   *incident* 事件
+1. *alike* 相似的，相同的 e.g good management benefits staff and manager alike
+1. *anticipate* 预料 *forecast* 预报
+1. *apoint* 任命，委派 *commission* *assign* 
+1. *arise* 出现，发生 e.g a new crisis has arised
+    - arouse 引起，激发
+1. *aspect* 方面 *respect*
+1. *behalf* 代表某人 e.g on behalf of somebody
+1. *blame* 责怪 e.g the boy was blamed for bad behaviors
+1. *boom* 繁荣，流行 *prosperity*
+1. *boost* 促进，增长 e.g new act will boost the development of tourism
+1. *bound* 边界，必然的 *be bound to* 必然会
+1. *bracket*  括号，等级
+1. *branch* 树干，分支 e.g the bank has branches all over the country
+    - bench 长椅
+    - torch 火炬
+1. *burden* 负担 e.g these measures will lighten the burden on...
+1. *category* 类别，种类
+1. *channels* 频道，渠道，途径 e.g give out customers better channels
+1. *charge* 费用，指控，掌管 e.g free of charge *accuse* 指控
+1. *circuit* 环形道路 e.g city center circuit
+1. *context* 背景，环境，上下文
+1. *convey* 传达，传输 e.g convey some message to somebody
+1. *cope* 应付，处理 e.g face with huge pressure to cope with the problem on his own
+1. *craft* 工艺，技巧 e.g traditional craft
+1. *curb* 抑制，约束 e.g to curb the spread of the virus 

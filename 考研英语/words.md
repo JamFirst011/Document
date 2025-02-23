@@ -168,11 +168,11 @@
     - *extinct* 灭绝的 *endangered* 濒临灭绝的
 1. *variable* 可变的多变的，变量
 1. *reveal* 揭露 *revelation* 
-1. *convention* 传统 *conventional* 传统的
+1. *convention* 传统，惯例 e.g By convention *conventional* 传统的
     - *contradictary* 矛盾的 *contradiction* 矛盾
     - *contraversial* 争议的 *contraversy* 争议
 1. *verbal* 口头的 e.g A verbal promise is not reliable
-1. *universal* 普遍的 
+1. *universal* 普遍的,通用的 e.g Agreement on this issue is almost universal *general*
 1. *invest* 投资 *investment* 
 1. *evidence* 证据 *evident* 明显的 
 1. *provide* *provision* 供给，规定
@@ -226,3 +226,10 @@
 1. *cope* 应付，处理 e.g face with huge pressure to cope with the problem on his own
 1. *craft* 工艺，技巧 e.g traditional craft
 1. *curb* 抑制，约束 e.g to curb the spread of the virus 
+1. *elsewhere* 别处的 e.g ...in Asia and elsewhere
+1. *valuable* *invaluable* 无价的
+1. *determine* 查明，证明 e.g determine what happened that night
+1. *account* 账户，占比，重要性
+    - account for
+    - is it true American intellectual is rejected and considered of no account in his society
+1. 

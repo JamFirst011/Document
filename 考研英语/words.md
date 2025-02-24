@@ -47,7 +47,7 @@
 45. faculty 身体机能，能力，全体教职工
 46. sufficient 足够的
 47. artificial 人工的，虚伪的
-48. effective 有效的 efficient 高效的
+48. effective 有效的 efficient 高效的 *efficiency* 效率
 49. influential 有影响力的
 50. inform 通知
 51. formation 形成
@@ -217,15 +217,15 @@
     - bench 长椅
     - torch 火炬
 1. *burden* 负担 e.g these measures will lighten the burden on...
-1. *category* 类别，种类
+1. *category* 类别，种类 *catalog* 目录
 1. *channels* 频道，渠道，途径 e.g give out customers better channels
 1. *charge* 费用，指控，掌管 e.g free of charge *accuse* 指控
 1. *circuit* 环形道路 e.g city center circuit
 1. *context* 背景，环境，上下文
 1. *convey* 传达，传输 e.g convey some message to somebody
-1. *cope* 应付，处理 e.g face with huge pressure to cope with the problem on his own
-1. *craft* 工艺，技巧 e.g traditional craft
-1. *curb* 抑制，约束 e.g to curb the spread of the virus 
+1. *cope* 应付，处理 e.g face with huge pressure to cope with the problem on his own *deal solve resolve dispose*
+1. *craft* 工艺，技巧 e.g traditional craft *draft* 草稿
+1. *curb* 抑制，约束 e.g to curb the spread of the virus  *restrict* 约束，限制
 1. *elsewhere* 别处的 e.g ...in Asia and elsewhere
 1. *valuable* *invaluable* 无价的
 1. *determine* 查明，证明 e.g determine what happened that night
@@ -239,7 +239,7 @@
     - deliver a speech
 1. *desire* 愿望，渴望 *desirable* 理想的
 1. *dispute* 争论，纠纷 *conflict* *controversy* e.g ...to settle the dispute between two countries 
-1. *district* 区域 *region* *recreation* 娱乐 e.g walking around the recreation district
+1. *district* 区域 *region* *recreation* 娱乐 e.g walking around the recreation district *restrict* 约束，限制
 1. *draft* 草稿
 1. *elite* 上层集团，社会精英
 1. *endeavour* 努力 e.g they always endeavour to please their customers
@@ -270,3 +270,4 @@
 1. *institute* *institution* 机构，协会 *institution* 还有制度的意思=*regulation*
 1. *interview* 面试，采访 
 1. *landscape* 风景
+1. *identity* 身份，特征 *status* 身份

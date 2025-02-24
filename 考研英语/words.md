@@ -61,7 +61,7 @@
 59. intellecture 智力的，知识分子
 60. internal interior内部的 interval 间隔
 61. transition 过渡
-62. objective 目标，客观的
+62. objective 目标，客观的 *intention* *aim* *target* 目的
 63. journal 杂志 journalist记者 journalism 新闻业
 64. jury 陪审团
 65. justify 证明，提供依据
@@ -110,7 +110,7 @@
 106. *apply* 申请，应用
 107. *implication* 影响，暗示 e.g team failed to consider the implication of their actions
 108. *monopoly* 垄断
-109. *propose* *proposal* 提议，求婚
+109. *propose* *proposal* 提议，求婚 *dispose* 处理
 110. *composition* 组成，作品
 111. *suppress* 镇压，封锁
 112. *deprive* 剥夺
@@ -232,4 +232,41 @@
 1. *account* 账户，占比，重要性
     - account for
     - is it true American intellectual is rejected and considered of no account in his society
-1. 
+1. *delight* 愉快，高兴的事 *delighted* 高兴的 *in delight* e.g audience clapped in delight 
+1. *deliver* 传递，交付，发表  *delivery* 传递，分娩
+    - ...has been delivered to every customer
+    - ...is te medium that delivers the information
+    - deliver a speech
+1. *desire* 愿望，渴望 *desirable* 理想的
+1. *dispute* 争论，纠纷 *conflict* *controversy* e.g ...to settle the dispute between two countries 
+1. *district* 区域 *region* *recreation* 娱乐 e.g walking around the recreation district
+1. *draft* 草稿
+1. *elite* 上层集团，社会精英
+1. *endeavour* 努力 e.g they always endeavour to please their customers
+1. *engage* 引起/吸引，加入，有关系，订婚
+    - engage sympathy
+    - engaging somebody in the research process
+    - text that engage with fundamental human concerns
+1. *enterprise* 公司 *corporation* *company* *interpret* 解释
+1. *entrepreneur* 企业家
+1. *evolve* 进化 *evolution* e.g human and apes evolved from a same ancestor
+1. *exceed* 超过 *excess* 超过 *excessive* 过多的
+1. *execute* 执行 *executive* 执行的，行政的，主管 e.g executive committee 执行委员会
+1. *finance* 资金，资助 e.g the fund has been used mostly to finance the school
+1. *finding* 发现，结论
+1. *forth* 向前 *forward onward ahead advance* e.g ...paced back and forth
+1. *solid* 坚固的，实心的 *foundation* 基础 *solid foundation*
+1. *fulfil* 完成，履行 e.g be admitted into ...university fulfilled my childhood dream
+1. *guilt* 内疚，罪行 e.g we have evidence of his guilt
+1. *ideal* 理想的，完美的 e.g ...would be a ideal place for a vacation
+1. *illustrate* 阐明，说明 *clarify explain demonstrate* 
+1. *incentive* 刺激，鼓励(名词)  e.g food is always a incentive to train pet dogs
+1. *infrastructure* 基础设施
+1. *initiative* 提议，主动措施，创造力 
+    - take initiative to repairing relations
+    - propose a new initiative
+    - individual initiative 个人创造力
+1. *instinct* 直觉，本能，天赋 e.g ...natural instinct for survival
+1. *institute* *institution* 机构，协会 *institution* 还有制度的意思=*regulation*
+1. *interview* 面试，采访 
+1. *landscape* 风景

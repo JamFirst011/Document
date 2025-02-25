@@ -27,6 +27,7 @@
 
 1. $arcsin(sinx) = x$，$arccos$也是同样
 2. $sin(arccos(x)) = \sqrt{1-x^2}$ ，推导如下：
+
 $$
 \begin{equation}
 \begin{aligned}
@@ -37,7 +38,8 @@ $$
 \end{aligned} \notag
 \end{equation}
 $$
-3. $arcsin(sinx)$的图像是锯齿波，$sin(arcsinx)$的图像是一条斜率为1的直线，并且$x \in{[-1,1]}$
+
+3. $arcsin(sinx)$的图像是锯齿波，$sin(arcsinx)$的图像是一条斜率为1的直线，并且 $x \in{[-1,1]}$
 
 ### 函数极限
 

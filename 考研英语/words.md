@@ -163,7 +163,7 @@
 1. *track* 踪迹，轨道 e.g Follow the bear's track...
 1. *trace* 痕迹，追溯 e.g Let's trace back Chinese history...
 1. *trait* 特征 *property* *attibute* 属性，特征,归功于 e.g His success attribute to his persistense...
-1. *equivalent* 相等的，对应的 e.g This Chinese character has no equivalent in English 
+1. *equivalent* 相等的，对应的 e.g This Chinese character has no equivalent in English  *counterpart* 
 1. *vanish* *vanishment* 消失，灭亡 e.g The car was so fast that it vanish from my sight within seconds 
     - *extinct* 灭绝的 *endangered* 濒临灭绝的
 1. *variable* 可变的多变的，变量
@@ -299,3 +299,4 @@
 1. *scheme* 方案，计划
 1. *sector* 领域，部门 e.g manufacture sector 生产业
 1. *sequence* 顺序 e.g content should follow a logical sequence
+1. *approve* *approval* 批准，赞成

@@ -201,7 +201,7 @@
 1. *abuse* 滥用，虐待
 1. *acknowledge* 认可，承认 e.g acknowledge the force of his argument
 1. *affair* 事情 *matter* *business* 都指一般事情   *incident* 事件
-1. *alike* 相似的，相同的 e.g good management benefits staff and manager alike
+1. *alike* 相似的，相同的 e.g good management benefits staff and manager alike *likewise* 同样的
 1. *anticipate* 预料 *forecast* 预报
 1. *apoint* 任命，委派 *commission* *assign* 
 1. *arise* 出现，发生 e.g a new crisis has arised
@@ -271,3 +271,31 @@
 1. *interview* 面试，采访 
 1. *landscape* 风景
 1. *identity* 身份，特征 *status* 身份
+1. *lean* 依靠着，瘦的 e.g lean against the wall/lean muscle mass
+1. *lobby* 大厅
+1. *mass* 群众的，大量的，重量 e.g story of mass/body mass
+1. *minister* 部长
+1. *nevertheless* 尽管如此，然而
+1. *occupation* 职业，消遣 e.g Her main occupation is shopping
+1. *opponent* 对手 *component* 成分，部件
+1. *oppose* 反对，阻挠 e.g oppose the reintroduction of death penalty
+1. *panel* 镶嵌
+1. *patent* 专利
+1. *peer* 同辈的，仔细看 e.g opinions of his peers are more important than his parants' ideas
+1. *poll* 调查，投票 e.g somebody's poll findings show that...
+1. *pose* 造成，姿势 e.g The task poses no special problem
+1. *premium* 保险费，高级的 
+1. *quota* 定额 e.g impose quotas on the export of tea  *impose* 施加
+1. *quote* 引用 *cite*
+1. *recall* 记忆，想起
+1. *recognition* 认出，认可 *acknowledge*
+1. *recruit* 招募，动员 e.g recruit more volunteer
+1. *refer* 提到，参考 *referee* 裁判 e.g he referred to his recent traval in his speech
+1. *regard* 看待 e.g her work is highly regarded *regardless* 不管
+1. *relief* 如释负重，宽慰放心 e.g breathed a sign of relief
+1. *relieve* 缓解 *release* 发布，释放 e.g relieve the stress
+1. *retail* 零售
+1. *rival* 竞争对手 *opponent*
+1. *scheme* 方案，计划
+1. *sector* 领域，部门 e.g manufacture sector 生产业
+1. *sequence* 顺序 e.g content should follow a logical sequence

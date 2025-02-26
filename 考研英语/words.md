@@ -300,3 +300,48 @@
 1. *sector* 领域，部门 e.g manufacture sector 生产业
 1. *sequence* 顺序 e.g content should follow a logical sequence
 1. *approve* *approval* 批准，赞成
+1. *sharp* 锋利的，准时 e.g They arrived here at 6 sharp
+1. *skilled* 熟练的 *skilled at doing* 会什么
+1. *statistics* 统计数据 e.g collect the statistics to write the report
+1. *steady* *stable* 稳定的 e.g make steady progress
+1. *stem* 茎干，起源于 *stem from* 起源于 e.g development of sustainable power stems from government research
+1. *stick* 棍子，戳，粘住 *sticky* 黏黏的
+1. *stock* 库存，储备 e.g We have a large stock of toys
+1. *strike* 击打，罢工 e.g struck by a car
+1. *stuff* 东西
+1. *subtle* 精妙的，微妙的 e.g her paints are characterize by subtle color
+1. *supreme* 地位/权利的至高无上
+1. *tough* 艰苦的，坚韧的(形容人) 
+    - It can be tough to cultivate three children
+    - he is a tough guy
+1. *unemployment* 失业 e.g mass unemployment 大批失业
+1. *unlikely* 不太可能的
+1. *vast* 巨大的，庞大的 *mass massive substantial enormous*
+1. *wipe* 擦拭 e.g wipe your tears and be a real man
+1. *yield* 产生，产物，产量 e.g Hard work yields good resulte
+1. *agenda* 议题
+1. *monarch* 君主，帝王 *emperor*
+*tough* 艰苦的，坚韧的(形容人) 
+    - It can be tough to cultivate three children
+    - he is a tough guy
+1. *unemployment* 失业 e.g mass unemployment 大批失业
+1. *unlikely* 不太可能的
+1. *vast* 巨大的，庞大的 *mass massive substantial enormous*
+1. *wipe* 擦拭 e.g wipe your tears and be a real man
+1. *yield* 产生，产物，产量 e.g Hard work yields good resulte
+1. *agenda* 议题
+1. *monarch* 君主，帝王 *emperor*
+1. *auction* 拍卖
+1. *integrate* 融合 *combination* *integrity* 正直的 *dignity* 尊严
+1. *embody* 体现 e.g She embody her principle in her actions
+1. *canal* 运河，通道
+    - transported by canal
+    - birth canal
+1. *captive* 俘虏，被俘获的 e.g He remained captive to her beauty *despise* 鄙视，厌恶
+1. *concept* *conception* 观念 e.g He has a strange conception of friendship *recept reception* 接待
+1. *conceive* 构想，怀孕
+1. *recipient* 接受者 e.g recipient of some award
+1. *cast* 投射 e.g setting sun cast a orange light over mountains
+1. *conceal* 隐瞒，掩盖 e.g put a mask to conceal his identity *confine* 限制 *restrict curb* 限制 抑制
+1. *proceed* 继续做 e.g not sure if proceeding this work
+1. *predecessor* 前辈

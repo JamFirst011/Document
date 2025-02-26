@@ -290,13 +290,13 @@
 1. *recall* 记忆，想起
 1. *recognition* 认出，认可 *acknowledge*
 1. *recruit* 招募，动员 e.g recruit more volunteer
-1. *refer* 提到，参考 *referee* 裁判 e.g he referred to his recent traval in his speech
+1. *refer* 提到，参考 *referee* 裁判 e.g he referred to his recent traval in his speech *cite quote*
 1. *regard* 看待 e.g her work is highly regarded *regardless* 不管
-1. *relief* 如释负重，宽慰放心 e.g breathed a sign of relief
+1. *relief* 欣慰放心 e.g breathed a sign of relief
 1. *relieve* 缓解 *release* 发布，释放 e.g relieve the stress
 1. *retail* 零售
 1. *rival* 竞争对手 *opponent*
-1. *scheme* 方案，计划
+1. *scheme* 方案，计划  *theme* 主题
 1. *sector* 领域，部门 e.g manufacture sector 生产业
 1. *sequence* 顺序 e.g content should follow a logical sequence
 1. *approve* *approval* 批准，赞成
@@ -345,3 +345,9 @@
 1. *conceal* 隐瞒，掩盖 e.g put a mask to conceal his identity *confine* 限制 *restrict curb* 限制 抑制
 1. *proceed* 继续做 e.g not sure if proceeding this work
 1. *predecessor* 前辈
+1. *intention* 意图，目的
+1. *primary* 首要的，主要的，初级的
+1. *routine* 常规，日常，惯例
+1. *setting* 环境，设定
+1. *compulsory* 强制性的，义务
+1. *pose engage* 引起

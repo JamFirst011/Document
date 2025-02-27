@@ -250,7 +250,7 @@
 1. *enterprise* 公司 *corporation* *company* *interpret* 解释
 1. *entrepreneur* 企业家
 1. *evolve* 进化 *evolution* e.g human and apes evolved from a same ancestor
-1. *exceed* 超过 *excess* 超过 *excessive* 过多的
+1. *exceed* 超过 *excess excession* 过量 *excessive* 过多的
 1. *execute* 执行 *executive* 执行的，行政的，主管 e.g executive committee 执行委员会
 1. *finance* 资金，资助 e.g the fund has been used mostly to finance the school
 1. *finding* 发现，结论
@@ -398,3 +398,8 @@
 1. *ignore* *ignorant ignorance* 无知的
 1. *aggravate* 恶化,加剧 e.g Burning trash aggravate the air condition *aggregate* 总数
 1. *ingredient* 成分，原谅 e.g our skin cream contains only natural ingredient 
+1. *compose* 组成，撰写
+1. *thus* 因此 e.g university have expanded thus allowing more people a chance...
+1. *instruction* 指示，指导 e.g specific instruction
+1. *shortage scarcity* 缺乏
+1. 

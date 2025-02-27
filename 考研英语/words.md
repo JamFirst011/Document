@@ -351,3 +351,50 @@
 1. *setting* 环境，设定
 1. *compulsory* 强制性的，义务
 1. *pose engage* 引起
+1. *succession* 一连串的 e.g holiday was spoiled by a succession of rainy days
+1. *precede* 先于 e.g precede his lecture with a story
+1. *cease* 停止
+1. *excel* 擅长 *excellent* 出色的
+1. *census* 人口普查
+1. *charter* 许可 e.g ...was granted a charter to trade in the occupied territory *territory* 领土
+1. *chronic* 慢性的，长期的 e.g caused a chronic unemployment in the country
+1. *clarify* 澄清阐明 *clarity* 明确清晰 e.g any legislation require clarity
+1. *disclose* *reveal* 泄漏 e.g disclose any details of the deal
+1. *exclusive* 独家的，专有的 e.g hotel has exclusive access to the beach
+1. *colony* 殖民地
+1. *accordingly* 相应的 e.g teach different students accordingly
+1. *concrete* 具体的，混凝土 *specific*
+1. *curriculum* 全部课程
+1. *dense* 密集的 *density* 密度
+1. *dedicate* *devote* 致力于，献身 e.g she dedicate her life to science
+1. *contradict* 反驳 *contradictory* e.g Do not contradic your father
+1. *verdict* 裁决
+1. *mandate* 授权,指令 e.g was elected with a clear mandate to solve environmental pollution
+1. *paradox* 悖论
+1. *drastic* 激烈的 e.g drastic measures must be taken to ...
+1. *deduce* 推理 e.g deduce some incredible fact from subtle evidence
+1. *conductor* 指挥
+1. *durable* 耐用的
+1. *fare* 车费 e.g took a taxi home and split the fare
+1. *default* 默认的，违约 e.g corporation defaulted on its initial payment
+1. *favorable* 有利的，支持的 e.g have favorable response to the proposal so far
+1. *magnificent* 壮丽的 e.g magnificent scenery *scenery landscape* 风景
+1. *artefact* 人工制品
+1. *facility* 设施 *facilitate* 促进 *promote prompt*
+1. *interfere* 干涉 e.g I am an adult and do not try to interfere my choice
+1. *infer* 推断 *inference* 推论 
+1. *differentiate* 区分 e.g make a world that hard to differentiate fantasy from reality *distinguish*
+1. *fierce* 激烈的，凶猛的 e.g fierce attack
+1. *definite* 肯定的，确定的 e.g definite answer to this question
+1. *flourish* 繁荣 *boom prosperity*
+1. *formulate* 构想 e.g formulate an answer
+1. *fossil* 化石
+1. *fragrant* 香的 *fragrance* *fragment* 碎片 *fragile* 
+1. *fraction* 一小部分
+1. *diffuse* 散播 e.g waste gases diffuse into the atmosphere ...
+1. *garment* *clothes* 服装
+1. *giant* 巨人 *gigantic* 巨大的
+1. *cognitive* 认知的 e.g cognitive development/cognitive ability
+1. *ignore* *ignorant ignorance* 无知的
+1. *aggravate* 恶化,加剧 e.g Burning trash aggravate the air condition *aggregate* 总数
+1. *ingredient* 成分，原谅 e.g our skin cream contains only natural ingredient 

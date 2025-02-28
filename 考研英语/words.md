@@ -402,4 +402,33 @@
 1. *thus* 因此 e.g university have expanded thus allowing more people a chance...
 1. *instruction* 指示，指导 e.g specific instruction
 1. *shortage scarcity* 缺乏
-1. 
+1. *gross* 总的，粗略的 e.g investment showed a gross profit
+1. *inhabit* 居住  *inhabitant* 
+1. *coherent* 连贯的  e.g develop a coherent view of natural world
+1. *hesitate* 犹豫
+1. *hostile* 敌对的 *hostility* 敌意 *hospitable hospitality* 好客
+1. *hygiene* 卫生 e.g restaurant was forced to close because of terrible food hygiene
+1. *ideology* 意识形态，思想体系
+1. *inferior* 低级的 *superior* 高级的 
+1. *integrity* 正直
+1. *inject* 注入，充满 e.g Chemicals are injected into the fruit to...
+1. *juvenile* 青少年的 *adolescent* 
+1. *elaborate* 精妙的复杂的
+1. *legacy* 遗产
+1. *lever* 杠杆，操作杆 e.g it's not right to use friendship as a lever to obtain advancement
+1. *alliance* 联盟
+1. *oblige* 强迫 e.g felt oblige to leave *compel* 强迫的
+1. *catalogue* 目录 *category*
+1. *prolong*  延长 e.g the meeting may be prolonged into the nights
+1. *illusion* 幻觉，错觉 *delusion* 错觉,妄想 e.g can't distinguish reality and illusion
+1. *merit* 优点
+1. *prominent* 重要的
+1. *mutual* 共有的
+1. *commute* 通勤，减刑
+1. *nurture* 培养
+1. *opt* 选择
+1. *apartment* 公寓，房间 *department* 部门
+1. *passive* 被动的 e.g he played a passive role in the relationship
+1. *sympathetic* 同情的
+1. *propel* 推动
+1. *personnel* 人事部门，全体人员 

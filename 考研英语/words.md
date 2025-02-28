@@ -401,6 +401,9 @@
 1. *compose* 组成，撰写
 1. *thus* 因此 e.g university have expanded thus allowing more people a chance...
 1. *instruction* 指示，指导 e.g specific instruction
+
+***
+
 1. *shortage scarcity* 缺乏
 1. *gross* 总的，粗略的 e.g investment showed a gross profit
 1. *inhabit* 居住  *inhabitant* 
@@ -432,3 +435,8 @@
 1. *sympathetic* 同情的
 1. *propel* 推动
 1. *personnel* 人事部门，全体人员 
+1. *charter mandate permit consent* 许可
+1. *indifferent* 冷漠的
+1. *conceive formulate* 构想
+1. *succession coherent* 一连串的，连贯的
+1. 

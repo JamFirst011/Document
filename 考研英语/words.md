@@ -439,4 +439,58 @@
 1. *indifferent* 冷漠的
 1. *conceive formulate* 构想
 1. *succession coherent* 一连串的，连贯的
+
+***
+
+1. *depict* 描述
+1. *pile* 一摞 *pale* 苍白的
+1. *implicit* 含蓄的 e.g his seemingly friendly words were interpreted as an implicit threat
+1. *implement* 贯彻，实行 e.g a new work will be implemented
+1. *surplus* 过剩的
+1. *appointment* 任命，预约 e.g make an appointment with dentist
+1. *compound* 化合物
+1. *predator* 掠食者 e.g fierce predator like lions
+1. *compose comprise constitute consist composition* 组成
+1. *premier* 首要的，最著名的 e.g premier holiday destinations
+1. *acquaintance* 熟人
+1. *quest* 探索 e.g the quest of gold is hard *eplore* 探索
+1. *rage* 暴怒的 
+1. *thrive* 繁荣(v) *properity boom boost* e.g new enterprise thrive in this area
+1. *enrol* 加入
+1. *corrupt* 腐坏的
+    - corrupt executive
+    - corrupt landscape
+1. *interrupt* 插嘴，打断 
+1. *sanction* 制裁，处罚 e.g trade sanction *penalty punishment verdict* 惩罚，惩罚，判决
+1. *conscience* 良心 *conscious* 有意识的
+1. *scope* 范围 *extent range* 范围
+1. *scrutinize scrutiny* 仔细检查 
+1. *senate senator* 参议院，议员 
+1. *consensus* 共识 e.g There seems to be a consensus that the plan should be rejected
+1. *sensible wise* 明智的 
+1. *sentiment* 情绪
+1. *subsequent* 随后的
+1. *prosecute* 上诉
+1. *resident* 具名
+1. *instant* 立刻 *constant* 持续的
+1. *obstacle* 障碍 
+1. *persist persistent persistence insist* 坚持
+1. *substitute* 代替
+1. *sole* = *only* e.g she is the sole surviving member of the accident
+1. *solidate consolidate consolidation* 巩固 e.g consolidate her power
+1. *resort* 采取 e.g solve this problem without resorting violence
+1. *spacious* 广阔的
+1. *sphere hemisphere* 球 半球
+1. *correspond consistent* 一致的
+1. *inspect* 检查 e.g inspect their work
+1. *stern* 严酷的 e.g police are planning sterner measures to combat crime
+1. *statute* 法令，法律 *law legislation* 
+1. *curb restrain restraint* 抑制，克制 e.g his rage was beyond restraint
+1. *constrain restrict curb* 限制 e.g Climate constrain the growth of rice
+1. *superiority* 优势，优越感
+1. *maintenance* 维护，维修 e.t this machinery needs constant maintenance
+1. *attain* 达到
+1. *tempt* 引诱，诱惑 e.g I was tempted by the dessert menu
+1. *contempt* 轻视 *despice* 鄙视
+1. *contend* 声称，竞争 e.g John has to contend with great difficulties
 1. 

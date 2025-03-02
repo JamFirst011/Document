@@ -149,7 +149,7 @@
 143. *constitute* 组成，相当于 *constitution* 宪法，组成 *institute* 协会，建立
 144. *strain* 拉伤，紧张，筋疲力尽 e.g I strained my back yesterday
 145. *assure* 保证，查明 e.g The captain assure the sailors of their safety
-146. *demonstate* 证明，显露 e.g ...say demonstrating talent in at least one...
+146. *demonstate* 证明，显露 e.g ...say demonstrating talent in at least one... *verify*
 1. *attach* 附属，附上的
     - I attached a copy of my notes for you
     - This tag has been attached to them...
@@ -160,7 +160,7 @@
 152. *tension* 紧张(局势) e.g ...told a joke to ease the tension...
 1. *intense* 强度很高的 e.g This works demands intense concentration
 1. *entitle* 给...权利,享有，命名 e.g You will be entitled to your pension when... 
-1. *track* 踪迹，轨道 e.g Follow the bear's track...
+1. *track* 踪迹，轨道 e.g Follow the bear's track... *trail* 踪迹，痕迹
 1. *trace* 痕迹，追溯 e.g Let's trace back Chinese history...
 1. *trait* 特征 *property* *attibute* 属性，特征,归功于 e.g His success attribute to his persistense...
 1. *equivalent* 相等的，对应的 e.g This Chinese character has no equivalent in English  *counterpart* 
@@ -493,4 +493,47 @@
 1. *tempt* 引诱，诱惑 e.g I was tempted by the dessert menu
 1. *contempt* 轻视 *despice* 鄙视
 1. *contend* 声称，竞争 e.g John has to contend with great difficulties
-1. 
+
+***
+
+1. *extensive* 广阔的
+1. *territory* 领土 e.g The mountains is in Chinese territory
+1. *protest* 抗议，反对 e.g protest against the initiative/decision/measure
+1. *thesis* 论文,命题
+1. *tone* 语气，音色 *tune* 音调
+1. *distort* 歪曲 e.g distort the truth
+1. *portray* 描绘 e.g The novel portray a strong femail character
+1. *extract* 取出 e.g extract a notebook from her bag 
+1. *distract* 分心 e.g Children are so easily distract
+1. *intuition* 直觉 e.g trusts his intuition when facing dilemma *tuition* 学费 *instinct*
+1. *disturb* 打扰
+1. *suburb* 郊区 *rural* 
+1. *utilize* 利用，使用 *util* 工具
+1. *evade* 避开 e.g change to another topic to evade this embarrassing question
+1. *vague* 模糊的 *vigor vitality* 活力 *obscure* 模糊 *vivid* 清晰的
+1. *vain* 徒劳 e.g closed her eyes in a vain attempt to hold back the tears
+1. *intervene* 干涉，干预 *interfere*
+1. *convert* 转化
+1. *conviction* 深信，定罪 e.g I have the conviction that he is right *convict* 定罪
+1. *supervise* 监督
+1. *revise* 修改，复习 *revision*  *review* 审查
+1. *advisable* 明智的
+1. *revive* 苏醒，复活
+1. *provoke* 引起，刺激 e.g this article was intend to provoke discussion
+1. *revolve* 旋转
+1. *membership* 会员 e.g membership in this club is restricted to men under 30
+1. *outlet* 出口
+1. *overturn* 推翻 e.g my opinion/perspective is overturn
+1. *setback* 倒退 e.g economy suffered a severe setback
+1. *straightforward* 简单的
+1. *underline* 构成继承 e.g is there any common factor underline these apparently contradictory
+1. *undertake* 着手做，从事
+1. *upgrade* 升级
+1. *alert* 机敏的，警惕的 e.g his mind is remarkably alert
+1. *allowance* 津贴
+1. *altogether* 完全 e.g the train stop altogether *thotough* 彻底
+1. *automobile* 汽车
+1. *beam* 光线，笑容
+    - grope my way in the weak beam of the flashlight
+    - he beamed his approval of the new idea
+1. *bid* 努力争取 e.g several firms have bid for the contract to build new concert hall

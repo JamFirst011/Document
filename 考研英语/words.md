@@ -428,7 +428,7 @@
 1. *prominent* 重要的
 1. *mutual* 共有的
 1. *commute* 通勤，减刑
-1. *nurture* 培养
+1. *nurture* 培养 cultivate
 1. *opt* 选择
 1. *apartment* 公寓，房间 *department* 部门
 1. *passive* 被动的 e.g he played a passive role in the relationship
@@ -442,7 +442,7 @@
 
 ***
 
-1. *depict* 描述
+1. *depict* 描述 *portray* 描绘
 1. *pile* 一摞 *pale* 苍白的
 1. *implicit* 含蓄的 e.g his seemingly friendly words were interpreted as an implicit threat
 1. *implement* 贯彻，实行 e.g a new work will be implemented
@@ -457,7 +457,7 @@
 1. *rage* 暴怒的 
 1. *thrive* 繁荣(v) *properity boom boost* e.g new enterprise thrive in this area
 1. *enrol* 加入
-1. *corrupt* 腐坏的
+1. *corrupt* 腐坏的,腐败的
     - corrupt executive
     - corrupt landscape
 1. *interrupt* 插嘴，打断 
@@ -471,7 +471,7 @@
 1. *sentiment* 情绪
 1. *subsequent* 随后的
 1. *prosecute* 上诉
-1. *resident* 具名
+1. *resident* 居民
 1. *instant* 立刻 *constant* 持续的
 1. *obstacle* 障碍 
 1. *persist persistent persistence insist* 坚持
@@ -537,3 +537,48 @@
     - grope my way in the weak beam of the flashlight
     - he beamed his approval of the new idea
 1. *bid* 努力争取 e.g several firms have bid for the contract to build new concert hall
+1. *integrity* 正直，完整 e.g territory integrity
+
+***
+
+1. *bold* 勇敢的 *bald* 秃的
+1. *bulk* 大部分，大的 e.g the bulk of traffic has passed
+1. *cater* 迎合 e.g He has to cater for his boss
+1. *chamber* 议事厅，房间 
+1. *principal chancellor headmaster* 校长 *dean* 院长
+1. *cheque* 支票
+1. *comply* 服从 e.g She was told to pay the fine, but she refuse to comply
+1. *correlate* 关联，关联的事物 e.g ...correlate witt...
+1. *courtesy* 礼貌，客气 
+1. *cue* 线索，提示，信号 e.g they start washing up, so that was our cue to leave
+1. *cunning* 狡猾
+1. *deem* 认为 = think
+1. *deploy* 部署，有效利用 e.g you can fully deploy your talent in this position
+1. *exploit* 开发，剥削
+1. *desert*  沙漠，抛弃 *abandon* *discard* 
+1. *diligent* 刻苦的
+1. *doom* 死亡，毁灭，注定失败 e.g the city was doomed to fall beacause of enemy's overwhelming forces
+1. *drought* 干旱 e.g severe drought
+1. *elementary* 基本的，初级的 *fundamental*
+1. *entail* 蕴含 e.g a job that would entail a lot of travelling
+1. *exert* 用，施加 e.g I exert all my strength to move the box
+1. *fetch* 拿来 e.g go and fetch a doctor for me
+1. *flaw* 缺陷 *flawless* 完美无缺的 
+1. *foster* 培养 e.g foster my habit of...
+1. *frank* 坦白的，直率的 e.g The CEO was frank about the situation
+1. *furnace* 炉子
+1. *furnish* 布置 e.g the hotel staff furnish the room before guests checked in
+1. *gaze* 凝视 *glance glimpse* 扫视,一瞥
+1. *genuine* 真诚的 
+1. *hail* 赞美 e.g hail hydra:)
+1. *harbour* 港口
+1. *harsh* 残酷的 e.g the punishment/sanction/verdict is harsh and unfair
+1. *incidentally* 顺便，偶然 e.g ...was dicover incidentally
+1. *initiate* 开始实施
+1. *keen* 渴望 e.g She is always keen to help
+1. *layer* 层
+1. *lest* 以免 e.g they speak in whisper lest they should be heard
+1. *loom* 隐约出现 e.g black clouds looming on the horizon indicated a thunderstorm
+1. *upright* 正直的
+1. *lure* 诱惑 e.g the lure of fame and money tends to make people commit crime *tempt*诱惑
+1. *mayor* 市长

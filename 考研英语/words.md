@@ -526,12 +526,12 @@
 1. *overturn* 推翻 e.g my opinion/perspective is overturn
 1. *setback* 倒退 e.g economy suffered a severe setback
 1. *straightforward* 简单的
-1. *underline* 构成继承 e.g is there any common factor underline these apparently contradictory
+1. *underlie* 构成基础 e.g is there any common factor underline these apparently contradictory
 1. *undertake* 着手做，从事
 1. *upgrade* 升级
 1. *alert* 机敏的，警惕的 e.g his mind is remarkably alert
 1. *allowance* 津贴
-1. *altogether* 完全 e.g the train stop altogether *thotough* 彻底
+1. *altogether* 完全 e.g the train stop altogether *thorough* 彻底
 1. *automobile* 汽车
 1. *beam* 光线，笑容
     - grope my way in the weak beam of the flashlight
@@ -582,3 +582,6 @@
 1. *upright* 正直的
 1. *lure* 诱惑 e.g the lure of fame and money tends to make people commit crime *tempt*诱惑
 1. *mayor* 市长
+1. *censorship* 审查
+1. *sociable* 友好的
+1. 

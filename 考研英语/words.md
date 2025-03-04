@@ -584,4 +584,49 @@
 1. *mayor* 市长
 1. *censorship* 审查
 1. *sociable* 友好的
-1. 
+
+***
+
+1. *medium* 中等的，媒体 
+1. *mock* 嘲笑 e.g They mocked at this idea
+1. *momentum* 势头 e.g gather momentum for the president candidate
+1. *monetary* 金融的 e.g monetary policy
+1. *noble* 高尚的，贵族
+1. *nonetheless* 尽管 *despite although*
+1. *offspring* 子女，后代
+1. *pearl* 珍珠
+1. *plain* 平原，清楚的
+1. *pledge* 保证，承诺 
+1. *poison poisonous* 有毒的
+1. *provided* 假如 *if* e.g He can join us provided he pays his own trip
+1. *prudent prudential* 谨慎的 e.g it might be more prudent to get second opinion before... *cautious*
+1. *readily* 欣然的 e.g she readily agree
+1. *reap* 获得
+1. *rear* 后面的，培养
+1. *reckon* 认为，估计，当作 
+1. *rough* 粗糙的 e.g the cloth is so rough...
+1. *scarce scarcity* 缺乏的，缺乏 *scarcely* 几乎不，表否定 e.g these changes were gradual and at first scarcely visible
+1. *sculpture* 雕塑品
+1. *shrink* 收缩
+1. *shuttle* 航天飞机
+1. *sketch* 草图
+1. *slight* 少量的，有点 e.g slight hesitancy 有点犹豫
+1. *snap* 断裂，匆忙的
+1. *spark* 火花，触发
+1. *spite* 恶意 e.g he did that out of spite *in spite of* 尽管
+1. *spoil* 溺爱，毁坏 e.g grandparents spoil their...
+1. *stake* 股份
+1. *supplement* 补充，补贴 e.g supplement one's income
+1. *surname* 姓
+1. *tackle* 处理   e.g tackle the problem
+1. *tactic* 策略，战术 e.g strategy
+1. *tidy* 整洁的 e.g he keep his flat tidy
+1. *twist* 弯曲，扭曲，转折 
+    - her hair was twist
+    - you know every twist
+1. *underlying* 潜在的，根本的 *potential radical inherent*
+1. *vessel* 船，血管 e.g blood vessel
+1. *vice* 坏习惯，副的 e.g Virtue and vice are two diffenrent things
+1. *warrant* 授权
+1. *acute* 严重的，敏感的
+1. *agony* 极度痛苦 e.g the poor husband still can't recover from the agony of losing her wife

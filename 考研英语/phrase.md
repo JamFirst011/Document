@@ -2,3 +2,4 @@
 1. *by convention* 按照惯例
 1. *account for* 占比
 1. *regard as* 视作
+1. *at stake* 处于危险

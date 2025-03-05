@@ -601,7 +601,7 @@
 1. *provided* 假如 *if* e.g He can join us provided he pays his own trip
 1. *prudent prudential* 谨慎的 e.g it might be more prudent to get second opinion before... *cautious*
 1. *readily* 欣然的 e.g she readily agree
-1. *reap* 获得
+1. *reap* 获得 *acquire obtain*
 1. *rear* 后面的，培养
 1. *reckon* 认为，估计，当作 
 1. *rough* 粗糙的 e.g the cloth is so rough...
@@ -677,4 +677,4 @@
 1. *frontier* 边境 e.g harsh realities of the frontier also shaped this tradition of hospitality
 1. *refute contradict couter* 反驳  e.g the president refuted the rumor in front of the crowd *rumor*谣言
 1. *genre* 艺术体裁类型 e.g musical genre
-1. 
+1. *stretch* 

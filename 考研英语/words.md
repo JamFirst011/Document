@@ -630,3 +630,51 @@
 1. *warrant* 授权
 1. *acute* 严重的，敏感的
 1. *agony* 极度痛苦 e.g the poor husband still can't recover from the agony of losing her wife
+
+***
+
+1. *augment* 扩大，增加 e.g in order to augment his income
+1. *authentic* 真正的 e.g the painting is authentic
+1. *rebel* 反叛者 e.g the rebel has been arrested by the police/military
+1. *carrier* 携带者，运营商 e.g this company is the largest wireless carrier
+1. *precaution* 预防措施 e.g safety precaution
+1. *susceptible* 物理上敏感的，脆弱的 e.g newly born babies are susceptible
+1. *receipt* 发票，收据
+1. *discern* 发现，识别 e.g discern that the man was lying
+1. *concession* 让步 e.g we will make some concession in price *recession*
+1. *decisive* 决定性的
+1. *concise* 简洁的 *brief* 简短地
+1. *coalition* 联合 e.g coalition government 
+1. *consult consultant* 顾问
+1. *incorporate* 纳入 e.g your new initial has been incorporate in the new plan
+1. *discriminate* 歧视 *contempt* 蔑视 *despise* 鄙视
+1. *incur* 招致，引起 e.g the play that mock gay incurred the rage of audience
+1. *recur* 再次发生，周期发生 e.g caused a recurring headache
+1. *discourse* 演讲，文章段落 *speech lecture*
+1. *decent* 体面的 e.g find a decent job
+1. *demographic* 人口的 e.g demographic policy
+1. *condense* 凝结，浓缩 e.g vapor condenses into water on high pressure
+1. *deteriorate* 恶化变坏 e.g health has been deteriorating since he got lung cancer
+1. *indignation* 愤怒 *rage* e.g the news roused great indignation
+1. *dividend* 红利
+1. *anecdote* 轶事，传闻 e.g He told me some anecdotes
+1. *induce* 诱导，促使 
+1. *exemplify* 是...的例子 e.g this painting exemplify the artist's early style
+1. *exempt* 免除 e.g exempt from military service
+1. *essence* 本质，精髓 e.g speed is of the essence in dealing with an emergency
+1. *preface* 前言
+1. *fatigue* 疲倦 e.g driver fatigue caused this accident
+1. *confer* 授予 e.g the university confer an honorary degree to...
+1. *sufficient deficient deficiency* 足够/缺乏
+1. *superficial shallow* 肤浅的，表面的 e.g he is too superficial to appreciate greate literature like this
+1. *feasible advisable* 可行的 e.g it is feasible to stimulate investment in the service section
+1. *confidential* 机密的，绝密的
+1. *fiscal* 财政的 e.g fiscal year 财年
+1. *excessivve overflowing superfluous surplus* 多余的
+1. *fluctuate* 波动
+1. *implement enforce* 强制实行
+1. *conform* 遵从 e.g I have to conform foolish convention
+1. *frontier* 边境 e.g harsh realities of the frontier also shaped this tradition of hospitality
+1. *refute contradict couter* 反驳  e.g the president refuted the rumor in front of the crowd *rumor*谣言
+1. *genre* 艺术体裁类型 e.g musical genre
+1. 

@@ -453,10 +453,10 @@
 1. *compose comprise constitute consist composition* 组成
 1. *premier* 首要的，最著名的 e.g premier holiday destinations
 1. *acquaintance* 熟人
-1. *quest* 探索 e.g the quest of gold is hard *eplore* 探索
+1. *quest* 探索 e.g the quest of gold is hard *explore venture* 探索
 1. *rage* 暴怒的 
 1. *thrive* 繁荣(v) *properity boom boost* e.g new enterprise thrive in this area
-1. *enrol* 加入
+1. *enrol* 加入，注册
 1. *corrupt* 腐坏的,腐败的
     - corrupt executive
     - corrupt landscape
@@ -479,7 +479,7 @@
 1. *sole* = *only* e.g she is the sole surviving member of the accident
 1. *solidate consolidate consolidation* 巩固 e.g consolidate her power
 1. *resort* 采取 e.g solve this problem without resorting violence
-1. *spacious* 广阔的
+1. *spacious* 广阔的 *extensive*
 1. *sphere hemisphere* 球 半球
 1. *correspond consistent* 一致的
 1. *inspect* 检查 e.g inspect their work
@@ -516,8 +516,8 @@
 1. *convert* 转化
 1. *conviction* 深信，定罪 e.g I have the conviction that he is right *convict* 定罪
 1. *supervise* 监督
-1. *revise* 修改，复习 *revision*  *review* 审查
-1. *advisable* 明智的
+1. *revise* 修改，复习 *revision*  *review* 审查,复习，评论，回顾
+1. *advisable* 可取的，明智的
 1. *revive* 苏醒，复活
 1. *provoke* 引起，刺激 e.g this article was intend to provoke discussion
 1. *revolve* 旋转
@@ -548,7 +548,7 @@
 1. *principal chancellor headmaster* 校长 *dean* 院长
 1. *cheque* 支票
 1. *comply* 服从 e.g She was told to pay the fine, but she refuse to comply
-1. *correlate* 关联，关联的事物 e.g ...correlate witt...
+1. *correlate* 关联，关联的事物 e.g ...correlate with...
 1. *courtesy* 礼貌，客气 
 1. *cue* 线索，提示，信号 e.g they start washing up, so that was our cue to leave
 1. *cunning* 狡猾
@@ -582,7 +582,7 @@
 1. *upright* 正直的
 1. *lure* 诱惑 e.g the lure of fame and money tends to make people commit crime *tempt*诱惑
 1. *mayor* 市长
-1. *censorship* 审查
+1. *censorship censor* 审查
 1. *sociable* 友好的
 
 ***
@@ -611,14 +611,14 @@
 1. *shuttle* 航天飞机
 1. *sketch* 草图
 1. *slight* 少量的，有点 e.g slight hesitancy 有点犹豫
-1. *snap* 断裂，匆忙的
+1. *snap* 断裂，匆忙的 e.g make snap decision 当机立断
 1. *spark* 火花，触发
 1. *spite* 恶意 e.g he did that out of spite *in spite of* 尽管
 1. *spoil* 溺爱，毁坏 e.g grandparents spoil their...
 1. *stake* 股份
 1. *supplement* 补充，补贴 e.g supplement one's income
 1. *surname* 姓
-1. *tackle* 处理   e.g tackle the problem
+1. *tackle handle* 处理   e.g tackle the problem
 1. *tactic* 策略，战术 e.g strategy
 1. *tidy* 整洁的 e.g he keep his flat tidy
 1. *twist* 弯曲，扭曲，转折 
@@ -627,7 +627,7 @@
 1. *underlying* 潜在的，根本的 *potential radical inherent*
 1. *vessel* 船，血管 e.g blood vessel
 1. *vice* 坏习惯，副的 e.g Virtue and vice are two diffenrent things
-1. *warrant* 授权
+1. *warrant mandate* 授权
 1. *acute* 严重的，敏感的
 1. *agony* 极度痛苦 e.g the poor husband still can't recover from the agony of losing her wife
 
@@ -635,7 +635,7 @@
 
 1. *augment* 扩大，增加 e.g in order to augment his income
 1. *authentic* 真正的 e.g the painting is authentic
-1. *rebel* 反叛者 e.g the rebel has been arrested by the police/military
+1. *rebel* 反叛者 e.g the rebel has been arrested by the police/military *repel* 击退
 1. *carrier* 携带者，运营商 e.g this company is the largest wireless carrier
 1. *precaution* 预防措施 e.g safety precaution
 1. *susceptible* 物理上敏感的，脆弱的 e.g newly born babies are susceptible
@@ -646,16 +646,16 @@
 1. *concise* 简洁的 *brief* 简短地
 1. *coalition* 联合 e.g coalition government 
 1. *consult consultant* 顾问
-1. *incorporate* 纳入 e.g your new initial has been incorporate in the new plan
+1. *incorporate* 纳入 e.g your new initiative has been incorporate in the new plan
 1. *discriminate* 歧视 *contempt* 蔑视 *despise* 鄙视
 1. *incur* 招致，引起 e.g the play that mock gay incurred the rage of audience
 1. *recur* 再次发生，周期发生 e.g caused a recurring headache
 1. *discourse* 演讲，文章段落 *speech lecture*
 1. *decent* 体面的 e.g find a decent job
 1. *demographic* 人口的 e.g demographic policy
-1. *condense* 凝结，浓缩 e.g vapor condenses into water on high pressure
+1. *condense* 凝结，浓缩 e.g vapor condenses into water on high pressure *shrink* 收缩
 1. *deteriorate* 恶化变坏 e.g health has been deteriorating since he got lung cancer
-1. *indignation* 愤怒 *rage* e.g the news roused great indignation
+1. *indignation* 愤怒 *rage annoy annoyance* e.g the news roused great indignation
 1. *dividend* 红利
 1. *anecdote* 轶事，传闻 e.g He told me some anecdotes
 1. *induce* 诱导，促使 
@@ -670,10 +670,10 @@
 1. *feasible advisable* 可行的 e.g it is feasible to stimulate investment in the service section
 1. *confidential* 机密的，绝密的
 1. *fiscal* 财政的 e.g fiscal year 财年
-1. *excessivve overflowing superfluous surplus* 多余的
+1. *excessive overflowing superfluous surplus* 多余的
 1. *fluctuate* 波动
 1. *implement enforce* 强制实行
-1. *conform* 遵从 e.g I have to conform foolish convention
+1. *conform* 遵从 e.g I have to conform foolish convention *comply* 遵从
 1. *frontier* 边境 e.g harsh realities of the frontier also shaped this tradition of hospitality
 1. *refute contradict couter* 反驳  e.g the president refuted the rumor in front of the crowd *rumor*谣言
 1. *genre* 艺术体裁类型 e.g musical genre
@@ -682,6 +682,7 @@
 ***
 
 1. *adhere* 坚持 e.g for ten months he adhere to strick no-fat diet
+1. *saving* 存款，节约 e.g this young man spent all his saving on an expensive house
 1. *heritage estate legacy* 遗产 e.g cultural heritage
 1. *identical* 相同的 e.g This is the identical hotel we stayed last year
 1. *imperative* 及其重要的事 e.g improving the economy is a polical imperative for the new prisident
@@ -737,4 +738,4 @@
 1. *applicable* 适用的 e.g new medicare is only applicable to senior citizens
 1. *postpone* 推迟 e.g postpone the metting untile next week
 1. *disposition* 性格，倾向 
-1. 
+1. *offense* 罪行 

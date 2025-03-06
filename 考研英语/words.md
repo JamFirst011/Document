@@ -66,7 +66,7 @@
 64. jury 陪审团
 65. justify 证明，提供依据
 66. collapse 坍塌，崩溃，昏倒
-67. neglect 疏忽,忽视 e.g staff was fired for neglecting their duties *overlook* 忽视，俯视
+67. neglect 疏忽,忽视 e.g staff was fired for neglecting their duties *overlook* 忽视，俯视 *omit* 
 68. *collective* 集体的，共同的
 69. *lecture* 讲座
 70. *liability* 责任(特指法律责任)，义务，负债 *obligation* 责任
@@ -93,7 +93,7 @@
 89. *promote* 促进 *prompt* 迅速的，促进，提示，提示符
 90. *immune* 免疫的 *immune system* 免疫系统 *immunity* 免疫力
 91. *renaissance* 复兴
-92. *enormous* *massive* 巨大的 *abundant* 大量丰富的 *substantial* 大量的
+92. *enormous* *massive* 巨大的 *abundant* 大量丰富的 *substantial immense* 大量的 
 93. *obscure* 模糊的，费解的
 94. *adopt* 采纳，收养
 95. *impact* 显著影响，冲击
@@ -677,4 +677,64 @@
 1. *frontier* 边境 e.g harsh realities of the frontier also shaped this tradition of hospitality
 1. *refute contradict couter* 反驳  e.g the president refuted the rumor in front of the crowd *rumor*谣言
 1. *genre* 艺术体裁类型 e.g musical genre
-1. *stretch* 
+1. *stretch* 撑大，拉伸
+
+***
+
+1. *adhere* 坚持 e.g for ten months he adhere to strick no-fat diet
+1. *heritage estate legacy* 遗产 e.g cultural heritage
+1. *identical* 相同的 e.g This is the identical hotel we stayed last year
+1. *imperative* 及其重要的事 e.g improving the economy is a polical imperative for the new prisident
+1. *irony* 讽刺 e.g She said it with a hint of irony
+1. *isolate* 隔离 e.g many people are isolated for observation during the outbreak of the flu
+1. *peninsula* 半岛 e.g Kerean peninsula
+1. *conjunction* 同时发生,协作 e.g the university work in conjunction with police to...
+1. *jurisdiction* 管辖权 e.g the domestic police have no jurisdiction over foreign bank accounts
+1. *lateral* 侧面的，平级的 e.g the wall is weak so it requires lateral support
+1. *liberty* e.g he had to endure six month's loss of liberty
+1. *eligible* 有资格 e.g who pass the backgroung check are eligible to use expedited screening lane
+1. *align* 对齐，结盟 *alliance alignment* 结盟 e.g What strike government is that church leaders align themselves with the opposition
+1. *preliminary* 初步的 *init* e.g preliminary result confirm the scientists' prediction/assumption
+1. *illiterate* 文盲的
+1. *analog* 模拟 *analogy* 类比，比喻 e.g He draw a conclusion on the analogy of yours
+1. *lucrative* 赚大钱的 e.g he inherited a lucrative business from his uncle
+1. *paralyse* 瘫痪，失去功能 e.g the car accident left her paralysed on both legs
+1. *manufacture* 生产，制造
+1. *marginal* 边缘的 e.g This once imperative group is now becoming more and more marginal
+1. *marine* 海洋的 e.g marine creature
+1. *masculine* 具有男性气质的 e.g pink was actually considered the more masculine colour, a pastel version of red...
+1. *remedy* 方法，补救 e.g by the time the problem has been addressed and remedied... *mend* 修补
+1. *immerse* 沉浸在 e.g he immersed himself totally in his work *immense*
+1. *migrate* 迁徙 *emigrate immigrate* 移民
+1. *premise* 前提 e.g based on the premise stated earlier
+1. *emit* 发出，排放 e.g The new device can emit bright and powerful light
+1. *naive* 幼稚的 
+1. *negligible* 微不足道的 e.g the damage to my car is negligible
+1. *neutral* 中立的 e.g A judge must remain neutral *neural* 神经的
+1. *denote* 象征 e.g denote pleasure and friendship
+1. *novelty* 新奇的 e.g she was fond of novelty
+1. *anonymous* 匿名的 e.g He received an anonymous phone call
+1. *operational* 经营的，运行的 e.g the high operatoinal expenses forced the manager to reconsider the plan
+1. *subordinate* 隶属的，下属 e.g all other issue are subordinate to this one
+1. *cooperate coordinate* 合作
+1. *ornament* 装饰品 e.g There is an ornamen made of shell on the wall
+1. *transparent* 透明的，清楚易懂的 e.g The insect's wings are almost transparent
+1. *particle* 粒子，微粒
+1. *repel* 击退，驱除，使厌恶 e.g 
+    - Her rudeness repel everyone
+    - They try to repel their enemy
+1. *compulsory* 强制的 e.g it seems clear that such a schema is an initiative push toward what would eventually be a compulsory...mentality
+1. *expenditure* 支出 e.g public expenditure
+1. *appetite* 胃口，欲望 e.g gave me good appetite
+1. *competent* 胜任的，称职的 e.g competent teacher...
+1. *peerpetual* 不间断的 e.g she's tired of their perpetual complaints
+1. *compile* 收集 e.g the committee should compile a list of all its members
+1. *empirical* 经验主义的 e.g empirical research
+1. *transplant* 移植，迁移 e.g patients reject transplanted organs
+1. *plausible reasonable* 合理的
+1. *duplicate* 复制 
+1. *compliment* 赞扬 *praise*
+1. *applicable* 适用的 e.g new medicare is only applicable to senior citizens
+1. *postpone* 推迟 e.g postpone the metting untile next week
+1. *disposition* 性格，倾向 
+1. 

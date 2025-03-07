@@ -739,3 +739,48 @@
 1. *postpone* 推迟 e.g postpone the metting untile next week
 1. *disposition* 性格，倾向 
 1. *offense* 罪行 
+
+***
+
+1. *practitioner* 实践者，从业者 e.g the passenger who had a heart attack on the plane was saved by a medical practitioner
+1. *probe* 探查 e.g he probed the mud with a stick, looking for his ring
+1. *prone* 容易发生 e.g skin exposed to sunlight for a long time is prone to cancer
+1. *rational* 合理的 *reasonable* e.g rational explanation for his actions
+1. *erect* 建造，搭起 e.g Police had to erect barriers to keep crowds back
+1. *regime* 政权 e.g Our tax regime is one of the most favorable in Europe
+1. *abrupt* 突然的，不流畅的 e.g His abrupt change of subject puzzled us all
+1. *erupt* 爆发 e.g ash begin to erupt from the crater 
+1. *sacred* 神圣的 e.g Cows are sacred for most Indian people
+1. *descendant* 后裔 e.g Many of them are descendant of the original settlers
+1. *prescribe* 开药 e.g as long as a doctor prescribe a drug for a legitimate medical purpose... *prescription* 处方
+1. *assembly* 议会 e.g The local assembly will hold a meeting this Friday
+1. *assimilate* 同化 e.g it may take a long time for the new immigrants to assimilate into the new culture
+1. *resent* 怨恨
+1. *preside* 掌管，主持 e.g They asked if I would preside at the ceremony
+1. *obsession* 痴迷 e.g obsession with alcohol...
+1. *designate* 定为 e.g she was designated sportswoman of the year
+1. *consistent constant* 持续的 e.g consistent improvement
+1. *resolute* 坚决的 *resolution* 决心 e.g she made a resolution to lose weight
+1. *sophisticated* 牛逼的，精密的 e.g sophisticated machine
+1. *conspicuous* 显眼的 e.g his conspicuous red hair made him...
+1. *spontaneous* 自发的 e.g the greeted him with spontaneous
+1. *correspondent journalist* 记者
+1. *stationary* 静止的 e.g bus collided with a stationary vehicle
+1. *absurd* 荒谬的 e.g what she said on class is absurd
+1. *ditach* 脱离 e.g I tried to detach myself from the reality of these terrible events
+1. *tangible* 明确的 e.g we need tangible evidence of John's guilt
+1. *tedious* 单调的 e.g this tedious lecture make students sleepy
+1. *contemplate* *consider* 考虑 
+1. *tentative* 暂定的，犹豫不决的 e.g we made a tentative arrangement to meet on Friday
+1. *therapy* 疗法 
+1. *intricate complex complicated* 复杂的 e.g the curtain has an intricate pattern on it
+1. *turbulent* 动荡的 e.g he had a turbulent political career after entering pailiament
+1. *abound* 大量存在 e.g there are many forests that abound with wild animals in Northwest China
+1. *vacant* 空着的 e.g sold her vacant apartment in suburb
+1. *extravagant* 奢侈的 e.g I was embarrassed by all the extravagant praise/compliment I was getting
+1. *prevail* 流行
+1. *converge* 聚集 e.g people converged from all over the country to watch the final
+1. *invert* 颠倒 
+1. *divert* 分心 *distract*
+1. *conversely* 相反的  *abtrast*
+1. 

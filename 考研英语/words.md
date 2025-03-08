@@ -511,13 +511,13 @@
 1. *utilize* 利用，使用 *util* 工具
 1. *evade* 避开 e.g change to another topic to evade this embarrassing question
 1. *vague* 模糊的 *vigor vitality* 活力 *obscure* 模糊 *vivid* 清晰的
-1. *vain* 徒劳 e.g closed her eyes in a vain attempt to hold back the tears
+1. *vain* 徒劳 e.g closed her eyes in a vain attempt to hold back the tears *vein* 血管，静脉 
 1. *intervene* 干涉，干预 *interfere*
 1. *convert* 转化
 1. *conviction* 深信，定罪 e.g I have the conviction that he is right *convict* 定罪
 1. *supervise* 监督
 1. *revise* 修改，复习 *revision*  *review* 审查,复习，评论，回顾
-1. *advisable* 可取的，明智的
+1. *advisable* 可取的，明智的 *reasonable plausible*
 1. *revive* 苏醒，复活
 1. *provoke* 引起，刺激 e.g this article was intend to provoke discussion
 1. *revolve* 旋转
@@ -739,6 +739,49 @@
 1. *postpone* 推迟 e.g postpone the metting untile next week
 1. *disposition* 性格，倾向 
 1. *offense* 罪行 
+
+***
+
+1. *virgin* 为开发的 e.g within 40 years there will be no virgin forest left
+1. *breakdown* 崩溃 e.g both sides were blamed for the breakdown of talks
+1. *drawback* 缺点 *shortage disadvantage*
+1. *foremost* 最杰出的，首要的 e.g Newton was foremost expert in that age
+1. *headquarters* 指挥部
+1. *outbreak* 爆发 e.g the ourbreak of strike paralysed whole public service
+1. *outrage* *rage* 愤怒 e.g the unjust judgement has generate public outrage in this country
+1. *outset* 开始 e.g he made a detailed plan at the outset of his report
+1. *roundabout* 环岛，说话兜圈子的 e.g it is painful to read these roundabout accounts today
+1. *upright* 挺直的，直立的 e.g Please stand upright when saluting to the commander
+1. *warehouse repository* 仓库 *stock storage*
+1. *accuse*指控 *abute* 滥用，虐待 
+1. *withhold* 拒绝提供，拒给 e.g ...was accused of withholding crucial information from the police
+1. *abide* 忍受，遵守 *endure comply conform* e.g I can't abide people with no humor
+1. *acclaim* 称赞 e.g ...was acclaimed as a success
+1. *administer* 管理，实施 e.g local government administer several public welfare program to help people in need
+1. *amid* 在...中 e.g he has made his bow as an actore amid great applause
+1. *anchor* 锚，主持
+1. *assault* 袭击 e.g he was assaulted with eggs and stones
+1. *attorney* 律师 e.g She was made her father's attorney when he became ill
+1. *bare* 赤裸的，光的
+1. *barrel* 一桶 *barrier* 屏障，障碍
+1. *bend* 弯曲 *twist* e.g He bent and kissed her
+1. *bizarre* 奇异的 *circus* 马戏团 e.g the clown in the circus attracted much attention by wearing bizarre costumes
+1. *bleak* 暗淡的 e.g the rise of online shopping may cause a bleak prospect of conventional retailers
+1. *blunder* 错误，犯错 e.g the police blundered badly by arresting the wrong man
+1. *blur* 模糊的 *vague* e.g everything was blur without my glasses
+1. *boast* 吹嘘 e.g parents tend to boast about children's achievements to each other 
+1. *boycott* 抵制
+1. *breast* 乳房
+1. *bubble bible*
+1. *bulb* 灯泡 
+1. *bureau* 局 e.g census bureau 人口普查局 *bureaucracy* 官僚主义
+1. *carve* 雕刻 e.g I carved my initials on the bracelet
+1. *chimney* 烟囱 e.g he threw the paper onto the fire and it flew up the chimney
+1. *chip* 芯片，薯条
+1. *chop* 砍，劈 e.g the hunter cut off the animals head with one chop of an ax
+1. *cliff* 悬崖 e.g the castle was built on the top of a vertical cliff
+1. *cling* 抓紧，粘附 e.g she cling to the hope that her son was not dead
+1. *coil* 缠绕 e.g snake is coiling around the branches ready to attack its prey *prey* 猎物
 
 ***
 

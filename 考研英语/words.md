@@ -560,14 +560,14 @@
 1. *doom* 死亡，毁灭，注定失败 e.g the city was doomed to fall beacause of enemy's overwhelming forces
 1. *drought* 干旱 e.g severe drought
 1. *elementary* 基本的，初级的 *fundamental*
-1. *entail* 蕴含 e.g a job that would entail a lot of travelling
+1. *entail* 蕴含 e.g a job that would entail a lot of travelling *retail* 零售
 1. *exert* 用，施加 e.g I exert all my strength to move the box
 1. *fetch* 拿来 e.g go and fetch a doctor for me
 1. *flaw* 缺陷 *flawless* 完美无缺的 
 1. *foster* 培养 e.g foster my habit of...
 1. *frank* 坦白的，直率的 e.g The CEO was frank about the situation
 1. *furnace* 炉子
-1. *furnish* 布置 e.g the hotel staff furnish the room before guests checked in
+1. *furnish* 布置 e.g the hotel staff/clerk furnish the room before guests checked in
 1. *gaze* 凝视 *glance glimpse* 扫视,一瞥
 1. *genuine* 真诚的 
 1. *hail* 赞美 e.g hail hydra:)
@@ -725,10 +725,10 @@
     - Her rudeness repel everyone
     - They try to repel their enemy
 1. *compulsory* 强制的 e.g it seems clear that such a schema is an initiative push toward what would eventually be a compulsory...mentality
-1. *expenditure* 支出 e.g public expenditure
+1. *expenditure* 支出 e.g public expenditure *expense*
 1. *appetite* 胃口，欲望 e.g gave me good appetite
 1. *competent* 胜任的，称职的 e.g competent teacher...
-1. *peerpetual* 不间断的 e.g she's tired of their perpetual complaints
+1. *perpetual* 不间断的 e.g she's tired of their perpetual complaints
 1. *compile* 收集 e.g the committee should compile a list of all its members
 1. *empirical* 经验主义的 e.g empirical research
 1. *transplant* 移植，迁移 e.g patients reject transplanted organs
@@ -737,8 +737,55 @@
 1. *compliment* 赞扬 *praise*
 1. *applicable* 适用的 e.g new medicare is only applicable to senior citizens
 1. *postpone* 推迟 e.g postpone the metting untile next week
-1. *disposition* 性格，倾向 
+1. *disposition* 性格，处置
 1. *offense* 罪行 
+
+***
+
+1. *practitioner* 实践者，从业者 e.g the passenger who had a heart attack on the plane was saved by a medical practitioner
+1. *probe* 探查 e.g he probed the mud with a stick, looking for his ring
+1. *prone* 容易发生 e.g skin exposed to sunlight for a long time is prone to cancer
+1. *rational* 合理的 *reasonable* e.g rational explanation for his actions
+1. *erect* 建造，搭起 e.g Police had to erect barriers to keep crowds back
+1. *regime* 政权 e.g Our tax regime is one of the most favorable in Europe
+1. *abrupt* 突然的，不流畅的 e.g His abrupt change of subject puzzled us all
+1. *erupt* 爆发 e.g ash begin to erupt from the crater 
+1. *sacred* 神圣的 e.g Cows are sacred for most Indian people
+1. *descendant* 后裔 e.g Many of them are descendant of the original settlers
+1. *prescribe* 开药 e.g as long as a doctor prescribe a drug for a legitimate medical purpose... *prescription* 处方
+1. *assembly* 议会 e.g The local assembly will hold a meeting this Friday
+1. *assimilate* 同化 e.g it may take a long time for the new immigrants to assimilate into the new culture
+1. *resentment* 怨恨
+1. *preside* 掌管，主持 e.g They asked if I would preside at the ceremony
+1. *obsession* 痴迷 e.g obsession with alcohol...
+1. *designate* 定为 e.g she was designated sportswoman of the year
+1. *consistent constant* 持续的 e.g consistent improvement
+1. *resolute* 坚决的 *resolution* 决心 e.g she made a resolution to lose weight
+1. *sophisticated* 牛逼的，精密的 e.g sophisticated machine
+1. *conspicuous* 显眼的,出色的 e.g his conspicuous red hair made him...
+1. *spontaneous* 自发的 e.g they greeted him with spontaneous
+1. *correspondent journalist* 记者
+1. *stationary* 静止的 e.g bus collided with a stationary vehicle
+1. *absurd* 荒谬的 e.g what she said on class is absurd
+1. *detach* 脱离 e.g I tried to detach myself from the reality of these terrible events
+1. *tangible* 明确的 e.g we need tangible evidence of John's guilt
+1. *tedious* 单调的 e.g this tedious lecture make students sleepy
+1. *contemplate* *consider* 考虑 
+1. *tentative* 暂定的，犹豫不决的 e.g we made a tentative arrangement to meet on Friday
+1. *therapy* 疗法 
+1. *intricate complex complicated* 复杂的 e.g the curtain has an intricate pattern on it
+1. *turbulent* 动荡的 e.g he had a turbulent political career after entering pailiament
+1. *abound* 大量存在 e.g there are many forests that abound with wild animals in Northwest China
+1. *vacant* 空着的 e.g sold her vacant apartment in suburb
+1. *extravagant* 奢侈的 e.g I was embarrassed by all the extravagant praise/compliment I was getting
+1. *prevail* 流行
+1. *converge* 聚集 e.g people converged from all over the country to watch the finals *convert* 转化
+1. *invert* 颠倒 
+1. *divert* 分心 *distract*
+1. *conversely* 相反的  *abtrast*
+1. *pit* 洞，坑 e.g we dig a shallow pit and put the seeds in it
+1. *surpass* 超过
+1. *magnitude* 巨大的
 
 ***
 
@@ -784,51 +831,6 @@
 1. *coil* 缠绕 e.g snake is coiling around the branches ready to attack its prey *prey* 猎物
 
 ***
-
-1. *practitioner* 实践者，从业者 e.g the passenger who had a heart attack on the plane was saved by a medical practitioner
-1. *probe* 探查 e.g he probed the mud with a stick, looking for his ring
-1. *prone* 容易发生 e.g skin exposed to sunlight for a long time is prone to cancer
-1. *rational* 合理的 *reasonable* e.g rational explanation for his actions
-1. *erect* 建造，搭起 e.g Police had to erect barriers to keep crowds back
-1. *regime* 政权 e.g Our tax regime is one of the most favorable in Europe
-1. *abrupt* 突然的，不流畅的 e.g His abrupt change of subject puzzled us all
-1. *erupt* 爆发 e.g ash begin to erupt from the crater 
-1. *sacred* 神圣的 e.g Cows are sacred for most Indian people
-1. *descendant* 后裔 e.g Many of them are descendant of the original settlers
-1. *prescribe* 开药 e.g as long as a doctor prescribe a drug for a legitimate medical purpose... *prescription* 处方
-1. *assembly* 议会 e.g The local assembly will hold a meeting this Friday
-1. *assimilate* 同化 e.g it may take a long time for the new immigrants to assimilate into the new culture
-1. *resentment* 怨恨
-1. *preside* 掌管，主持 e.g They asked if I would preside at the ceremony
-1. *obsession* 痴迷 e.g obsession with alcohol...
-1. *designate* 定为 e.g she was designated sportswoman of the year
-1. *consistent constant* 持续的 e.g consistent improvement
-1. *resolute* 坚决的 *resolution* 决心 e.g she made a resolution to lose weight
-1. *sophisticated* 牛逼的，精密的 e.g sophisticated machine
-1. *conspicuous* 显眼的,出色的 e.g his conspicuous red hair made him...
-1. *spontaneous* 自发的 e.g they greeted him with spontaneous
-1. *correspondent journalist* 记者
-1. *stationary* 静止的 e.g bus collided with a stationary vehicle
-1. *absurd* 荒谬的 e.g what she said on class is absurd
-1. *detach* 脱离 e.g I tried to detach myself from the reality of these terrible events
-1. *tangible* 明确的 e.g we need tangible evidence of John's guilt
-1. *tedious* 单调的 e.g this tedious lecture make students sleepy
-1. *contemplate* *consider* 考虑 
-1. *tentative* 暂定的，犹豫不决的 e.g we made a tentative arrangement to meet on Friday
-1. *therapy* 疗法 
-1. *intricate complex complicated* 复杂的 e.g the curtain has an intricate pattern on it
-1. *turbulent* 动荡的 e.g he had a turbulent political career after entering pailiament
-1. *abound* 大量存在 e.g there are many forests that abound with wild animals in Northwest China
-1. *vacant* 空着的 e.g sold her vacant apartment in suburb
-1. *extravagant* 奢侈的 e.g I was embarrassed by all the extravagant praise/compliment I was getting
-1. *prevail* 流行
-1. *converge* 聚集 e.g people converged from all over the country to watch the finals *convert* 转化
-1. *invert* 颠倒 
-1. *divert* 分心 *distract*
-1. *conversely* 相反的  *abtrast*
-1. *surpass* 超过
-1. *magnitude* 巨大的
-
 ***
 
 1. *cosy* 温暖舒适的 e.g the room is warm and cosy

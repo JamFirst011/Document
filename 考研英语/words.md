@@ -826,3 +826,57 @@
 1. *invert* 颠倒 
 1. *divert* 分心 *distract*
 1. *conversely* 相反的  *abtrast*
+1. *surpass* 超过
+1. *magnitude* 巨大的
+
+***
+
+1. *cosy* 温暖舒适的 e.g the room is warm and cosy
+1. *counsel* 律师 *attorney* 
+1. *county* 县城 e.g a county always consists of several towns and rural region/area/district
+1. *creep* 悄悄前行 e.g crept out of the room...
+1. *cripple* 使残疾 e.g some countries in the war are crippled by wars
+1. *dash* 猛冲 e.g elbow a elderly woman aside in the dash for the last vacant/remaining seat
+1. *defer* 推迟 *postpone delay* e.g further discussion on the issue will be deferred until next year
+1. *despair* 绝望 e.g under extreme pressure, she finally gave up in despair
+1. *devise* 设计，发明，想出 e.g devise a method to improve efficiency
+1. *discharge* 允许离开，排放 e.g the factory was fined for discharging industrial waste into the sea/ocean
+1. *disguise* 装扮，伪装 e.g the thief disguised himself as a woman... *conceal*
+1. *ditch* 抛弃 *abandon discard desert* e.g he can stand her boyfriend anymore so she ditched him
+1. *drain* 流走，耗尽 e.g the day's events completely drained my of all strenght
+1. *drift* 漂流 e.g boat drifting out to sea
+1. *earnest* 诚实的，真诚的 e.g he turned down her earnest plea for help *sincere genuine* 
+1. *editorial* 编辑的
+1. *episode* 一集，事件 e.g there have been several episode of scientific fraud...
+1. *epoch* 时代 e.g the death of the emperor marked the end of an epoch
+1. *esteem* 敬重 e.g the diligent president was held in high esteem
+1. *explicit* 直接了当的 *implicit* 含蓄的
+1. *extinguish* 扑灭 e.g firefighters attempt to extinguish the flames *distinguish* 分辨
+1. *faint* 微弱的，晕的 e.g faint cry...I feel faint *negligible* 
+1. *fancy* 喜欢想要
+1. *feeble* 脆弱的，虚弱的 e.g feeble boss-board relations *faint fragile delicate* e.g the patient is feeble
+1. forge* 伪造，创造 e.g she forged a new career
+1. *frown* 皱眉，不赞成 e.g she frowned at the noisy kids because...
+1. *gear* 齿轮，改装
+1. *gloomy* 阴沉的 e.g he become a gloomy man...
+1. *grace* 优雅 *elegant* e.g she acts with the natural grace of a dancer
+1. *grab grip* 抓紧，抓住
+1. *gut* *intuition instinct* 直觉 e.g I have a gut feeling that today is my lucky day
+1. *hamper* 阻碍 e.g ...hamper both prosperity and overall well-being
+1. *handful* 少量的，一把 e.g the girl picked up a handful of sand and threw it towards us
+1. *haste* 匆忙 *snap*  *hasty*
+1. *hazard* 危害 e.g Growing levels of pollution represent a serious health hazard to the local resident
+1. *hip* 臀部
+1. *impair* 削弱 e.g The injured leg has impaired his ability to run
+1. *incidene* 发生率 *incident episode* 事件
+1. *indulge* 沉溺，纵容 e.g he indulged his children too much
+1. *inertia* 懒惰，惯性 
+1. *instalment* 分期 e.g paid the apartment by instalment
+1. *intimate* 私密的，亲密的 e.g intimate shops catering to a knowledgeable elites
+1. *intrinsic* *inherent* e.g the intrinsic value of education is to maintain a nation's forward momentum
+1. *kit* 工具包 
+1. *latitude* 纬度
+1. *leap* 跳跃，激增 e.g a leap in productivity
+1. *levy* 税款，征收
+1. *likelihood* *posibility* 
+1.  

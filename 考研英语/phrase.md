@@ -3,3 +3,4 @@
 1. *account for* 占比
 1. *regard as* 视作
 1. *at stake* 处于危险
+1. *gear somehing for/to/towards* 改装以适应...

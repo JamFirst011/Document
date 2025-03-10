@@ -881,4 +881,57 @@
 1. *leap* 跳跃，激增 e.g a leap in productivity
 1. *levy* 税款，征收
 1. *likelihood* *posibility* 
-1.  
+
+***
+
+1. *linger* 徘徊，逗留 e.g his last  words still linger in our ears
+1. *lounge* 休息室 e.g VIP lounge
+1. *lumber* 缓慢移动，木材 e.g a herd of elephants lumbered across the plain
+1. *lump* 肿块，整合 e.g lump together information from diffetent research project
+1. *medieval* 中世纪的 e.g the medieval castle is well-preserved...
+1. *menace* 威胁，危险 e.g these weapons are menace to world peace
+1. *mercury* 水星
+1. *mill* 研磨机，小作坊 e.g this database is established in an old paper mill...
+1. *mortgage* 贷款 e.g he had to mortgage his house to pay his legal costs
+1. *municiple* 市政的 e.g the city will build a municipal library in the downtown
+1. *obedient* 服从的，顺从的 e.g we absolutely obedient to our superiors *obey*
+1. *odds* 可能性 *likelihood*
+1. *overlap* 重叠 e.g their duties overlap
+1. *parachute* 降落伞 e.g Planes dropped supplies by paratrute
+1. *parcel* 包裹 e.g he was carrying a parcel of books under her arm
+1. *pastime* 消遣，娱乐 *recreation entertainment occupation* 
+1. *patrol* 巡逻队 *petrol* 汽油
+1. *pave* 铺路 e.g the footpath of the remote village was paved with concrete...
+1. *plead* 恳求 e.g she pleaded with him not to go...
+1. *plot* 情节 e.g the book is well organized in terms of plot
+1. *plug* 插头，填补 e.g It's easy to dismiss as absurd the federal government's ideas for plugging the chronic funding gap of our national parks
+1. *plunge* 纵身跳入 e.g plunge into cold water
+1. *portrait* 肖像 *portray* 
+1. *preach* 宣传，鼓吹 e.g she preached economy as the best means of solving the crisis
+1. *prestige* 声望 e.g the contract will afect out national prestige in the world
+1. *presumably* 大概 e.g Presumably the bad weather has delayed the flight
+1. *prey* 捕食
+1. *radius* 半径，范围 e.g the police searched all the woods within a six-mile radius
+1. *realm* 领域 *field* e.g he is a big shot in the realm of literature
+1. *refrain* *restrain curb* 克制
+1. *reign* 统治 *rule govern* e.g the reign of Queen lasted more than...
+1. *residence* 住所 e.g the White house is the official residence of president
+1. *rigorous* 细致，严格 
+    - he make a rigorous study to...
+    - corporate governance has become a log tighter and more rigorous...
+1. *rumour* 传言，谣言
+1. *savage* 野蛮的 e.g savage attack
+1. *scatter* 散布 e.g angry about the clothes scattered on the floor
+1. *scorn* 鄙视 *descriminate comtempt despice*
+1. *shed* 棚子，去除
+1. *shove* 推 e.g he reached out with both hands and shoved as hard as she could
+1. *slack* 松弛的 e.g suddenly the rope went slack again
+1. *slogan* 标语
+1. *slot* 时段，位置，安排时间段 e.g prime-time slot
+1. *slum* 贫民窟 
+1. *soak* 浸泡
+1. *sovereign* 有主权的 e.g their authority is sovereign
+1. *sow* 播种 
+1. *splash* 泼洒 e.g water splashed onto the floor
+1. *spary* 喷 e.g the farmer sprays pesticides on the crops regularly
+1. *spur* 激励，鼓舞 

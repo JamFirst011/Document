@@ -4,3 +4,5 @@
 1. *regard as* 视作
 1. *at stake* 处于危险
 1. *gear somehing for/to/towards* 改装以适应...
+1. *plead with somebody to do* 恳求某人做
+1. *shed tears* 流泪

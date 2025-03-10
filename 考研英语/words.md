@@ -831,7 +831,6 @@
 1. *coil* 缠绕 e.g snake is coiling around the branches ready to attack its prey *prey* 猎物
 
 ***
-***
 
 1. *cosy* 温暖舒适的 e.g the room is warm and cosy
 1. *counsel* 律师 *attorney* 

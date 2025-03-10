@@ -143,7 +143,7 @@
 137. *prosperity* 繁荣
 138. *spouse* 配偶
 139. *statement* *declare* *claim* *proclaim* 声明
-140. *contrast* 对比，差异 *distinction* 差异，卓越 *distinct* 清楚的 *distinctive* 独特的
+140. *contrast* 对比，差异 *distinction* 差异，卓越 *distinct* 可辨别的 *distinctive* 独特的
 141. *estate* 财产，遗产    e.g His estate was left to his son
 142. *stimulate* 促使，激发 e.g This game has stimulated her interested in studying
 143. *constitute* 组成，相当于 *constitution* 宪法，组成 *institute* 协会，建立
@@ -681,7 +681,7 @@
 
 ***
 
-1. *adhere* 坚持 e.g for ten months he adhere to strick no-fat diet
+1. *adhere* 坚持 e.g for ten months he adhere to strict no-fat diet
 1. *saving* 存款，节约 e.g this young man spent all his saving on an expensive house
 1. *heritage estate legacy* 遗产 e.g cultural heritage
 1. *identical* 相同的 e.g This is the identical hotel we stayed last year
@@ -732,7 +732,7 @@
 1. *compile* 收集 e.g the committee should compile a list of all its members
 1. *empirical* 经验主义的 e.g empirical research
 1. *transplant* 移植，迁移 e.g patients reject transplanted organs
-1. *plausible reasonable* 合理的
+1. *plausible reasonable rational* 合理的
 1. *duplicate* 复制 
 1. *compliment* 赞扬 *praise*
 1. *applicable* 适用的 e.g new medicare is only applicable to senior citizens
@@ -768,7 +768,7 @@
 1. *stationary* 静止的 e.g bus collided with a stationary vehicle
 1. *absurd* 荒谬的 e.g what she said on class is absurd
 1. *detach* 脱离 e.g I tried to detach myself from the reality of these terrible events
-1. *tangible* 明确的 e.g we need tangible evidence of John's guilt
+1. *tangible* 明确的 e.g we need tangible evidence of John's guilt *evident definite*
 1. *tedious* 单调的 e.g this tedious lecture make students sleepy
 1. *contemplate* *consider* 考虑 
 1. *tentative* 暂定的，犹豫不决的 e.g we made a tentative arrangement to meet on Friday
@@ -784,15 +784,15 @@
 1. *divert* 分心 *distract*
 1. *conversely* 相反的  *abtrast*
 1. *pit* 洞，坑 e.g we dig a shallow pit and put the seeds in it
-1. *surpass* 超过
+1. *surpass* 超过 *excess*
 1. *magnitude* 巨大的
 
 ***
 
-1. *virgin* 为开发的 e.g within 40 years there will be no virgin forest left
+1. *virgin* 未开发的 e.g within 40 years there will be no virgin forest left
 1. *breakdown* 崩溃 e.g both sides were blamed for the breakdown of talks
 1. *drawback* 缺点 *shortage disadvantage*
-1. *foremost* 最杰出的，首要的 e.g Newton was foremost expert in that age
+1. *foremost* 最杰出的，首要的 e.g Newton was foremost expert in that age *premier*
 1. *headquarters* 指挥部
 1. *outbreak* 爆发 e.g the ourbreak of strike paralysed whole public service
 1. *outrage* *rage* 愤怒 e.g the unjust judgement has generate public outrage in this country
@@ -804,7 +804,7 @@
 1. *withhold* 拒绝提供，拒给 e.g ...was accused of withholding crucial information from the police
 1. *abide* 忍受，遵守 *endure comply conform* e.g I can't abide people with no humor
 1. *acclaim* 称赞 e.g ...was acclaimed as a success
-1. *administer* 管理，实施 e.g local government administer several public welfare program to help people in need
+1. *administer* *implement* 管理，实施 e.g local government administer several public welfare program to help people in need
 1. *amid* 在...中 e.g he has made his bow as an actore amid great applause
 1. *anchor* 锚，主持
 1. *assault* 袭击 e.g he was assaulted with eggs and stones
@@ -843,7 +843,7 @@
 1. *devise* 设计，发明，想出 e.g devise a method to improve efficiency
 1. *discharge* 允许离开，排放 e.g the factory was fined for discharging industrial waste into the sea/ocean
 1. *disguise* 装扮，伪装 e.g the thief disguised himself as a woman... *conceal*
-1. *ditch* 抛弃 *abandon discard desert* e.g he can stand her boyfriend anymore so she ditched him
+1. *ditch* 抛弃 *abandon discard desert* e.g he can't stand her boyfriend anymore so she ditched him
 1. *drain* 流走，耗尽 e.g the day's events completely drained my of all strenght
 1. *drift* 漂流 e.g boat drifting out to sea
 1. *earnest* 诚实的，真诚的 e.g he turned down her earnest plea for help *sincere genuine* 
@@ -879,7 +879,7 @@
 1. *latitude* 纬度
 1. *leap* 跳跃，激增 e.g a leap in productivity
 1. *levy* 税款，征收
-1. *likelihood* *posibility* 
+1. *likelihood* *posibility prospect* 
 
 ***
 
@@ -934,3 +934,4 @@
 1. *splash* 泼洒 e.g water splashed onto the floor
 1. *spary* 喷 e.g the farmer sprays pesticides on the crops regularly
 1. *spur* 激励，鼓舞 
+1. *diversion* 消遣，转移目标 e.g I think your last argument was a diversion to make us forget the main point

@@ -935,3 +935,61 @@
 1. *spary* 喷 e.g the farmer sprays pesticides on the crops regularly
 1. *spur* 激励，鼓舞 
 1. *diversion* 消遣，转移目标 e.g I think your last argument was a diversion to make us forget the main point
+
+*** 
+
+1. *stare* 凝视 *gaze* 
+1. *steep* 险峻的
+1. *steer* 操纵，引导 e.g the leader is responsible for steering them clear of distractions
+1. *steward* 乘务员，管家
+1. *stiff* 僵硬的，严重的 e.g the window is stiff and couldn't open
+1. *stir* 搅动，激发 e.g stir children's interest
+1. *straw* 稻草 e.g he looks good in the straw hat
+1. *stride* 大步走 e.g we stride across the snowy fields/plain
+1. *striking* 引人注目的 *conspicuous* e.g the chair has a striking feature
+1. *strip* 剥夺,条 e.g cut the meat into strips
+1. *strive* 努力，奋斗
+1. *surveillance* 监控 e.g Most of the banks have installed surveillance cameras
+1. *tease* 戏弄 e.g They teased the little boy about his hair
+1. *temptation* 诱惑 e.g resist the temptation of ...
+1. *terrific* 极好的  e.g This successful capital raising offers this company a terrific opportunity to grow
+1. *thrift* 节约 e.g the elderly usually have the habit of thrift
+1. *throne* 王位
+1. *timely* 及时的 e.g Thank you for your timely help
+1. *tomb* 坟墓 *grave* 
+1. *tow* 拖，拉 e.g Our car was towed away by the police
+1. *transient* 暂时的 *temporary* e.g Migrant workers contribute to a large transient population in this city
+1. *tribe* 部落 
+1. *trivial* 琐碎的 e.g he could remember every trivial incident in great detail
+1. *tropical* 热带的 
+1. *unfold* 展开 *fold* 折叠 e.g a few generative rules are then sufficient to unfold the entire structure of...
+1. *utmost* 极限，极度 e.g National security has now become a matter of the utmost importance
+1. *vanity* 虚荣心 e.g bought a expensive...to satisfy his vanity *edge margin*
+1. *verge* 边缘 e.g she was on the verge of tears when she heard the news
+1. *viable* 可行的 e.g the solution the committee put forward proved to be viable
+1. *weary* 疲劳的 *fatigue exhausted*
+1. *wit* 机智 e.g he used his wit to pass the interview...
+1. *workout* 锻炼，练习 
+1. *worship* 崇敬,信仰 e.g Under the new regime, all relogions enjoy freedom of worship
+1. *spit* 吐
+1. *roar* 咆哮 e.g the lion in an iron cage is roaring angrily
+1. *pant* 喘息 e.g he start panting heavily after the race
+1. *weep* 流泪 e.g weep uncontrollably
+1. *blush* 脸红，羞愧 e.g She blushed when he blamed her
+1. *stoop* 弯腰 *bend* e.g ...stoop down to pick...
+1. *peep* 偷看 e.g I saw him peep through the window into the room
+1. *overhear* 偶然听到 
+1. *ascertain* 查明 e.g I ascertain he was murdered
+1. *whirl* 旋转 e.g whirling around on the dance floor
+1. *hop* 跳跃 
+1. *stagger* 蹒跚 e.g the drunk man staggered across the room
+1. *tumble* 摔倒 e.g the baby lost balance and tubble down the stairs
+1. *grope* 摸索 *probe* e.g he groped around in the dark for his other sock
+1. *beware* 当心 e.g Mororists have been warnedd to beware of icy roads
+1. *ascend* 攀登 e.g He ascend to the peak of sporting achievement
+1. *penetrate* 穿过，渗透 e.g The intense radiation of the nuclear leak can penetrate the skin
+1. *segregate* 隔离 
+1. *dump* 丢弃 *discard desert abandon*
+1. *hurl* 投掷 e.g he hurled a brick through the window *fling* 扔
+1. *nap* 打盹
+1. *shear* 剪切 e.g the farmer showed us how to shear sheep

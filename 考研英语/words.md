@@ -993,3 +993,58 @@
 1. *hurl* 投掷 e.g he hurled a brick through the window *fling* 扔
 1. *nap* 打盹
 1. *shear* 剪切 e.g the farmer showed us how to shear sheep
+
+***
+
+1. *thrust* 猛推 e.g the correspondent thrust a microphone in front of him...
+1. *kidnap* 绑架 e.g Two business man have been kidnapped
+1. *racket* 球拍，噪音 e.g the poorly maintained old machine is making an awful racket
+1. *oath* 誓言
+1. *persecute* 迫害 e.g They came to American after being persecuted...
+1. *overthrow* *overturn*  推翻 e.g  The decision was overthrown at the last minute
+1. *amend* 修改，修正
+1. *dispatch* 派遣 e.g Troops have been dispatched to the area
+1. *disrupt* 扰乱 e.g Traffic was disrupted by a serious car accident
+1. *obstruct* 阻挡 e.g the road was obstructed by the collapsed building after...
+1. *breach* 违背 *violate* e.g Excessive emission of waste gas is a breach of environmental regulations
+1. *evacuate* 疏散
+1. *disperse* 分散 e.g the crowd dispersed
+1. *deplore* 反对 e.g all parties strongly deplored the use of chemical weapons in the war *retort* 反驳
+1. *revolt* 反抗 
+1. *retrieve* 取回 e.g the dog is taught to retrieve the ball from the water
+1. *concede* 承认
+1. *deviate* 偏离 e.g he never deviate from his original plan
+1. *deceive* 欺骗 e.g people are deceived by the advertisement *deceit*
+1. *redeem* 弥补 e.g he realized his mistakes and want to redeem his reputation
+1. *rehearse* 排练
+1. *preservere* 坚持不懈
+1. *impart* 传授 e.g A teacher's aim is to import knowledge
+1. *delegate* 派来做 e.g the new manager was delegated to reorganize the department
+1. *intercourse* 交往
+1. *recollect* 回忆
+1. *dwell* 往...想 e.g Don't dwell on past failures
+1. *endow* 赋予 e.g Nature endowed her with a beautiful singing voice
+1. *sprinkle* 洒，撒 e.g sprinkle a little cheese over the pizza...
+1. *clutch* 紧握 e.g I clutch on the chair for support
+1. *doze* 瞌睡 *dozen dose* 
+1. *deter* 阻止 e.g high prices are detering many young people from buying cars
+1. *propagate* 宣传 e.g they started a newspaper to propagate their ideas *propaganda*
+1. *swallow* 吞咽，轻信 e.g but the justices should not swallow somebody
+1. *mediate* 调解 e.g the former president was called in to mediate between the two sides
+1. *giggle* 傻笑 e.g if we adults could indulge in a bit of silliness and giggling...
+1. *clash* 对抗，冲突   e.g Clashes broke out between police and demonstraters
+1. *moan* 呻吟，抱怨 e.g Drivers are moaning about the bad weather that makes the traffic jam worse
+1. *poke* 戳，刺 e.g she poke her finger into the hole *stab* 
+1. *shrug* 耸肩 *shrink* *sprinkle* 
+1. *stroll* 散步 
+1. *theft* 盗窃 e.g police are investigating the theft of computers...
+1. *allege* 指控 e.g ...was alleged to have committed crimes
+1. *flatter* 奉承 e.g I feel flattered at being asked to give a lecture
+1. *intimidate* 恐吓，威胁 e.g the gang members intimidate somebody...
+1. *uphold* 支持，维护 e.g We have a duty to uphold the law
+1. *articulate* 明确表达 e.g she is too shy to articulate
+1. *commemorate* 纪念 e.g commemorate the famouse poet
+1. *envisage* 想象 e.g the plan cost a lot more than we had originally envisaged
+1. *exclaim* 呼喊，惊叫
+1. *expend*消耗 *expand* e.g many animals expend a lot of energy...
+1. 

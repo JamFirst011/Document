@@ -1047,4 +1047,58 @@
 1. *envisage* 想象 e.g the plan cost a lot more than we had originally envisaged
 1. *exclaim* 呼喊，惊叫
 1. *expend*消耗 *expand* e.g many animals expend a lot of energy...
+
+***
+
+1. *groan* 呻吟，抱怨 *moan* e.g she presseed her wound and groaned with pain
+1. *inhale* 吸入 e.g avoid inhaling smoke
+1. *insult* 辱骂 e.g I can not stand her insults about my diginity
+1. *offend* 冒犯，犯罪
+1. *rectify* 纠正 e.g please rectify the mistake in my bill
+1. *stumble* *tumble* 绊倒 e.g in her hury/haste, the housemaid stumbled...
+1. *toss* 抛(硬币)
+1. *tuck* 塞进 e.g he tucked his shirt into the trousers...
+1. *console* 安慰 e.g he console her with flowers
+1. *humiliate* 羞辱 e.g Tom humiliate his opponent in public by defeating him
+1. *chest* 胸部
+1. *abdomen* 腹部 e.g he has eaten too much spicy food, and feels a pain in his abdomen
+1. *belly* 肚子
+1. *thigh* 大腿 e.g the pain originated from a point in his right thigh
+1. *skeleton* 骨架子 e.g He is reduced almost to a skeleton
+1. *spine* 脊柱 e.g the athlete injured his spine in a horse racing game
+1. *rib* 肋骨 e.g He fell off a ladder and broke his rib
+1. *artery* 动脉 e.g Hardening of the coronary arteries may lead to a heart attack *vein* 静脉 
+1. *valve* 阀门 
+1. *bowel* 肠子
+1. *thumb* 拇指 e.g the baby is hungry and keeps sucking his thumb
+1. *heel* 脚后跟
+1. *liver* 肝脏
+1. *palm* 手掌  e.g she carefully held the butterfly in the palm of her hand
+1. *successor* 继承者 e.g the young officer was designated as his successor
+1. *landlady* 房东太太 e.g According to the contract, I have to pay the rent to the landlady quarterly
+1. *tenant* 租户 e.g the furniture is left by the previous tenant of this house and you can...
+1. *comrade* 同志，兄弟 e.g They were old army comrades
+1. *fellowship* 奖学金 e.g They offer students conselling and fellowship
+1. *sibling* 兄弟姐妹 e.g she has three siblings...
+1. *bride* 新娘
+1. *hostage* 人质 
+1. *kin* 亲戚 e.g select as friends the people who resemble out kin
+1. *orphan* 孤儿 e.g His parent died in the war and he was left as an orphan
+1. *marital* 婚姻的 e.g the endless quarrels between Tom and his wife finally resulted in marital breakdown
+1. *gorgeous* 漂亮的 e.g in the evening the rosy clouds were gorgeous *jolly* 欢乐的
+1. *rejoice* 高兴 e.g he rejoice in his good fortune of the chance to meet his idol
+1. *anguish* 痛苦 e.g the little baby cries in anguish since he can't find her mother
+1. *grief* 悲伤 e.g There was no grief in his eyes, only rage/outrage/anger
+1. *appal* 惊骇 e.g the brutal crime appalled the public..
+1. *stun* 震惊 e.g People throughtout the world are stunned by the news of the disaster on the island
+1. *dread* 恐惧 e.g Rachel has got an important interview and she's dreading it
+1. *foul* 恶臭肮脏的，不好的 e.g his boss has a foul temper
+1. *flush* 冲洗
+1. *relish* *enjoy* 享受 e.g This adventurous young man relished challenges in life
+1. *compassion* 同情 e.g Leaders of the world showed their compassion for the victims of the earthquake
+1. *pathetic* 可怜的 e.g They are shown as lonely and pathetic women
+1. *awe* 敬畏 e.g in awe of their kind but strict father...
+1. *dismay* 使沮丧 e.g It dismayed us that the project had been canceled
+1. *dubious* 怀疑的 *sceptical* e.g Many professors regard this report as dubious and misleading
+1. *furious* 暴怒的 e.g He was furious with himself for letting things get so out of control
 1. 

@@ -885,7 +885,7 @@
 
 1. *linger* 徘徊，逗留 e.g his last  words still linger in our ears
 1. *lounge* 休息室 e.g VIP lounge
-1. *lumber* 缓慢移动，木材 e.g a herd of elephants lumbered across the plain
+1. *lumber* 缓慢移动，木材 e.g a herd of elephants lumbered across the plain *blumder* 错误
 1. *lump* 肿块，整合 e.g lump together information from diffetent research project
 1. *medieval* 中世纪的 e.g the medieval castle is well-preserved...
 1. *menace* 威胁，危险 e.g these weapons are menace to world peace
@@ -906,7 +906,7 @@
 1. *plug* 插头，填补 e.g It's easy to dismiss as absurd the federal government's ideas for plugging the chronic funding gap of our national parks
 1. *plunge* 纵身跳入 e.g plunge into cold water
 1. *portrait* 肖像 *portray* 
-1. *preach* 宣传，鼓吹 e.g she preached economy as the best means of solving the crisis
+1. *preach* 宣传，鼓吹 *boast* e.g she preached economy as the best means of solving the crisis
 1. *prestige* 声望 e.g the contract will afect out national prestige in the world
 1. *presumably* 大概 e.g Presumably the bad weather has delayed the flight
 1. *prey* 捕食
@@ -934,7 +934,7 @@
 1. *splash* 泼洒 e.g water splashed onto the floor
 1. *spary* 喷 e.g the farmer sprays pesticides on the crops regularly
 1. *spur* 激励，鼓舞 
-1. *diversion* 消遣，转移目标 e.g I think your last argument was a diversion to make us forget the main point
+1. *diversion* 消遣，转移目标,转向 *diversity* 多样性 e.g I think your last argument was a diversion to make us forget the main point
 
 *** 
 
@@ -989,7 +989,7 @@
 1. *ascend* 攀登 e.g He ascend to the peak of sporting achievement
 1. *penetrate* 穿过，渗透 e.g The intense radiation of the nuclear leak can penetrate the skin
 1. *segregate* 隔离 
-1. *dump* 丢弃 *discard desert abandon*
+1. *dump* 丢弃 *discard desert abandon ditch*
 1. *hurl* 投掷 e.g he hurled a brick through the window *fling* 扔
 1. *nap* 打盹
 1. *shear* 剪切 e.g the farmer showed us how to shear sheep
@@ -1005,20 +1005,20 @@
 1. *amend* 修改，修正
 1. *dispatch* 派遣 e.g Troops have been dispatched to the area
 1. *disrupt* 扰乱 e.g Traffic was disrupted by a serious car accident
-1. *obstruct* 阻挡 e.g the road was obstructed by the collapsed building after...
+1. *obstruct* 阻挡 *hamper obstacle* e.g the road was obstructed by the collapsed building after...
 1. *breach* 违背 *violate* e.g Excessive emission of waste gas is a breach of environmental regulations
 1. *evacuate* 疏散
 1. *disperse* 分散 e.g the crowd dispersed
-1. *deplore* 反对 e.g all parties strongly deplored the use of chemical weapons in the war *retort* 反驳
+1. *deplore* 反对 e.g all parties strongly deplored the use of chemical weapons in the war *retort* 反驳 *distort* 歪曲
 1. *revolt* 反抗 
 1. *retrieve* 取回 e.g the dog is taught to retrieve the ball from the water
-1. *concede* 承认
+1. *concede* 承认 *acknowledge confess admit*
 1. *deviate* 偏离 e.g he never deviate from his original plan
 1. *deceive* 欺骗 e.g people are deceived by the advertisement *deceit*
 1. *redeem* 弥补 e.g he realized his mistakes and want to redeem his reputation
 1. *rehearse* 排练
 1. *preservere* 坚持不懈
-1. *impart* 传授 e.g A teacher's aim is to import knowledge
+1. *impart* 传授 e.g A teacher's aim is to impart knowledge
 1. *delegate* 派来做 e.g the new manager was delegated to reorganize the department
 1. *intercourse* 交往
 1. *recollect* 回忆
@@ -1033,7 +1033,7 @@
 1. *mediate* 调解 e.g the former president was called in to mediate between the two sides
 1. *giggle* 傻笑 e.g if we adults could indulge in a bit of silliness and giggling...
 1. *clash* 对抗，冲突   e.g Clashes broke out between police and demonstraters
-1. *moan* 呻吟，抱怨 e.g Drivers are moaning about the bad weather that makes the traffic jam worse
+1. *moan* 呻吟，抱怨 *groan* e.g Drivers are moaning about the bad weather that makes the traffic jam worse
 1. *poke* 戳，刺 e.g she poke her finger into the hole *stab* 
 1. *shrug* 耸肩 *shrink* *sprinkle* 
 1. *stroll* 散步 
@@ -1050,7 +1050,7 @@
 
 ***
 
-1. *groan* 呻吟，抱怨 *moan* e.g she presseed her wound and groaned with pain
+1. *groan* 呻吟，抱怨 *moan* e.g she presseed her wound and groaned with pain *moan*
 1. *inhale* 吸入 e.g avoid inhaling smoke
 1. *insult* 辱骂 e.g I can not stand her insults about my diginity
 1. *offend* 冒犯，犯罪
@@ -1101,4 +1101,3 @@
 1. *dismay* 使沮丧 e.g It dismayed us that the project had been canceled
 1. *dubious* 怀疑的 *sceptical* e.g Many professors regard this report as dubious and misleading
 1. *furious* 暴怒的 e.g He was furious with himself for letting things get so out of control
-1. 

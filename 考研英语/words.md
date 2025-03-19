@@ -512,7 +512,7 @@
 1. *evade* 避开 e.g change to another topic to evade this embarrassing question
 1. *vague* 模糊的 *vigor vitality* 活力 *obscure* 模糊 *vivid* 清晰的
 1. *vain* 徒劳 e.g closed her eyes in a vain attempt to hold back the tears *vein* 血管，静脉 
-1. *intervene* 干涉，干预 *interfere*
+1. *intervene* 干涉，干预 *interfere intervention* 
 1. *convert* 转化
 1. *conviction* 深信，定罪 e.g I have the conviction that he is right *convict* 定罪
 1. *supervise* 监督
@@ -833,7 +833,7 @@
 ***
 
 1. *cosy* 温暖舒适的 e.g the room is warm and cosy
-1. *counsel* 律师 *attorney* 
+1. *counsel* 律师 *attorney* *council* 
 1. *county* 县城 e.g a county always consists of several towns and rural region/area/district
 1. *creep* 悄悄前行 e.g crept out of the room...
 1. *cripple* 使残疾 e.g some countries in the war are crippled by wars
@@ -856,14 +856,14 @@
 1. *faint* 微弱的，晕的 e.g faint cry...I feel faint *negligible* 
 1. *fancy* 喜欢想要
 1. *feeble* 脆弱的，虚弱的 e.g feeble boss-board relations *faint fragile delicate* e.g the patient is feeble
-1. forge* 伪造，创造 e.g she forged a new career
+1. *forge* 伪造，创造 e.g she forged a new career
 1. *frown* 皱眉，不赞成 e.g she frowned at the noisy kids because...
 1. *gear* 齿轮，改装
 1. *gloomy* 阴沉的 e.g he become a gloomy man...
 1. *grace* 优雅 *elegant* e.g she acts with the natural grace of a dancer
 1. *grab grip* 抓紧，抓住
 1. *gut* *intuition instinct* 直觉 e.g I have a gut feeling that today is my lucky day
-1. *hamper* 阻碍 e.g ...hamper both prosperity and overall well-being
+1. *hamper* 阻碍 e.g ...hamper both prosperity and overall well-being *obstacle*
 1. *handful* 少量的，一把 e.g the girl picked up a handful of sand and threw it towards us
 1. *haste* 匆忙 *snap*  *hasty*
 1. *hazard* 危害 e.g Growing levels of pollution represent a serious health hazard to the local resident
@@ -1101,3 +1101,109 @@
 1. *dismay* 使沮丧 e.g It dismayed us that the project had been canceled
 1. *dubious* 怀疑的 *sceptical* e.g Many professors regard this report as dubious and misleading
 1. *furious* 暴怒的 e.g He was furious with himself for letting things get so out of control
+
+***
+
+1. *irritate* 激怒 e.g His letter irritate me a little
+1. *distress* 痛苦 e.g Children suffer emotional destress when their...
+1. *fume* 发怒,刺鼻的气  e.g Everyone is fuming about the loss to our opponents
+1. *mourn* 悲伤，哀悼 e.g they mourn the passing a simpler way of life
+1. *evoke* *remind* 唤起
+1. *indignation* 愤怒 *indignant* 愤怒的
+1. *thrill* 激动 e.g There's the place that never fails to thrill me
+1. *tremble* 发抖 e.g My legs were trembling with fear
+1. *zeal* 热情 e.g passion enthusiastic enthusiasm He has great religious zeal...
+1. *grieve* 悲伤的 e.g Many citizens grieved for the victims who had died in the terrorist attack
+1. *empathy* 共鸣 *sympathy symphony* e.g I have empathy for what you have experienced
+1. *fuss* 纠结，大惊小怪
+1. *gracious* 慈祥的 *grateful graceful* *tender* 温柔的 
+1. *cordial* 热情友好的 e.g the discussion conducted in a cordial atmosphere...
+1. *versatile* 多才多艺的 
+1. *timid* 害羞胆小的 e.g She is timid child who barely 
+1. *sane* 理智的 e.g I try to keep myself sane by getting out of the crowded city...
+1. *cohesive* 团结的 e.g the cohesive community rallied to protest the construction of the chemical plant...
+1. *militant* 好战的，激进的 *military* 
+1. *snobbish* 势力的 e.g found her very snobbish
+1. *grim* 忧愁的 grin e.g Despite the grim forecast...
+1. *wicked* 邪恶的
+1. *eccentric* 古怪的 e.g our neighbor is an eccentric old man who keeps 20 snakes...
+1. *petty* 琐碎的，小气的 e.g when these people run out of money, they often turn to perry crime
+1. *slender* 修长的，纤细的 e.g slender figures
+1. *eloquent* 有说服力的 convinced e.g his eloquent 
+1. *mute* 沉默的 e.g sat mutely
+1. *discretion* 审慎 e.g salary is left to the discretion of the supervisor
+1. *wary* 小心的 e.g I am a little wary about giving my address to someone I don't know very well
+1. *benevolent* 仁慈的 e.g A benevolent uncle paid for her to learn Chinese
+1. *idle* 懒惰的 e.g Decreased demand for the products has left the worker idle for a month
+1. *sly* 狡诈的 e.g the sly smile of his opponent makes him...
+1. *amiable* 和蔼可亲的 e.g This teacher always speaks in an amiable tone... *benign* 和善的 
+1. *arrogant* 傲慢的 e.g The docter received complaints from a lot of patients about his arrogant behavior
+1. *eminent* 卓越的 e.g The eminent athlete had won the world chanpionship1 at the age of 20
+1. *notorious* 声名狼藉的 e.g Hitler is a notorious dictator
+1. *reckless* 鲁莽的 e.g Don't do anything reckless
+1. *robust* 强健的结实的
+1. *ruthless* 残忍的
+1. *shrewd* 精明的 e.g the shrewd businessman made a huge profit by cooperating with a big corperation
+1. *vulgar* 粗俗的 e.g she gave a rather vulgar laugh
+1. *lodge* 小屋，提出 e.g the local community lodged a complaint about...
+1. *aisle* 过道 e.g He prefer an aisle seat on the train since it's faster to get off
+1. *compartment* 隔间 e.g A ticket for a seat in the first-class compartment is often more expensive
+1. *lawn* 草地 e.g he spent a whole afternoon mowing the lawn in front of his house
+1. *cathedral* 大教堂 e.g Running is strictly forbidden in the cathedral
+1. *deck* 甲板 e.g Let's go up on deck to breathe fresh air
+1. *circus* 马戏团
+1. *vicinity* 附近的 e.g This earthquake affected several cities in the vicinity
+1. *locality* 地区，位置 e.g poeple in this locality used to take two meals a day
+1. *orchard* 果园 e.g he went to the cherry orchard to see flowers
+1. *pasture* 放牧
+
+***
+
+1. *trench* 战壕，沟渠 e.g Workman were digging a trench beside the road
+1. *slope* 斜坡 e.g It can be exhausted to climb up such a steep slope
+1. *cemetery* 坟墓  *tomb grave* e.g His wife is buried in the cemetery on the hill
+1. *stairway* 楼梯 e.g Could you find the stairway leading to the basement
+1. *auditorium* 礼堂 e.g students watched a play at the new auditorium
+1. *venue* 场所，地点 e.g the stadium has been specifically disigned as a venue for the world championships *avenue revenue*
+1. *booth* 电话亭，小摊 e.g a woman staffing an animal rights booth was distributing the brochure
+1. *cottage* 小别墅，小屋
+1. *dock* 码头 e.g we took the children to the dock to see the ships
+1. *summit* 顶峰 e.g break through to the summit of corporate power
+1. *intersection* 路口 
+1. *junction* 交汇处 e.g Is was near the junction of city road and old street
+1. *pavement* 人行道 *pave*
+1. *jargon* 行话，术语 e.g a great deal of legal jargon has a totally different meaning from its daily use
+1. *pretext* 借口 e.g the incident was used as the pretext for military intervention
+1. *aural* 听力的 e.g this teacher uses tapes as aural teaching aids to teach Japanese
+1. *idiom* 习语 e.g if you are unfamiliar with words or idiom...
+1. *satire* 讽刺 e.g the novel is regarding as a work full of biting satire
+1. *offensive* 无礼的 e.g his remarks were deeply offensive *offense defense*
+1. *vest* 背心 
+1. *robe* 长袍 e.g British judges wear black robes and wigs when they are in court
+1. *sleeve* 袖子 
+1. *slipper* 拖鞋
+1. *accessory* 配饰 e.g Is also has a good range of accessory including...
+1. *leather* 皮革 *feather* 羽毛
+1. *cloak* 遮盖 e.g their negotiation were cloaking in secrecy
+1. *cape* 斗篷
+1. *knit* 编织 e.g her grandmother is knitting a sweater for her
+1. *collar* 衣领 e.g I turned up my collar against the wind
+1. *lorry* 卡车
+1. *locomotive* 机车，火车头 e.g how many coaches can that locomotive pull
+1. *cruise* 航行 e.g You can take a leisurely cruise on the lake
+1. *submarine* 潜艇 e.g russian nuclear submarine
+1. *oar* 船桨 e.g In dragon boat rowing each person has one oar *paddle*
+1. *excursion* 远足 e.g our class will make an excursion to the seaside
+1. *expedition* 探险 *expenditure* e.g the expedition returned...
+1. *sightseeing* 观光 e.g We will go sightseeing in the countryside...
+1. *compass* 指南针，圆规 e.g we arrived there with a map and a compass
+1. *pedestrian* 行人的 e.g vehicles are not allowed on the pedestrian street
+1. *ferry* 渡船 e.g the last ferry sails at...
+1. *monument* 纪念碑 e.g there's a monument in the main square
+1. *pickup* 改善 e.g the pickup of market helped regain investor's confidence
+1. *basin* 盆
+1. *tub* 浴缸，盆 e.g he took a long bath in the tub after...
+1. *kettle* 水壶 e.g I'll put the kettle on and make some tea
+1. *lid* 盖子 e.g A garbage can lid
+1. *mug* 马克杯 e.g he raised his beer mug and said 'cheers' to his friend
+1. *oven* 烤箱

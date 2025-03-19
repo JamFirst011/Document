@@ -1254,4 +1254,3 @@
 1. *flour* 面粉 e.g mix the wheat flour and water to from a paste
 1. *loaf* 条 e.g a loaf of bread
 1. *crust* 面包皮 e.g Her children prefer to eat pizza with thin crust
-1. 

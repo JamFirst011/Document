@@ -1108,13 +1108,13 @@
 1. *distress* 痛苦 e.g Children suffer emotional destress when their...
 1. *fume* 发怒,刺鼻的气  e.g Everyone is fuming about the loss to our opponents
 1. *mourn* 悲伤，哀悼 e.g they mourn the passing a simpler way of life
-1. *evoke* *remind* 唤起
+1. *evoke* *remind recollect* 唤起
 1. *indignation* 愤怒 *indignant* 愤怒的
 1. *thrill* 激动 e.g There's the place that never fails to thrill me
 1. *tremble* 发抖 e.g My legs were trembling with fear
 1. *zeal* 热情 e.g passion enthusiastic enthusiasm He has great religious zeal...
 1. *grieve* 悲伤的 e.g Many citizens grieved for the victims who had died in the terrorist attack
-1. *empathy* 共鸣 *sympathy symphony* e.g I have empathy for what you have experienced
+1. *empathy* 共鸣 *sympathy compassion symphony* e.g I have empathy for what you have experienced
 1. *fuss* 纠结，大惊小怪
 1. *gracious* 慈祥的 *grateful graceful* *tender* 温柔的 
 1. *cordial* 热情友好的 e.g the discussion conducted in a cordial atmosphere...
@@ -1127,7 +1127,7 @@
 1. *grim* 忧愁的 grin e.g Despite the grim forecast...
 1. *wicked* 邪恶的
 1. *eccentric* 古怪的 e.g our neighbor is an eccentric old man who keeps 20 snakes...
-1. *petty* 琐碎的，小气的 e.g when these people run out of money, they often turn to perry crime
+1. *petty* 琐碎的，小气的 *trivial* e.g when these people run out of money, they often turn to perry crime
 1. *slender* 修长的，纤细的 e.g slender figures
 1. *eloquent* 有说服力的 convinced e.g his eloquent 
 1. *mute* 沉默的 e.g sat mutely

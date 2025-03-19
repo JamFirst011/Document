@@ -1207,3 +1207,51 @@
 1. *lid* 盖子 e.g A garbage can lid
 1. *mug* 马克杯 e.g he raised his beer mug and said 'cheers' to his friend
 1. *oven* 烤箱
+
+***
+
+1. *axe* 斧子 e.g dad used an axe to cut down all the dead trees in the yard
+1. *brace* 做准备，顶住 e.g The troops are bracing themselves for the inevitable war
+1. *thermometer* 温度计
+1. *broom* 扫帚 e.g he sweeps floors with a broom every day...
+1. *cord* 绳子 e.g the curtain was tied with a cord to let the sunlight in
+1. *quilt* 被子
+1. *locker* 储物柜 e.g There is a spacious locker room near the swimming pool
+1. *drawer* 抽屉
+1. *sponge* 海绵 
+1. *razor* 剃刀 e.g I bought my father a razor as a gift
+1. *strap* 带子 e.g I prefer a watch with a leather strap...
+1. *spade* 铲子
+1. *elastic* 有弹性的 e.g The girl tied her hair with an elastic band
+1. *hose* 软管 e.g He washes his car down with a garden hose
+1. *rack* 架子 e.g Please put your suitcase on the luggage rack
+1. *tile* 瓷砖 e.g Most bathroom have tile walls and floors
+1. *rod* 杆，棒 e.g The concrete walls are strengthened with steel rod
+1. *stool* 凳子 e.g The two fishman perched on bar stools and had a beer
+1. *pedal* 踏板 e.g He pushed hard on the brake pedal to avoid a collision
+1. *pendulum* 钟摆 e.g In education, the pendulum has swung back to traditional teaching method
+1. *projecter* 投影仪 e.g We need a projecter for the meeting
+1. *siren* *alarm* 警报
+1. *memo* 备忘录 
+1. *trademark* 商标 e.g Coca Cola is a word-famous registered trademark
+1. *velvet* 丝绒 e.g I taped the base of the feather onto the velvet
+1. *thread* 线 e.g She took a needle and thread to sew it up
+1. *bin* 储物箱 e.g the bargain bin in which the poor girl doubtless found her garment...
+1. *blanket* 毯子
+1. *fuse* 融合，融化 e.g The two enterprise have been fused into a single organization
+1. *plaster* 石膏 e.g the plaster on school walls was cracked...
+1. *plough* 犁地 
+1. *pump* 泵
+1. *rein* 缰绳，控制 e.g You can pull on both rein to slow a horse
+1. *timber* 木材 e.g The benches in the park are all made of timber
+1. *ribbon* 袋子 *strap* e.g The little girl tied a blue ribbon in her hair...
+1. *wax* 蜡 e.g he waxes the floor once a month
+1. *harness* 控制并利用(自然资源) e.g We can harness solar energy to generate the power
+1. *wardrobe* 衣柜 e.g The wardrobe was very small in our room
+1. *rake* 耙子，收集 e.g Garden rakes are used to gather up dead leaves
+1. *edible* 可食用的 e.g These mushrooms are edible...
+1. *dine* 吃饭 e.g we dined with my parents at a restaurant in town
+1. *flour* 面粉 e.g mix the wheat flour and water to from a paste
+1. *loaf* 条 e.g a loaf of bread
+1. *crust* 面包皮 e.g Her children prefer to eat pizza with thin crust
+1. 

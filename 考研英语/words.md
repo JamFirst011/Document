@@ -1254,3 +1254,34 @@
 1. *flour* 面粉 e.g mix the wheat flour and water to from a paste
 1. *loaf* 条 e.g a loaf of bread
 1. *crust* 面包皮 e.g Her children prefer to eat pizza with thin crust
+
+***
+
+1. *poultry* 家禽 e.g They raise poultry on the farm
+1. *vinegar* 醋
+1. *beverage* 饮料 e.g alcoholic beverage can only be sold to adults according to the new law
+1. *sip* 小口喝 e.g He sipped at his wine with pleasure and then put it down
+1. *cereal* 麦片 e.g I had a bowl of cereal this morning as breakfast
+1. *recipe* 食谱 *therapy* e.g The recipe calls for four ripe tomatos
+1. *pulse* 脉搏 e.g The doctor took his pulse
+1. *bruise* 瘀伤 e.g He got a bad bruise on his leg...
+1. *syndrome* 综合症状 e.g Emotional tears can give rise to 'dry eye' symdrome in some cases
+1. *fracture* 破裂 e.g The company was fractured into several smaller groups
+1. *germ* 细菌 e.g Dirty hands can be a breeding ground for germs
+1. *pharmacy* 药房 e.g You can buy medicine from an all-night pharmacy
+1. *rash* 鲁莽的 *reckless* e.g Don't do anything rash until I get there
+1. *querantine* 隔离期 *segregate* e.g the horse were kept in quarantine for two weeks
+1. *diabetes* 糖尿病
+1. *ward* 病房 e.g There was little contact during shift because the ward was busy
+1. *herb* 药草 e.g I had to take herb tea although it's bitter
+1. *casualty* 受害者 e.g the rapid rising number of casualty in the war...
+1. *handicap* 身理缺陷 e.g Despite her handicap, Jane is able to hold down a full-time job
+1. *lame* 瘸的，没有说服力的 *breach* e.g He is lame in the right leg
+1. *resign* 辞职
+1. *scout* 侦查，搜寻 e.g He scouted around to see what he could find
+1. *magistrate* 执法官
+1. *mistress* 情妇，女主人 e.g Hellen wants to be mistress of her own
+1. *porter* 门卫 e.g You can ask the hotel porter to get you a taxi
+1. *shepherd* 牧民 e.g The shepherd and his sheep were walking home from the mountains
+1. *mentor* 导师 e.g Thanks to my mentor and my friend...
+1. *overtime* 加班，超时的 e.g He has to work overtime to meet the deadline

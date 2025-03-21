@@ -1285,3 +1285,59 @@
 1. *shepherd* 牧民 e.g The shepherd and his sheep were walking home from the mountains
 1. *mentor* 导师 e.g Thanks to my mentor and my friend...
 1. *overtime* 加班，超时的 e.g He has to work overtime to meet the deadline
+
+***
+
+1. *deputy* 副手，代理人 e.g I'm acting deputy till the manager returns
+1. *toil* 苦干 e.g I can finally relax a little at night after a day's hard toil
+1. *vocation* 使命感，工作 e.g She struggled for years to find her true vocation
+1. *accountant* 会计 e.g Our company really needed a new accountant
+1. *attendant* 服务员，随之而来的 e.g the attendant need for physical and financial assistance
+1. *peasant* 农名 e.g He was born of a peasant family
+1. *raid* 突袭 e.g the building was hit during an air raid *insult assault*
+1. *feudal* 封建的 e.g China has advanced from a feudal society to a modern industrial economy
+1. *autonomy* 自治 e.g Hong Kong is given a high degree of autonomy...
+1. *majesty* 雄伟，威严 e.g The queen was seated on the throne in all her majesty
+1. *imperial* 帝国的 *empire* e.g the emperor lived his entire life in the imperial palaca
+1. *treaty* 条约 e.g the treaty between the two countries will strengthen their bonds
+1. *cabinet* 橱柜，内阁 e.g the cabinet minister votes for...
+1. *intrigue* 密谋，阴谋，感兴趣
+    - the boss is intrigued by the emplyee's creative idea/initiate
+    - she found a web of intrigue in the company
+1. *judicial* 司法的 e.g the judicial system in the US is...
+1. *deficit* 亏损，缺陷
+1. *equity* 资产 e.g she sold her equity in the company
+1. *decree* 法令 *legislation* e.g the president signed a new decree today
+1. *ballot* 投票 e.g the result of ballot will be published in two weeks
+1. *clause* 从句，条款 e.g there is a clause in the contract requiring a paid level
+1. *compact* 小型的，条款 e.g he received a compact package
+1. *diploma* 毕业文凭 *diplomatic* 外交的 e.g Those two countries have broken off diplomatic relation again
+1. *fleet* 舰队，车队 e.g shuttle fleet
+1. *tariff* 关税 
+1. *ethnic* 种族的，名族的 e.g Pupils in this school are from different ethnic groups
+1. *massacre* 大屠杀 e.g Nobody survived the massacre
+1. *proceedings* 活动进程 e.g Many people watched the proceeding online
+1. *rally* 集合，集会 e.g union have rallied thousands of supporters against...
+1. *sue* 控告 e.g the alcoholic is being sued for divorce by his wife
+1. *unanimous* 全体一致的 e.g Unanimous agreement must be reached for this plan to go ahead
+1. *veteran* 老手
+1. *veto* 否决
+1. *agitate* 激怒,焦虑 e.g Many Scottish people agitated against...
+1. *defy* *violate breach* 违反 e.g I wouldn't have dared to defy my teachers
+1. *hierarchy* 等级制度 e.g India has a very strict social hierarchy
+1. *precedent* 先例 *precede* 之前
+1. *prosperous* 繁荣的 
+1. *endorse* 公开支持
+1. *merchant* 商人 *merchandise* 推销
+1. *transit* 运输 e.g The advent of high-speed trains makes rail transit faster than road
+1. *stall* 停顿 e.g the call stalled ...
+1. *deposit* 放下 e.g he deposit the case in the left luggage office
+1. *banquet* 宴会 e.g the ceremony included a grand banquet and a formal dance
+1. *feast* 盛宴 e.g farmer's markets are a feast for the senses
+1. *warranty* 保证 e.g according to the instructions, the air conditioner is still under warranty
+1. *coupon* 礼券，优惠券 e.g New customers of the online shop will get a coupon for their first purchase
+1. *freight* 运送，托运
+1. *repetoire* 全部剧目
+1. *cargo* 货物
+1. *discount* 折扣，不信 e.g we cannot discount the posibility of further strikes
+1. 

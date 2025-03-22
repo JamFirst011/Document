@@ -1341,3 +1341,42 @@
 1. *cargo* 货物
 1. *discount* 折扣，不信 e.g we cannot discount the posibility of further strikes
 1. 
+
+***
+
+1. *hollow* 中空的 e.g This tree looks high and strong but actually its trunk is hollow
+1. *lofty* 高耸的 e.g The leaders set out with lofty ideals
+1. *heap* 一堆 e.g We got heaps of homework tonight
+1. *bundle* 一捆 e.g I received a bundle of letters last month
+1. *diameter* 直径 *radius*
+1. *miniature* 缩影 e.g She is just like her mother in miniature 
+1. *scrap* 碎片，废除 e.g when policies like the national obesity strategy are scrapped...
+1. *patch* 小块，补丁 e.g My mother sewed patches on the knees of my blue jeans
+1. *innumerable* 数不清的 e.g Innumerable books have been written on the subject
+1. *cluster* 聚集 e.g the men clustered together round the fire and sang songs
+1. *metric* 米制的 e.g most high-tech industrial have been using the metric system for decades
+1. *swan* 天鹅
+1. *squirrel* 松鼠 
+1. *hound* 猎犬，追踪 e.g They were hounded by the press(新闻界)
+1. *reptile* 爬行动物 
+1. *crab* 螃蟹 
+1. *buzz* 闹哄，兴奋 e.g The room buzzed with excitement
+1. *paw* 爪子 e.g I found paw prints of a cat on the floor
+1. *horn* 喇叭，角 e.g the driver sounded the car horn impatiently in the heavy traffic
+1. *flock* 聚集，一群 e.g a flock of children...
+1. *vegetation* 植物
+1. *weed* 杂草 *seed*
+1. *violet* 紫罗兰
+1. *thorn* 荆棘
+1. *bud* 发芽，芽 e.g there has been a budding economic recovery since...
+1. *hawk* 叫卖，鹰 e.g There is a kind of false precision being hawked by people...
+1. *mammal* 哺乳动物 
+1. *howl* 嚎叫 e.g she began to howl like a wild animal
+1. *stalk* 跟踪，大步走 *stride* e.g the lion wa stalking a zebra
+1. *swarm* 一大群 e.g the dead birds attract a swarm of flies
+1. *breed* 培养，品种 e.g his horse is of best breed
+1. *ore* 矿石 e.g the area has a rich deposit of iron ore
+1. *eclipse* 遮住...的光，使黯然失色 e.g Though a talented player, he was completely eclipsed by his brother
+1. *ebb* 退潮，衰退 e.g his strenght began to ebb away after jogging for half an hour
+1. *ridge* 山脊 e.g It is a big challenge for an amateur expedition to walk along the narrow mountain ridge
+1. *mutter* 嘀咕，抱怨 e.g stop muttering to yourself, just speak up!

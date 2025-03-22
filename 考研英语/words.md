@@ -627,7 +627,7 @@
 1. *underlying* 潜在的，根本的 *potential radical inherent*
 1. *vessel* 船，血管 e.g blood vessel
 1. *vice* 坏习惯，副的 e.g Virtue and vice are two diffenrent things
-1. *warrant mandate* 授权
+1. *warrant* 授权，值得 mandate* 授权
 1. *acute* 严重的，敏感的
 1. *agony* 极度痛苦 e.g the poor husband still can't recover from the agony of losing her wife
 
@@ -1244,7 +1244,7 @@
 1. *pump* 泵
 1. *rein* 缰绳，控制 e.g You can pull on both rein to slow a horse
 1. *timber* 木材 e.g The benches in the park are all made of timber
-1. *ribbon* 袋子 *strap* e.g The little girl tied a blue ribbon in her hair...
+1. *ribbon* 带子 *strap* e.g The little girl tied a blue ribbon in her hair...
 1. *wax* 蜡 e.g he waxes the floor once a month
 1. *harness* 控制并利用(自然资源) e.g We can harness solar energy to generate the power
 1. *wardrobe* 衣柜 e.g The wardrobe was very small in our room
@@ -1264,7 +1264,7 @@
 1. *cereal* 麦片 e.g I had a bowl of cereal this morning as breakfast
 1. *recipe* 食谱 *therapy* e.g The recipe calls for four ripe tomatos
 1. *pulse* 脉搏 e.g The doctor took his pulse
-1. *bruise* 瘀伤 e.g He got a bad bruise on his leg...
+1. *bruise* 瘀伤 *cruise* e.g He got a bad bruise on his leg...
 1. *syndrome* 综合症状 e.g Emotional tears can give rise to 'dry eye' symdrome in some cases
 1. *fracture* 破裂 e.g The company was fractured into several smaller groups
 1. *germ* 细菌 e.g Dirty hands can be a breeding ground for germs
@@ -1293,7 +1293,7 @@
 1. *vocation* 使命感，工作 e.g She struggled for years to find her true vocation
 1. *accountant* 会计 e.g Our company really needed a new accountant
 1. *attendant* 服务员，随之而来的 e.g the attendant need for physical and financial assistance
-1. *peasant* 农名 e.g He was born of a peasant family
+1. *peasant* 农名 *shepherd*  e.g He was born of a peasant family
 1. *raid* 突袭 e.g the building was hit during an air raid *insult assault*
 1. *feudal* 封建的 e.g China has advanced from a feudal society to a modern industrial economy
 1. *autonomy* 自治 e.g Hong Kong is given a high degree of autonomy...
@@ -1322,7 +1322,7 @@
 1. *unanimous* 全体一致的 e.g Unanimous agreement must be reached for this plan to go ahead
 1. *veteran* 老手
 1. *veto* 否决
-1. *agitate* 激怒,焦虑 e.g Many Scottish people agitated against...
+1. *agitate* *irritate* 激怒,焦虑 e.g Many Scottish people agitated against...
 1. *defy* *violate breach* 违反 e.g I wouldn't have dared to defy my teachers
 1. *hierarchy* 等级制度 e.g India has a very strict social hierarchy
 1. *precedent* 先例 *precede* 之前
@@ -1340,6 +1340,10 @@
 1. *repetoire* 全部剧目
 1. *cargo* 货物
 1. *discount* 折扣，不信 e.g we cannot discount the posibility of further strikes
+1. *gauge* 判断,测量  e.g I tried to gauge the weight of the box
+1. *summon* 传唤 e.g suddenly I was summoned to the headmaster's office
+1. *sob* 哭泣 
+1. *siege* 围攻 e.g the siege was finally ended after six months
 1. 
 
 ***

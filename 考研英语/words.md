@@ -1384,3 +1384,42 @@
 1. *ebb* 退潮，衰退 e.g his strenght began to ebb away after jogging for half an hour
 1. *ridge* 山脊 e.g It is a big challenge for an amateur expedition to walk along the narrow mountain ridge
 1. *mutter* 嘀咕，抱怨 e.g stop muttering to yourself, just speak up!
+
+***
+
+1. *pond* 池塘 e.g There's a fish pond in the yard
+1. *torrent* 激流 e.g the river become a torrent after 7 days of consecutive rain
+1. *barren* 贫瘠的 e.g the barren land can produce little food
+1. *swamp* 沼泽，淹没 e.g they feared that their economies would be swamped by ...
+1. *gulf* 海湾，分歧 e.g The ship sailed through the gulf and headed for the harbour
+1. *meadow* 草地，牧场 e.g We went for a picnic in the meadow by the campus after exam
+1. *plateau* 稳定期,高原 e.g Sales have now reached a plateau
+1. *spectacle* 壮观的景象 e.g the subset was a stunning spectacle
+1. *intermediate* 中间的 e.g the country is now at an intermediate stage of development
+1. *midst* 中 e.g One of these urges has to do with creating a state of peace in the midst of turbulence
+1. *comet* 彗星 
+1. *lens* 透镜，镜片 e.g he bought a camera with a zoom lens
+1. *specimen* 样本 *sample* e.g Can you give me a specimen of your handwriting?
+1. *missile* 导弹 e.g the lauch of nuclear missiles can cause disastrous damage to the human-beings
+1. *friction* 摩擦力 *fiction* e.g friction can stop things from moving
+1. *impetus* 推动力 e.g The hope of living a better life is his impetus to study
+1. *aviation* 航空业 e.g He devoted all his life to China's aviation
+1. *fortnight* 两周 e.g he's been to the hospital three times in the past fortnight
+1. *interval* 间隔，中场休息 e.g There will be an interval of 20 minutes after the second act
+1. *tropic* 热带 *tropical*
+1. *equator* 赤道
+1. *humidity* 湿度 *humid damp moist* e.g instruments constantly monitor temperature and humidity
+1. *breeze* 微风 e.g people are out walking, and enjoying a gentle breeze on a beautiful day
+1. *frost* 霜 e.g It was so cold and the windows were covered with frost
+1. *tutor* 家庭教师 e.g He was my personal tutor at university
+1. *plural* 复数，多样的 e.g The plural of 'woman' if 'women'
+1. *arithmetic* 算数 e.g He's not very good at arithmetic
+1. *decimal* 小数，十进制的 *binary* e.g The decimal 0.61 stands for ....
+1. *dictation* 听写，口述 e.g There will be an English dictation test at the beginning of the course
+1. *digest* 消化，理解 e.g You should allow a little time after a meal for the foot to digest
+1. *excerpt* 摘录 e.g The preface of the book includes an excerpt from a poem
+1. *hypothesis* 假设，猜想 e.g There is little evidence to support these hypothesis
+1. *periodical* 期刊，周期的 e.g I should be glad if you could insert this article into your periodical
+1. *questionnaire* 调查问卷 e.g We gave them some questionnaire for collecting data
+1. *seminar* 研讨会 e.g Scientists from eight countries attended the seminar on modern science and technology
+1. dp

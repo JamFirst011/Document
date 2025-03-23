@@ -1336,15 +1336,14 @@
 1. *feast* 盛宴 e.g farmer's markets are a feast for the senses
 1. *warranty* 保证 e.g according to the instructions, the air conditioner is still under warranty
 1. *coupon* 礼券，优惠券 e.g New customers of the online shop will get a coupon for their first purchase
-1. *freight* 运送，托运
-1. *repetoire* 全部剧目
+1. *freight* 运e，托运
+1. *repertoire* 全部剧目
 1. *cargo* 货物
 1. *discount* 折扣，不信 e.g we cannot discount the posibility of further strikes
 1. *gauge* 判断,测量  e.g I tried to gauge the weight of the box
 1. *summon* 传唤 e.g suddenly I was summoned to the headmaster's office
 1. *sob* 哭泣 
 1. *siege* 围攻 e.g the siege was finally ended after six months
-1. 
 
 ***
 
@@ -1420,6 +1419,7 @@
 1. *excerpt* 摘录 e.g The preface of the book includes an excerpt from a poem
 1. *hypothesis* 假设，猜想 e.g There is little evidence to support these hypothesis
 1. *periodical* 期刊，周期的 e.g I should be glad if you could insert this article into your periodical
-1. *questionnaire* 调查问卷 e.g We gave them some questionnaire for collecting data
+1. *questionnaire* 调查问卷   e.g We gave them some questionnaire for collecting data
 1. *seminar* 研讨会 e.g Scientists from eight countries attended the seminar on modern science and technology
-1. dp
+1. *benigh* 和善的，慈祥的 e.g Everyone likes him since he always wears a benigh smile on his facar
+1. *sarcastic* 讽刺的 *irony* 讽刺 e.g The arrogant man often pokes fun at people's shortcomings with sarcastic remarks

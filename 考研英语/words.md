@@ -1022,7 +1022,7 @@
 1. *delegate* 派来做 e.g the new manager was delegated to reorganize the department
 1. *intercourse* 交往
 1. *recollect* 回忆
-1. *dwell* 往...想 e.g Don't dwell on past failures
+1. *dwell* 居住，往...想 e.g Don't dwell on past failures
 1. *endow* 赋予 e.g Nature endowed her with a beautiful singing voice
 1. *sprinkle* 洒，撒 e.g sprinkle a little cheese over the pizza...
 1. *clutch* 紧握 e.g I clutch on the chair for support
@@ -1423,3 +1423,57 @@
 1. *seminar* 研讨会 e.g Scientists from eight countries attended the seminar on modern science and technology
 1. *benigh* 和善的，慈祥的 e.g Everyone likes him since he always wears a benigh smile on his facar
 1. *sarcastic* 讽刺的 *irony* 讽刺 e.g The arrogant man often pokes fun at people's shortcomings with sarcastic remarks
+
+***
+
+1. *fable* 寓言，谣传 e.g The mother was telling the fable of the tortoise to...
+1. *canvas* 帆布 e.g Canvas bags have been in fashion for hundreds of years
+1. *reel* 卷轴 e.g He want to buy a new fishing reel
+1. *riddle* 谜语 e.g No one can solve the riddle of the ...
+1. *puppet* 木偶，傀儡 e.g the blue-collar workers have become economic puppets...
+1. *tempo* 速度 e.g We must raise the tempo or we will fail to finish it..
+1. *ballet* 芭蕾 
+1. *dwarf* 矮小的 e.g There is a dwarf apple tree in our garden
+1. *funeral* 葬礼 e.g Hundreds of people attended the funeral
+1. *metaphor* 比喻 e.g he used the metaphor of fire to represent hatred
+1. *script* 剧本 e.g He has written scripts for a number of successful movies
+1. *taboo* 禁忌 e.g The topic of addiction is a taboo in our family
+1. *aesthetic* 审美的，美学的 e.g This oil painting has little aesthetic value
+1. *divine* 天意的 e.g He suggested that the earthquake had been a divine punishment
+1. *instrumental* 起作用的，乐器的 e.g He was instrumental in bringing about an end to the conflict
+1. *fixture* 固定装置 e.g The price includes all fixtures and fittings
+1. *relay* 转发 e.g He relayed the message to his boss
+1. *desolate* 荒凉的 e.g Bands of outlaws lived in the desolate mountains after breaking the laws
+1. *alternate* 替代，轮换 e.g We alternate in doing the housework
+1. *mingle* 结合 *combine fuse integrate* e.g He mingled in the crowd
+1. *perplex* 迷惑 e.g They were perplexed by her response
+1. *commence* 开始发生，着手 e.g She commenced her medical career in 1956
+1. *ignite* 燃烧 e.g A lit cigarette can ignite a big forest fire
+1. *sway* 摇摆 e.g the flower swaying in the wind
+1. *wreck* 事故，残骸 e.g Historains found the wrech of the famous ship lying on the seabed
+1. *oppress* 压迫 e.g True love should not be about oppressing the other
+1. *corrode* 腐蚀 *decay* e.g Acid corrodes metal
+1. *contaminate* 弄脏 e.g The river contaminated with lead can harm local people's health
+1. *shatter* 破碎，毁灭 e.g He dropped the vase and it shattered into pieces on the floor
+1. *transcend* 超出，超越 e.g Music is a language that transcends culturla barriers
+1. *recede* 渐渐远去 e.g His back receds into the dictance and is finally out of my sight
+1. *lash* 鞭打 e.g The river lashed the horse to go faster...
+1. *drip* 滴下 e.g We'd better get a plumber because the tap is dripping
+1. *eject* 逐出 e.g The noisy youths were ejected from the cinema
+1. *expel* 开除 e.g She was expelled from school at 15
+1. *collide* 碰撞 e.g The car collide with a van
+1. *detain* 扣留 e.g Three men were detained as suspects
+1. *dissipate* 驱散 e.g the sun dissipate the mist
+1. *radiate* 辐射 *radiation* e.g Heat that radiate from the sun...
+1. *submerge* 淹没 e.g She was taken to hospital after being submerged in a rive
+1. *weave* 编织 e.g She weaved a nice scarf this morning
+1. *peel* 剥掉 e.g They peel off their clothes...
+1. *graze* 放牧 *pasture* e.g There were cows grazing beside the river
+1. *shiver* 发抖 *tremble*
+1. *quiver* 发抖 
+1. *tug* 拖拉 e.g The tug pulling it was as big as a supertanker
+1. *pinch* 拧 e.g She pinched his arm hard to stop him talking 
+1. *scrape* 刮掉 e.g Jane scraped the mud off her boots before getting into room
+1. *sniff* 闻
+1. *puff* 吸气，喘粗气
+1. *snatch* 抓起 e.g She managed to snatch the gun from his hand

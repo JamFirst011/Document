@@ -1419,8 +1419,7 @@
 1. *excerpt* 摘录 e.g The preface of the book includes an excerpt from a poem
 1. *hypothesis* 假设，猜想 e.g There is little evidence to support these hypothesis
 1. *periodical* 期刊，周期的 e.g I should be glad if you could insert this article into your periodical
-1. *questionnaire* 调查问卷   e.g We gave them some questionnaire for collecting data
-1. *seminar* 研讨会 e.g Scientists from eight countries attended the seminar on modern science and technology
+1. *questionnaire* 调查问卷   e.g We gave them some questionnaire for collecting wlata
 1. *benigh* 和善的，慈祥的 e.g Everyone likes him since he always wears a benigh smile on his facar
 1. *sarcastic* 讽刺的 *irony* 讽刺 e.g The arrogant man often pokes fun at people's shortcomings with sarcastic remarks
 
@@ -1477,3 +1476,64 @@
 1. *sniff* 闻
 1. *puff* 吸气，喘粗气
 1. *snatch* 抓起 e.g She managed to snatch the gun from his hand
+1. *buffet* 打击，自助餐 e.g The nation had been buffeted by a wave of strikes
+1. *buffet* 打击，自助餐 e.g The nation had been buffeted by a wave of strikes
+
+***
+
+1. *scramble* 攀登 e.g She managed to scramble over the wall
+1. *glide* 滑翔 e.g He saw birds gliding across the sky
+1. *alienate* 排斥 e.g The new policy unveiled by government is accused of alienating ner comers
+1. *elapse* 时间流逝 e.g Three years have elapsed since...
+1. *subtract* *deduct* 减去 
+1. *hoist* 升起，举起 e.g He hoisted the package over his shoulder
+1. *enclose* 围起来 e.g the yard is enclosed with a wooden fence..
+1. *presume* 推测 *presumably* e.g The missing girl is presumed dead
+1. *inhibit* 阻止 e.g ...can inhibit their personal development
+1. *reconcile* 使和解 e.g It's difficult to reconcile these two different view
+1. *sparkle* 闪烁 e.g In summer, the stars sparkle over the lake
+1. *sprout* 发芽
+1. *contrive* 促成 e.g It took her five years to contrive family reunion after the civil war
+1. *renovate* 修复 e.g They spent a month renovating the old farmhouse...
+1. *avail* 有用 e.g He tried and tried but all his efforts were of no avail
+1. *preclude* 阻止 e.g The contract preclude him from disclosing...
+1. *suffice* 足以 *sufficient* e.g A letter or a phone call will suffice
+1. *escalate* 增长 e.g The house price in China have excalated sharply
+1. *denounce* 告发 e.g They denounce him to the police as a criminal
+1. *slump* 猛跌 e.g Car sales have slumped by 20%...
+1. *eradicate* 根除 e.g He claimed that the corruption has been fully eradicated
+1. *aggregate* 总计 e.g two major parties gained an aggregate of 90% of the vote
+1. *convene* 开会 e.g The committee will convene next week to discuss the new policy...
+1. *deplete* 耗尽 e.g the illness depletes the strenght of the body
+1. *elicit* 探出 e.g Have you managed to elicit information from them yet?
+1. *erode* 腐蚀 e.g Acid rain has eroded the status into...
+1. *inflict* 造成伤害 e.g Do you have inflict that music on us?
+1. *stagnate* 停滞 e.g Populatino growth is expected to stagnate...
+1. *stipulate* 规定 e.g the regulation stripulate everything that citizens must comply to
+1. *blaze* 火焰 e.g dry wood can make a good blaze
+1. *credential* 资格，证件 e.g you must show your credential before interviewing
+1. *dispose* 处理，安排
+1. *elevate* 提拔 e.g Reading good books elevate your mind
+1. *glow* 发光 e.g The Children's cheeks glowed from the cold
+1. *hover* 处于 e.g the price of oil hovered around 10...
+1. *intrude* 侵入 e.g journalist like to intrude on the superstar's private life
+1. *ponder* 沉思 e.g he ponder for some minute before giving the answer 
+1. *scold* 责骂 e.g I got a scold from my mother
+1. *sneak* 偷偷携带，偷偷运送，偷偷走 e.g this student sneak in the class...
+1. *spill* 洒出 e.g I managed to carry three full glasses without spilling a drop
+1. *blend* 融合 e.g Blend eggs...
+1. *browse* 浏览 e.g He browsed through the news quickly before getting off the bus
+1. *bump* 撞上,前进 e.g The old bus bumped along the mountain road
+1. *glitter* 闪耀 e.g If the sky is cloudless we can see stars glitter
+1. *grind* 磨碎 e.g would you please grind a pound of coffee for me?
+1. *reassure* 安心 e.g The teacher are reassuring the anxious parents of the missing student
+1. *rub* 揉 e.g Scolded by his mother, this poor boy cried and rubbed his eyes
+1. *affiliate* 隶属 e.g those subsidiary companies are affiliated to a giant corporation
+1. *alleviate* 减轻 e.g the drugs precribed by the doctor did nothing to alleviate her pain
+1. *complement* 补充 *compliment* e.g This wine complements the food perfectly
+1. *dilute* 稀释 e.g Dilute the fruit juice with about an equal amount of water
+1. *displace* 取代 
+1. *evaporate* 蒸发，消失 e.g Please heat until all the water has evaporated
+1. *expire* 终止，失效 e.g When does your driving licence expire
+1. *fabricate* 捏造 e.g The story was fabricated and completely untrue
+1. *magnify* 增强，夸张 e.g The microscope magnified the object 100 times

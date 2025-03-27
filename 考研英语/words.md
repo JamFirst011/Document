@@ -1537,3 +1537,53 @@
 1. *expire* 终止，失效 e.g When does your driving licence expire
 1. *fabricate* 捏造 e.g The story was fabricated and completely untrue
 1. *magnify* 增强，夸张 e.g The microscope magnified the object 100 times
+
+***
+
+1. *offset* 抵消 e.g He raise the price to offset the increased cost of materials
+1. *overwhelm* 感情充溢，击败 e.g She was overwhelming by feelings of guilty
+1. *perish* 死亡 e.g Alomost a hundred people perished in the fire
+1. *permeate* 扩散 e.g The smell permeate the whole building
+1. *refine* 精炼，改善 e.g the process of refining oil is intricate
+1. *rot* 腐烂 e.g the wood must not get damp as rot can quickly result
+1. *startle* 惊吓 e.g The explosion startled the children
+1. *testify* 证明 e.g Several witness testfied that they saw the mobs hit him in the face
+1. *withstand* 禁受住 e.g This building is designed to withstand earthquake
+1. *amplify* 放大，增强 e.g The old man wears a hearing aid to amplify sounds
+1. *avert* 防止 e.g two countries have conducted a peace talks in an attempt to avert military conflicts
+1. *coincide* 统一 e.g They didn't coincide in opinion
+1. *dazzle* 眼花 e.g He was dazzled by the warmth of her smile
+1. *incline* 倾向于 e.g the government is more effective than we incline to think
+1. *pierce* 刺破 e.g the arrow pierce his shoulder
+1. *saturate* 浸透，淋湿 e.g the ground had been saturated by overnight rain
+1. *soar* 暴涨 e.g the average temperature soared to 38
+1. *stain* 弄脏 e.g this carpet stains easily
+1. *tilt* 倾斜 e.g suddenly the boat tilted to one side
+1. *frustrate* 懊恼 e.g what frustrate him is that...
+1. *flare* 燃烧 e.g Camp fire flared like beacons in the dark
+1. *erosion* 腐蚀 e.g The erosion of the soil is damaging the forest
+1. *herald* 预示 e.g These talks could herald a new era of peace
+1. *fringe* 边缘 e.g These people live on the fringe of society
+1. *wrinkle* 皱纹 e.g She's beginning to get wrinkles around her eyes
+1. *mob* 黑社会 
+1. *strife* 冲突 e.g The country was torn apart by strife
+1. *tangle* 一团，混乱 e.g Her hair was a mass of tangle
+1. *cannon* 大炮 e.g They heard the bang of cannon
+1. *appraisal* 估计 e.t the newspaper give an objective appraisal of government's achievements...
+1. *conversion* 转换 e.g this device is designed for the conversion of waste into useable products
+1. *meditation* 沉思，冥想 e.g He devoted the rest of his life to meditation on the meaning of life
+1. *culprit* 原因，真相 e.g ...lead police to the real culprit of the murder
+1. *litter* 垃圾 e.g Council were given the right to impose fine for people who drop litter 
+1. *turmoil* 混乱，骚动 e.g The financial crisis put the whole country in economic turmoil
+1. *hedge* 规避，防备 e.g hedge rist 规避风险
+1. *pillar* 柱子，支柱 e.g The pillar supporting the roof are made of concrete and steel
+1. *crane* 伸长脖子看 e.g He crained his neck above the crowd to look for his son
+1. *remnant* 剩余部分 e.g The remnant of last night's meal might have gone bad
+1. *obstruct obstruction* 阻挡 e.g The man was charged with creating an unlawful obstruction of the highway
+1. *trifle* 琐事 e.g He told her not to bother him with trifles
+1. *rebellion* 叛乱 e.g The rebellion was soon put down
+1. *exile* 流放
+1. *famine* 饥荒
+1. *scenario* 设想 e.g The worst-case scenario is that the conflict may degenerate into civil war
+1. *salvation* 拯救 e.g Massive infrastructure construction proved to be the salvation of the countries economy
+1. *longitude* 经度 *latitude* 

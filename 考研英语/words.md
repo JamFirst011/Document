@@ -1483,11 +1483,11 @@
 
 1. *scramble* 攀登 e.g She managed to scramble over the wall
 1. *glide* 滑翔 e.g He saw birds gliding across the sky
-1. *alienate* 排斥 e.g The new policy unveiled by government is accused of alienating ner comers
+1. *alienate* 排斥 e.g The new policy unveiled by government is accused of alienating new comers
 1. *elapse* 时间流逝 e.g Three years have elapsed since...
 1. *subtract* *deduct* 减去 
 1. *hoist* 升起，举起 e.g He hoisted the package over his shoulder
-1. *enclose* 围起来 e.g the yard is enclosed with a wooden fence..
+1. *enclose* 围起来 e.g the yard is enclosed with a wooden fence.
 1. *presume* 推测 *presumably* e.g The missing girl is presumed dead
 1. *inhibit* 阻止 e.g ...can inhibit their personal development
 1. *reconcile* 使和解 e.g It's difficult to reconcile these two different view

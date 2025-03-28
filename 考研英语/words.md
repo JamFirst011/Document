@@ -1572,7 +1572,7 @@
 1. *appraisal* 估计 e.t the newspaper give an objective appraisal of government's achievements...
 1. *conversion* 转换 e.g this device is designed for the conversion of waste into useable products
 1. *meditation* 沉思，冥想 e.g He devoted the rest of his life to meditation on the meaning of life
-1. *culprit* 原因，真相 e.g ...lead police to the real culprit of the murder
+1. *culprit* 原因，真相 e.g ...lead police to the reao culprit of the murder
 1. *litter* 垃圾 e.g Council were given the right to impose fine for people who drop litter 
 1. *turmoil* 混乱，骚动 e.g The financial crisis put the whole country in economic turmoil
 1. *hedge* 规避，防备 e.g hedge rist 规避风险
@@ -1658,3 +1658,4 @@
 1. *tribute* 致敬，贡品 e.g The musician gave full tribute to his former teacher
 1. *manoeuvre* 操作 e.g The driver carried out a complex manoeuvre to pass the narrow lane
 1. *nuisance* 讨厌的人/事 e.g Local residents complained that the noise was a public nuisance
+1. *propose* 提议 *proposition* 

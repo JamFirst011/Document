@@ -1587,3 +1587,74 @@
 1. *scenario* 设想 e.g The worst-case scenario is that the conflict may degenerate into civil war
 1. *salvation* 拯救 e.g Massive infrastructure construction proved to be the salvation of the countries economy
 1. *longitude* 经度 *latitude* 
+
+***
+
+1. *debut* 首次亮相 e.g The singer's debut album is widely recognized by the public
+1. *prototype* 原型
+1. *specification* 规格，说明书 e.g The house has been built exactly to our specification
+1. *symmetry* 对称 e.g The trees break the symmetry of the painting
+1. *procession* 行列 e.g a parading procession
+1. *accordance* 符合，一致 e.g her work process was in full accordance with the rules
+1. *testimony* 证据 e.g The witness delivered a testimony in court to identify the suspect
+1. *illustration* 插图 
+1. *scent* *odour*  气味 e.g She received a bunch of roses with a lovely scent on...
+1. *discrepancy* 差异 e.g the large discrepancy between the report and the truth...
+1. *plight* 困境 e.g the government has taken measures to help the plight of earthquake...
+1. *reproach* 责备 e.g the look of reproach on his mother's face...
+1. *repression* 镇压 e.g They fight against the king's brutal repression of religious minorities
+1. *harassment* 骚扰 e.g he was arrested by the police for sexual harassment of the woman
+1. *aftermath* 后果 e.g Many people died in the aftermath of the earthquake
+1. *bearing* 影响 e.g Why should that have any bearing on what I do
+1. *stance* 观点 e.g What is your stance on the compulsory education
+1. *brief brevity* 简洁 e.g Her teachers were full of praise for her essay's brevity
+1. *cradle* 摇篮 e.g Greece is the cradle of Western civilization
+1. *paradigm* 范式 e.g many teachers are seeking to change the current teaching paradigm
+1. *petition* 请愿书 e.g They signed a petition in support of the worker's demands
+1. *plagiarism* 抄袭 e.g Plagiarism is a form of intellectual dishonesty
+1. *archive* 档案馆 e.g These old documents should go in the archives
+1. *strand* 一缕 e.g The man reached out and brushed a strand of hair away from the woman's face
+1. *brochure* 小册子 e.g A travel brochure is quite helpful when you ...
+1. *bulletin* 公告 e.g A bulletin on the President's health was issued yesterday
+1. *ego* 自尊心 e.g Winning the prize really boosted my ego
+1. *fraud* 欺骗，诈骗 e.g The young lady was arrested and will be charged with credit card fraud
+1. *glamour* 魅力 e.g Who can resist the glamour of the Internet
+1. *moisture* 潮湿，湿气 e.g A rich soil that ratains moisture is needed for this kind of plants to grow
+1. *publicity* 宣传 e.g The accident that caused several injuries brought considerable adverse publicity about the school 
+1*discrepancy* 差异 e.g the large discrepancy between the report and the truth...
+1. *plight* 困境 e.g the government has taken measures to help the plight of earthquake...
+1. *reproach* 责备 e.g the look of reproach on his mother's face...
+1. *repression* 镇压 e.g They fight against the king's brutal repression of religious minorities
+1. *harassment* 骚扰 e.g he was arrested by the police for sexual harassment of the woman
+1. *aftermath* 后果 e.g Many people died in the aftermath of the earthquake
+1. *bearing* 影响 e.g Why should that have any bearing on what I do
+1. *stance* 观点 e.g What is your stance on the compulsory education
+1. *brief brevity* 简洁 e.g Her teachers were full of praise for her essay's brevity
+1. *cradle* 摇篮 e.g Greece is the cradle of Western civilization
+1. *paradigm* 范式 e.g many teachers are seeking to change the current teaching paradigm
+1. *petition* 请愿书 e.g They signed a petition in support of the worker's demands
+1. *plagiarism* 抄袭 e.g Plagiarism is a form of intellectual dishonesty
+1. *archive* 档案馆 e.g These old documents should go in the archives
+1. *strand* 一缕 e.g The man reached out and brushed a strand of hair away from the woman's face
+1. *brochure* 小册子 e.g A travel brochure is quite helpful when you ...
+1. *bulletin* 公告 e.g A bulletin on the President's health was issued yesterday
+1. *ego* 自尊心 e.g Winning the prize really boosted my ego
+1. *fraud* 欺骗，诈骗 e.g The young lady was arrested and will be charged with credit card fraud
+1. *glamour* 魅力 e.g Who can resist the glamour of the Internet
+1. *moisture* 潮湿，湿气 e.g A rich soil that ratains moisture is needed for this kind of plants to grow
+1. *publicity* 宣传 e.g The accident that caused several injuries brought considerable adverse publicity about the school 
+1. *scandal* 丑闻 e.g He committed suicide after the scandal
+1. *suite* 套房 e.g There is no space for a new three-piece suite
+1. *bait* 鱼饵 e.g The fish snapped at the bait
+1. *feat* 功绩 e.g the bridge that connects the mainland and the island is an super feat of engineering
+1. *retention* 保留 e.g the manager argues against the retention of old technology...
+1. *advent* 到来，来临 e.g the advent of artificial intelligence...
+1. *allegiance* 拥护 e.g the soldire is highly commended for his full allegiance to the emperor
+1. *conspiracy* 阴谋 
+1. *inventory* 库存 e.g It took a whole afternoon to make a full inventory of the rich man...
+1. *panorama* 全景 e.g from the top of the mountain you can enjoy the panorama of the city
+1. *retrospect* 回想 e.g In retrospect he was a carefree boy...
+1. *synthesis* 综合 e.g his latest book shows a synthesis of traditional and modern values
+1. *tribute* 致敬，贡品 e.g The musician gave full tribute to his former teacher
+1. *manoeuvre* 操作 e.g The driver carried out a complex manoeuvre to pass the narrow lane
+1. *nuisance* 讨厌的人/事 e.g Local residents complained that the noise was a public nuisance

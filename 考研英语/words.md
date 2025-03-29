@@ -1477,7 +1477,6 @@
 1. *puff* 吸气，喘粗气
 1. *snatch* 抓起 e.g She managed to snatch the gun from his hand
 1. *buffet* 打击，自助餐 e.g The nation had been buffeted by a wave of strikes
-1. *buffet* 打击，自助餐 e.g The nation had been buffeted by a wave of strikes
 
 ***
 
@@ -1518,7 +1517,7 @@
 1. *hover* 处于 e.g the price of oil hovered around 10...
 1. *intrude* 侵入 e.g journalist like to intrude on the superstar's private life
 1. *ponder* 沉思 e.g he ponder for some minute before giving the answer 
-1. *scold* 责骂 e.g I got a scold from my mother
+1. *scold* 责骂 e.g I got a scold from my mothertion
 1. *sneak* 偷偷携带，偷偷运送，偷偷走 e.g this student sneak in the class...
 1. *spill* 洒出 e.g I managed to carry three full glasses without spilling a drop
 1. *blend* 融合 e.g Blend eggs...
@@ -1537,6 +1536,8 @@
 1. *expire* 终止，失效 e.g When does your driving licence expire
 1. *fabricate* 捏造 e.g The story was fabricated and completely untrue
 1. *magnify* 增强，夸张 e.g The microscope magnified the object 100 times
+1. *refund* 退款 e.g The fans are asking for a refund after the cancellation of the concert
+1. *equation* 方程式,复杂局面
 
 ***
 
@@ -1659,3 +1660,4 @@
 1. *manoeuvre* 操作 e.g The driver carried out a complex manoeuvre to pass the narrow lane
 1. *nuisance* 讨厌的人/事 e.g Local residents complained that the noise was a public nuisance
 1. *propose* 提议 *proposition* 
+

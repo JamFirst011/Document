@@ -1638,3 +1638,59 @@
 1. *manoeuvre* 操作 e.g The driver carried out a complex manoeuvre to pass the narrow lane
 1. *nuisance* 讨厌的人/事 e.g Local residents complained that the noise was a public nuisance
 1. *propose* 提议 *proposition* 
+
+***
+
+1. *fragrant* 香的 e.g The flowers gave off a fragrant smell
+1. *spectacular* 壮观的 e.g There will be a spectacular fireworks...
+1. *salient* 显著的，突出的 e.g The professor requires them to summarize the salient feature of the report
+1. *eternal* 永恒的 e.g She felt eternal gratitude to him for saving her life
+1. *ingenious* 天才的 e.g This book show that he is an ingenious author
+1. *cardinal* 基本的 e.g Respect for individual freedom is the cardinal principle of US law
+1. *exquisite* 精美的 e.g The man bought his wife an exquisite piece of jewelry
+1. *optimum* 最优的 e.g Do you know the optimum temperature for the growth of plants
+1. *solemn* 严肃的，庄重的 e.g A solemn expression was on her face at the funeral
+1. *queer* 异常的 e.g The old man gave a queer laugh
+1. *dizzy* 晕的,眼花缭乱 e.g We were dizzy by the strong wind
+1. *intefral* 不可或缺的 e.g The kitchen is an integral part of house
+1. *reciprocal* 互惠的 e.g they have a reciprocal agreement with the company
+1. *affluent* 富裕的 e.g This successful businessman lives an affluent life
+1. *neat* 整洁的 e.g They sat in her neat and tidy room
+1. *apt* 易于 e.g She apt to take offense easily
+1. *inward* 内心的 e.g He tries to wear a calm smile to hide his inward panic
+1. *resultant* 由此产生的 e.g Both sides were shocked by the violence and the resultant loss of life
+1. *brisk* 轻快的 e.g The kid is walking with a brisk pace...
+1. *instantaneous* 瞬间的 e.g He had an instantaneous response
+1. *ripe* 成熟的 e.g This land is ripe for developing
+1. *shabby* 破旧的 e.g The outside of the house was beginning to look shabby
+1. *malignant* 恶性的 e.g A malignant tumor in his brain tooks his life
+1. *stale* 不新鲜的，污浊的 e.g a foul smell of stale bread fill the whole room
+1. *stenuous* 奋力的 e.g After a stenuous climb, the hikes decided to make camp before reaching the summit
+1. *punctual* 准时的 e.g She is always punctual for every meeting
+1. *qualitative* 定型的 e.g There are qualitative difference between individuals
+1. *norminal* 名义上的 e.g He is half-retired and is only the nominal head of our college
+1. *tiresome* 令人厌烦的 e.g It is a really tiresome issue for me
+1. *supersonic* 超音速的 e.g These planes are travelling at supersonic speeds
+1. *radiant* 喜气的，光芒四射的，辐射的 e.g He gave a radiant smile when he heard the news 
+1. *adjacent* 临近的 e.g our farm land was adjacent to the river
+1. *solitary* 单独的 e.g A single solitary figure was practicing on the basketball court early in the morning
+1. *portable* 便携的 e.g The documents have been typed into a portable computer
+1. *thermal* 热的
+1. *redundant* 冗余的 e.g Removing redundant words will make your paper more concise
+1. *futile* 徒劳的 e.g My attempt to fall asleep by counting sheep was a futile effort
+1. *analogue* 模拟的
+1. *obsolete* 废弃的，过时的 e.g The company spent a huge amount of money replacing obsolete devices
+1. *latent* 潜在的 e.g The manager did not find her latant abilities
+1. *consecutive* 连贯的 e.g After five consecutive wins...
+1. *discreet* 慎重的 e.g The manager adopted a discreet way to handle the problem and created...
+1. *compatible* 可共存的，兼容的
+1. *respective* 各自的 e.g Man and woman have their respective roles in society
+1. *optical* 视觉的 e.g a mirage is an optical illusion
+1. *dual* 双重的 e.g This room has a dual purpose, serving as both a study and a bedroom
+1. *concurrent* 同时发生的
+1. *daunting* 令人畏惧的 e.g The task seemed rather daunting for a new employee
+1. *discrete* 分离的 e.g The change happens in a number of discrete steps
+1. *imminent* 即将发生的 e.g A new truce agreement is imminent
+1. *overt* 公开的，明显的 e.g His overt race discrimination aroused public indignation
+1. *proximate* 最接近的 *approximate* 
+1. *volatile* 易变的 e.g You can't be too careful in the highly volatile stock and bond markets

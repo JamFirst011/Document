@@ -1652,7 +1652,7 @@
 1. *solemn* 严肃的，庄重的 e.g A solemn expression was on her face at the funeral
 1. *queer* 异常的 e.g The old man gave a queer laugh
 1. *dizzy* 晕的,眼花缭乱 e.g We were dizzy by the strong wind
-1. *intefral* 不可或缺的 e.g The kitchen is an integral part of house
+1. *integral* 不可或缺的 e.g The kitchen is an integral part of house
 1. *reciprocal* 互惠的 e.g they have a reciprocal agreement with the company
 1. *affluent* 富裕的 e.g This successful businessman lives an affluent life
 1. *neat* 整洁的 e.g They sat in her neat and tidy room

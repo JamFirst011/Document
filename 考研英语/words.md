@@ -1665,10 +1665,10 @@
 1. *shabby* 破旧的 e.g The outside of the house was beginning to look shabby
 1. *malignant* 恶性的 e.g A malignant tumor in his brain tooks his life
 1. *stale* 不新鲜的，污浊的 e.g a foul smell of stale bread fill the whole room
-1. *stenuous* 奋力的 e.g After a stenuous climb, the hikes decided to make camp before reaching the summit
+1. *strenuous* 奋力的 e.g After a stenuous climb, the hikes decided to make camp before reaching the summit
 1. *punctual* 准时的 e.g She is always punctual for every meeting
 1. *qualitative* 定型的 e.g There are qualitative difference between individuals
-1. *norminal* 名义上的 e.g He is half-retired and is only the nominal head of our college
+1. *nominal* 名义上的 e.g He is half-retired and is only the nominal head of our college
 1. *tiresome* 令人厌烦的 e.g It is a really tiresome issue for me
 1. *supersonic* 超音速的 e.g These planes are travelling at supersonic speeds
 1. *radiant* 喜气的，光芒四射的，辐射的 e.g He gave a radiant smile when he heard the news 
@@ -1679,7 +1679,7 @@
 1. *redundant* 冗余的 e.g Removing redundant words will make your paper more concise
 1. *futile* 徒劳的 e.g My attempt to fall asleep by counting sheep was a futile effort
 1. *analogue* 模拟的
-1. *obsolete* 废弃的，过时的 e.g The company spent a huge amount of money replacing obsolete devices
+1. *obsolete* 淘汰的，废弃的 e.g The company spent a huge amount of money replacing obsolete devices
 1. *latent* 潜在的 e.g The manager did not find her latant abilities
 1. *consecutive* 连贯的 e.g After five consecutive wins...
 1. *discreet* 慎重的 e.g The manager adopted a discreet way to handle the problem and created...
@@ -1690,7 +1690,7 @@
 1. *concurrent* 同时发生的
 1. *daunting* 令人畏惧的 e.g The task seemed rather daunting for a new employee
 1. *discrete* 分离的 e.g The change happens in a number of discrete steps
-1. *imminent* 即将发生的 e.g A new truce agreement is imminent
+1. *imminent* 即将发生的 e.g A new trade agreement is imminent
 1. *overt* 公开的，明显的 e.g His overt race discrimination aroused public indignation
 1. *proximate* 最接近的 *approximate* 
 1. *volatile* 易变的 e.g You can't be too careful in the highly volatile stock and bond markets
@@ -1699,12 +1699,12 @@
 
 1. *antique* 古董 e.g I saw the vase in the window of an antique shop
 1. *handy* 有用的 e.g This is where supermarket and their anonymity come in handy
-1. *staple* 基本的 e.g Humorous conversation is a staple ingredient of comedy
+1. *staple* *cardinal* 基本的 e.g Humorous conversation is a staple ingredient of comedy
 1. *limp* 跛着走，艰难前行 e.g She has to limp because her ankle was twisted
 1. *utter* 完全的 e.g What he just said is utter nonsense
 1. *adverse* 不利的 e.g The new drug has an adverse impact on human health
 1. *ample* 足够的 e.g Ample sunshine and rainfall are bringing the crops on nicely
-1. *auxiliary* 辅助的 e.g She got an interships as an auxiliary nurse in a local hospital
+1. *auxiliary* 辅助的 e.g She got an internship as an auxiliary nurse in a local hospital
 1. *blunt* 直率的，钝的 e.g You can's cut up an apple with such a blunt knife
 1. *dim* 暗淡的，昏暗的 e.g I couldn't see what was on the wall because the light is dim
 1. *exotic* 外国的 e.g the restaurant is well-known for its delicious exotic food
@@ -1714,14 +1714,36 @@
 1. *intensive* 密集的，强化的 e.g I will take two weeks of intensive training for the competition
 1. *interim* 暂时的 e.g The local council approved an interim arrangement to...
 1. *monotonous* 单调乏味的 e.g She was tired of her monotonous job...
-1. *predominant* 显著的 e.g Love of peace is the predominant feeling of many people today
+1. *predominant* *salient*  显著的 e.g Love of peace is the predominant feeling of many people today
 1. *slippery* 湿滑的
 1. *mortal* 人，致命的 e.g the mortal injury  took his life
 1. *henceforth* 今后 e.g The man said that he would work hard henceforth
 1. *namely* 也就是 e.g He made a suggestion, namely that...
 1. *exceedingly* 及其 e.g He was clever, handome, and exceedingly kind
-1. *irrespective* 不考虑的 e.g the law applies to everyone irrespective of race or something
-1. *albei* 尽管 e.g He agreed to help me, albeit reluctantly
+1. *irrespective* 不考虑的 e.g the law applies to everyone irrespective of race or something else
+1. *albeit* 尽管 e.g He agreed to help me, albeit reluctantly
 1. *quarrel* 吵架 e.g The children quarrel all the time
 1. *hum* 嗡嗡，活跃 e.g The bees were humming in the yard
 1. *favour* 爱好 e.g He sent her flowers in an attempt to win her favour
+
+***
+
+1. *gasp* 喘息 e.g When she saw the money hidden under the bed, she gasped in surprise
+1. *launch* 发起，发射 e.g The HGO launched a fund-raising compaign for its new project
+1. *lick* 舔 e.g the boy quickly licked the chocolate off his finger
+1. *motion* 运动 e.g The video is replayed in slow motion
+1. *pat* 拍拍 e.g My grandfather patted me on the head affectionately
+1. *slip* 滑 e.g As I ran up the stairs, my foot slipped and I fell
+1. *jaw* 下巴，颌骨
+1. *waist* 腰 e.g He put his arm around her waist
+1. *facet* 方面 e.g He has travelling around the world recording every facet of life
+1. *texture* 质地 e.g The girl like the soft texture of silk...
+1. *perfume* 香水,香味
+1. *stab* 刺，戳 e.g The robber broke into his house and stabbed him in the stomach with a knife
+1. *nominate* 提名 e.g The board nominate him as the new director
+1. *culminate* 告终 e.g My argument with the boss culminated in my resignation
+1. *brace* 绷紧，作准备
+1. *flap* 振翅，拍打，焦虑 *vibrate* 震动
+1. *lame* 瘸的，没有说服力的
+1. *proceeding* 诉讼，会议记录
+1. *solitary solidarity*

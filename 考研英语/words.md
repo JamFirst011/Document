@@ -1747,3 +1747,15 @@
 1. *lame* 瘸的，没有说服力的
 1. *proceeding* 诉讼，会议记录
 1. *solitary solidarity*
+
+***
+
+1. *custom* 习俗 *customs* 海关 *customer* 顾客
+1. *heir* 继承人 e.g The king named his nephew as heir to the throne
+1. *jealous* 妒忌的 *envy* e.g Why are you so jealous of her beauty
+1. *merry* 愉快的 e.g She burst into a merry laughter
+1. *goodness* 善良，美德 e.g We like to think that goodness exists in everyone
+1. *dull* 枯燥的 e.g Life in a small town could be deadly dull
+1. *site* 地点，位置 e.g He has managed to get himself a job on a building site this summer
+1. *resilient* 有弹性的 e.g The boot soles are made from tough resilient rubber
+1. *rash* 鲁莽的，轻率的 e.g Don't do anything rash until I get there

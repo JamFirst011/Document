@@ -1769,3 +1769,10 @@
 1. *doze* 瞌睡 *dose* 剂量 *dozen* 一打
 1. *recur* 再次发生 e.g Working overtime for several weeks caused a recuring headache for him
 1. *concept* 观念 *reception* 接待
+1. *siege* 围攻 e.g The siege was finally ended after six months
+1. *plague* 瘟疫，折磨 e.g A plague killed many prisoners of war at the time
+1. *overtake* 超过 e.g A car overtake although I drive fast
+1. *denounce* 谴责，告发 *condemn*
+1. *incur* 招致 e.g The play that mocks the gay community incurred the indignation of the audience
+1. *sob* 哭泣
+1. 

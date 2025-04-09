@@ -1759,3 +1759,13 @@
 1. *site* 地点，位置 e.g He has managed to get himself a job on a building site this summer
 1. *resilient* 有弹性的 e.g The boot soles are made from tough resilient rubber
 1. *rash* 鲁莽的，轻率的 e.g Don't do anything rash until I get there
+
+***
+
+1. *gallery* 画廊，美术馆 e.g There is a Van Gogh's painting in this gallery
+1. *dam* 水坝 e.g The local water authority plans to build a dam across the river
+1. *passage* 过道，走廊  e.g A dark narrow passage led to the main hall
+1. *accommodate* 容纳 e.g Animals have to accommodate to changes in different weather conditions
+1. *doze* 瞌睡 *dose* 剂量 *dozen* 一打
+1. *recur* 再次发生 e.g Working overtime for several weeks caused a recuring headache for him
+1. *concept* 观念 *reception* 接待

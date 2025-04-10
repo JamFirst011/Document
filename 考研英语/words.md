@@ -1775,4 +1775,22 @@
 1. *denounce* 谴责，告发 *condemn*
 1. *incur* 招致 e.g The play that mocks the gay community incurred the indignation of the audience
 1. *sob* 哭泣
+
+***
+
+1. *cab* 出租车 e.g You can call a cab to pick you up early in the morning
+1. *luggage baggage* 行李 e.g Check the baggage before your trip...
+1. *tent* 帐篷 e.g They put up a tent for the camping
+1. *clip* 修建，片段，弹匣 e.g The bus driver clipped our tickets to show we had used them
+1. *seal* 密封，海豹 e.g Make sure you've signed the cheque before sealing the envelop
+1. *saw* 锯子，锯断 e.g He accidentally sawed through a cable
+1. *nail* 指甲 e.g Stop biting your nail
+1. *couch* 长沙发 e.g He is sleeping on the couch
+1. *instalment* 分期 e.g We paid for the apartment by instalment
+1. *skim* 略读 e.g He skimmed through the letter and didn't pay much attention to the details
+1. *recipient* 接受者 e.g Bob is the recipient of the Nobel Prize for..
+1. *decent* 出色的，得体的 e.g I found a decnet job
+1. *perpetual* 不间断的 e.g She is tired of their perpetual complaints
+1. *discourse* 演讲，语段 e.g They listened to his dicourse on human relations
+1. *tense* 紧张的 e.g She sound tense and angry
 1. 

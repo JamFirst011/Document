@@ -1793,4 +1793,33 @@
 1. *perpetual* 不间断的 e.g She is tired of their perpetual complaints
 1. *discourse* 演讲，语段 e.g They listened to his dicourse on human relations
 1. *tense* 紧张的 e.g She sound tense and angry
+
+***
+
+1. *comb* 梳子 e.g Don't forget to comb your hair
+1. *sheet* 被子 e.g He slid between the sheet and closed his eyes
+1. *cupboard* 橱柜 e.g Don't forget to take out the soup in the cupboard
+1. *rag* 破布，抹布 e.g The waiter cleaned the table with a rag
+1. *towel* 毛巾 e.g She used a towel to dry her dog after its bath
+1. *wire* 电线 e.g The telephone wire has been cut...
+1. *drill* 钻头 e.g The eletric drill left a hole in the board
+1. *jug* 一壶
+1. *conscientious* 认真的，勤勤恳恳的 e.g The new comer was conscientious about his work
+1. *discern* 察觉到 e.g I soon discerned that the man was lying
+1. *withhold* 拒给 e.g This man was accused of withholding crucial information
+1. *splash* 泼洒 
+1. *grip* 抓紧
+1. *feeble* 虚弱的 *faint* *refute* 反驳
+1. *imperative* 重要的事 e.g Improving he country's economy is a political imperative...
+1. *disposition* 性格
+1. *resent* 憎恶，愤恨 
+1. *assimilate* 理解，同化 e.g It may take a long time for the new immigrants to assimilate into the new culture
+1. *bleak* 前景黯淡的，荒凉的
+1. *deter* 阻止 e.g High prices are deterring many young people from buying cars
+1. *converge* 聚集，合并 e.g People converged from all over the country to watch the final
+1. *loom gloomy*
+1. *census consensus concession*
+1. *tentative* 暂时的，暂定的 *interim*
+1. *wrench* 猛扭，使痛苦 e.g He grabbed her, wrenching her away from his father
+1. *foremost* 杰出的，首要的
 1. 

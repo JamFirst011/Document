@@ -1797,7 +1797,7 @@
 ***
 
 1. *comb* 梳子 e.g Don't forget to comb your hair
-1. *sheet* 被子 e.g He slid between the sheet and closed his eyes
+1. *sheet* 床单 e.g He slid between the sheet and closed his eyes
 1. *cupboard* 橱柜 e.g Don't forget to take out the soup in the cupboard
 1. *rag* 破布，抹布 e.g The waiter cleaned the table with a rag
 1. *towel* 毛巾 e.g She used a towel to dry her dog after its bath
@@ -1822,4 +1822,19 @@
 1. *tentative* 暂时的，暂定的 *interim*
 1. *wrench* 猛扭，使痛苦 e.g He grabbed her, wrenching her away from his father
 1. *foremost* 杰出的，首要的
-1. 
+
+***
+
+1. *tailor* 裁缝 e.g The function of these entertainment facilities has been tailored to the needs of ...
+1. *wage* 工资 e.g He earned a good weekly wage because of his outstanding performances
+1. *cough* 咳嗽 e.g He got a cold and kept coughing
+1. *reservoir* 储存 e.g Water is usually stored in a reservior before it is supplied to people's houses
+1. *prestige* 声望 e.g The contract will affect our national prestige
+1. *sneeze* 打喷嚏 e.g When we sneeze, our eyes close
+1. *slot* 时段，位置，处理 e.g Try to slot it as a to-do list...
+1. *contagious* 有感染力的 e.g Bird flu is a contagious disease that has caused many death
+1. *blush* 脸红 
+1. *oar* *paddle* 船桨
+1. *rein* 缰绳，控制 e.g you can puul on both rein to slow the horse
+1. *degenerate* 退化，恶化 e.g The demonstration degenerate into violence and caused hundreds of injuries
+1. *lease* 租约

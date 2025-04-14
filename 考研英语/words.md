@@ -1835,6 +1835,44 @@
 1. *contagious* 有感染力的 e.g Bird flu is a contagious disease that has caused many death
 1. *blush* 脸红 
 1. *oar* *paddle* 船桨
-1. *rein* 缰绳，控制 e.g you can puul on both rein to slow the horse
+1. *rein* 缰绳，控制 e.g you can pull on both rein to slow the horse
 1. *degenerate* 退化，恶化 e.g The demonstration degenerate into violence and caused hundreds of injuries
 1. *lease* 租约
+
+***
+
+1. *fund* 资金 e.g The parents donated a large sum of money to a charitable fund
+1. *rent* 租金 e.g How much rent do you pay for this place
+1. *leisure* 休闲 e.g What do you do in your leisure time
+1. *brass* 黄铜
+1. *spouse* 配偶 
+1. *fountain* 源泉 e.g Tourism is a fountain of wealth for the city
+1. *worship* 崇敬，信奉
+1. *evade* 逃离 e.g Mike changed to another topic to evade the embarassing question
+1. *blunder* 范愚蠢错误 e.g The police blundered badly by arresting the wrong man
+1. *sigh* 叹气
+1. *speculate* 推测 *imform*
+1. *enrol* 登记，注册，加入 e.g According to the statistics, a total of 200 students have enrolled in...
+1. *gut* 直觉
+
+***
+
+1. *trunk* 树干 *branch* 树枝  e.g He leaned his bicycle against a tree trunk
+1. *cripple* 使残疾 e.g Some countries in the middle east are crippled by wars
+1. *tuition* 学费 *intuition* 直觉 *nutrition* 营养
+1. *concise* 简洁的 e.g A summary should be made clear and concise to...
+1. *elaborate* 复杂的 e.g This hotel recently installed an elaborate computer system
+1. *intricate* 错综复杂的 e.g The curtain has an intricate pattern on it
+1. *align* 结盟 e.g What strikes the government is that church leaders align themselves with the opposition
+1. *descendant* 后辈 e.g Many of them are descendant of the original settlers
+1. *stake* 股份 e.g The chairman of the board holds a 49% stake in the company
+1. *emit* 排放，散发 e.g The new device can emit bright and powerful light
+1. *prosecute* 起诉 
+1. *incorporate* 纳入 e.g Many of your suggestion have been incorporate in the new plan
+1. *transient* 短暂的 e.g Migrant workers contributes to a large transient population in this city
+1. *extravagant* 昂贵的，消耗多的 
+1. *reign* 统治，支配 *rein* 缰绳 e.g The reign of ... lasted more than sixty years
+1. *gross* 总的 
+1. *coherent* 连贯的，团结的 e.g The scientist has to develop a cohrent view of the natural world
+1. *tangible* 明确的 e.g We need tangible evidence of john's guilt
+1. *stern* 严峻的，严厉的 e.g the police are planning sterner measure to combat crime

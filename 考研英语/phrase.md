@@ -7,3 +7,4 @@
 1. *plead with somebody to do* 恳求某人做
 1. *shed tears* 流泪
 1. *well-heeled* 有钱的
+1. *at stake* 处于危险中

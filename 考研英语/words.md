@@ -1870,9 +1870,97 @@
 1. *prosecute* 起诉 
 1. *incorporate* 纳入 e.g Many of your suggestion have been incorporate in the new plan
 1. *transient* 短暂的 e.g Migrant workers contributes to a large transient population in this city
-1. *extravagant* 昂贵的，消耗多的 
+1. *extravagant* 昂贵的，消耗多的
 1. *reign* 统治，支配 *rein* 缰绳 e.g The reign of ... lasted more than sixty years
 1. *gross* 总的 
 1. *coherent* 连贯的，团结的 e.g The scientist has to develop a cohrent view of the natural world
 1. *tangible* 明确的 e.g We need tangible evidence of john's guilt
 1. *stern* 严峻的，严厉的 e.g the police are planning sterner measure to combat crime
+
+***
+
+1. *downtown* 市区 e.g He owns an apartment in downtown NewYork
+1. *interfere intervene* 干涉
+1. *plot* 阴谋，情节
+1. *thrift* 节约
+1. *repel* 击退，驱除，使厌恶 e.g Her rudeness repels everyone
+1. *pledge* 保证 e.g They pledged never to tell the secret
+1. *commission* 委托 e.g He commission a statue of his wife
+1. *tempt* 引诱
+1. *exempt* 被免除 e.g In our country, citizens are exempt from military service
+1. *augment* 扩大，增加 e.g He takes on several part-time jobs in order to augment his income
+1. *endeavour* 努力，力图 e.g They always endeavour to please their customers
+1. *intimate* 亲密的 e.g I only share my secrets with my intimate friends
+1. *segregate* 分开 e.g Smokers and non-smokers are segregated from each other in the hotel
+1. *hamper* 妨碍 
+1. *constitute* 组成 e.g Laws are constituted to protect individual rights and properties
+1. *formulate* 制定计划，构思 e.g He struggled to formulate an answer
+1. *cast* 投
+1. *wit* 智力 e.g He used his wit to pass the audition for a role in the comedy play
+1. *spite* 恶意
+1. *haste* 匆忙的
+1. *sketch* 草图 e.g He drew a rough sketch of his girlfriend on a napkin
+1. *vacant* 空着的 
+1. *tackle* 处理
+1. *acclaim* *praise*
+
+***
+
+1. *era* 时代，纪元 e.g We live in an era of global communication
+1. *vapour* 蒸汽 e.g Water vapour can be transported by winds over hundreds of km
+1. *term* 术语,学期 e.g I'm sure there's a latin term for it
+1. *subject* 主题，学科 e.g I read books on many different subjects
+1. *kindergarten* 幼儿园 e.g The parents sent their kid to kindergarten when...
+1. *fiscal* 财政的 e.g They're ready to cut the federal budget for the next fiscal year
+1. *statute* 法令 e.g Protection for endangered wild species is laid down by statute in the country
+1. *ditch dump desert* 抛弃 e.g She couldn't stand her boyfriend any more so she ditch him
+1. *courtesy* 礼貌 e.g They showed us every courtesy
+1. *estate* 财产 *esteem*
+1. *sprinkle wrinkle twinkle*
+1. *redeem* 弥补 e.g He realized his mistake and wanted to redeem his reputation
+1. *lateral* 横向的，平级的 e.g The wall is weak so it requeires lateral support
+1. *render* 使变成 e.g The car accident has rendered him unconscious
+1. *reap* 获得 e.g But you will reap benefits like less anxiety
+1. *corrupt* 腐败 e.g The corrupt politician eventually ended up in prison
+1. *incentive* 刺激 e.g Food is usually used as an incentive in training pet
+1. *hazard* 危险，危害
+1. *scarcely* 刚刚，几乎不 e.g The old man scarcely ever left his hometown
+1. *entail* 牵涉 e.g She didn't want to take on a job that would entail a lot of travelling
+1. *evacuate* 疏散 e.g During the earthquake, all the students were evacuated from the main building
+1. *extent* 程度，范围 e.g It is impossible to estimate the extent of damage
+1. *lean* 倾斜 e.g 
+1. *hostile* 敌对的 *hostage* 人质
+1. *temptation lure*
+1. *dispatch* 派遣 e.g Troops have been dispatched to the area
+1. *humiliate* 使丢脸 e.g Tom humiliated his opponent in public by defeating him
+1. *insulate* 隔热，隔音 e.g Any new window or doors must be highly insulated
+1. *artery* 动脉
+1. *stimulate* 刺激促进 *simulate* 模拟
+1. *deduce* 推论 
+1. *subtle* 微妙的，精妙的
+1. *dispute* 争端，质疑 e.g The meeting was held to settle the dispute between the two countries
+1. *deprive* 剥夺 e.g The tree outside the windows deprive the house of light
+1. *diffuse* 扩散，散播 e.g Waste gas diffuse into the atmosphere making the air very polluted
+1. *evoke* 唤起
+1. *concession concede* 让步 *consensus* 
+1. *rigid* 刻板的 e.g His rigid adherence to the rules make him unpopular
+1. *dissipate* 驱散 e.g the sun dissipate the fog
+1. *correlate* 相关 e.g The result of this experiment do not correlate with the result of early ones...
+1. *conceal* 隐瞒，掩盖 
+1. *revolt rebel*
+1. *premier* 首要的 e.g The small island is one of the country's premier holiday destination
+1. *trim* 修建 e.g I had my hair trimmed before I went to audition
+1. *denote* 象征 e.g A smile often denote pleasure and friendship
+1. *captive* 俘虏,受限制的 e.g He remained a captive to her beauty
+1. *disperse* 分散 e.g The crowd disperse and will be evacuated soon
+1. *exemplify* 举例说明 e.g This painting exemplifies the artist's early style
+1. *irrigate* 灌溉 e.g We can irrigate crops with seawater
+1. *impart* 告知，授予 e.g A teacher's aim is to impart knowledge
+1. *defer* 推迟 e.g Further discussion on the issue will be deferred until next year
+1. *exclaim acclaim* 大喊/赞扬 
+1. *sovereign* 有主权的 e.g their authority is sovereign
+1. *dubious* 怀疑的 e.g Many professors regard this report as dubious and misleading
+1. *revolve* 旋转 e.g The earth revolve around the sun
+1. *blur* 模糊 e.g Everything is just a blur without my glasses
+1. *beware* 当心 e.g Motorists have been warned to beware of icy roads
+1. 

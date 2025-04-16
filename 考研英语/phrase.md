@@ -8,3 +8,5 @@
 1. *shed tears* 流泪
 1. *well-heeled* 有钱的
 1. *at stake* 处于危险中
+1. *deprive sb of sth* 剥夺了某人的某物
+1. *beware of* 当心 

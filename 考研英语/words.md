@@ -1949,7 +1949,7 @@
 1. *conceal* 隐瞒，掩盖 
 1. *revolt rebel*
 1. *premier* 首要的 e.g The small island is one of the country's premier holiday destination
-1. *trim* 修建 e.g I had my hair trimmed before I went to audition
+1. *trim* 修剪 e.g I had my hair trimmed before I went to audition
 1. *denote* 象征 e.g A smile often denote pleasure and friendship
 1. *captive* 俘虏,受限制的 e.g He remained a captive to her beauty
 1. *disperse* 分散 e.g The crowd disperse and will be evacuated soon
@@ -1963,4 +1963,23 @@
 1. *revolve* 旋转 e.g The earth revolve around the sun
 1. *blur* 模糊 e.g Everything is just a blur without my glasses
 1. *beware* 当心 e.g Motorists have been warned to beware of icy roads
+
+***
+
+1. *disc* 磁盘 e.g He wears an identity disc around his neck
+1. *jog* 慢跑 e.g He goes jogging every night
+1. *renew* 延长，更换 e.g My visa needed renewing for another six months for...
+1. *owe* 欠 e.g She still owe 3000 to her father
+1. *tick* 滴答，打勾 e.g He ticks 'astronaut' but quickly adds 'scientist' to the list
+1. *sane* 理智的 e.g I try to keep myself sane by getting out of the crowded city at the weekend
+1. *dip* 浸，蘸 e.g Did you dip in to see how hot the water is
+1. *lag* 落在后面 e.g Jane lags behind her classmate so she need to study hard
+1. *ceiling* 天花板,上限 e.g She broke the glass ceiling to become the first woman winning the medal
+1. *sake* 缘故，价值 e.g This single mother works hard for the sake of her children
+1. *cater* 迎合 e.g He has to cater his boss
+
+***
+
+1. *tale* 故事 e.g I love listenning to his tale of his abroad
+1. *pace* 踱步，速度 e.g She works so fast that I can't keep pace with her
 1. 

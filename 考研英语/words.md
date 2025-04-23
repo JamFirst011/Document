@@ -1,6 +1,5 @@
 ## Words Parts
 
-#### KeyWords
 2. alternativ可供替代的，替代
 3. anxiety 焦虑，担心，渴望
 4. adapt 适应 改编
@@ -26,7 +25,7 @@
 24. corporation 公司，法人
 25. critic 批判家 critical 批判的，关键的，危急的
 26. criticize 批判
-27. crude 粗糙的，天然的
+27. crude 粗糙的，天然的 *coarse* 粗糙的
 28. cultivate 种植，培养
 29. custom 习俗，习惯，顾客
 30. democratic 民主的
@@ -42,15 +41,15 @@
 40. estimate 估计，判断
 41. ethics 伦理道德
 42. inevitable 必然发生的
-43. reference 引用，提及
+43. reference 引用，提及 *cite quote*
 44. confine 限制，使局限于
 45. faculty 身体机能，能力，全体教职工
 46. sufficient 足够的
 47. artificial 人工的，虚伪的
 48. effective 有效的 efficient 高效的 *efficiency* 效率
-49. influential 有影响力的
+49. influential 有影响力的 *fluent* 流利的
 50. inform 通知
-51. formation 形成
+c1. formation 形成
 52. fortune 好运，大笔钱,命运 e.g fortune will guide her to the right path
 53. confront 面对，处理
 54. aggressive 好斗的，有说服力的
@@ -93,7 +92,7 @@
 89. *promote* 促进 *prompt* 迅速的，促进，提示，提示符
 90. *immune* 免疫的 *immune system* 免疫系统 *immunity* 免疫力
 91. *renaissance* 复兴
-92. *enormous* *massive* 巨大的 *abundant* 大量丰富的 *substantial immense* 大量的 
+92. *enormous* *massive* 巨大的 *abundant* 大量丰富的 *substantial immense* 大量的 *considerabel* 
 93. *obscure* 模糊的，费解的
 94. *adopt* 采纳，收养
 95. *impact* 显著影响，冲击
@@ -134,7 +133,7 @@
 128. *segment* 部分 *section* 部分，常指书段落
 129. *presence*  出席，在场 e.g She was nervous to speak in the presence of so many people
 130. *sensitive* 敏感的，体贴的 e.g He is a sensitive man
-131. *consequently* 因此，所以
+131. *consequently* 因此，所以 e.g the warmth of earth and consequent climate changes affect us all!
 132. *conservative* 保守的
 133. *preserve* *conserve* 保护，保存 *reserve* 预定
 134. *considerable* 相当大的，很多的
@@ -165,7 +164,7 @@
 1. *trait* 特征 *property* *attibute* 属性，特征,归功于 e.g His success attribute to his persistense...
 1. *equivalent* 相等的，对应的 e.g This Chinese character has no equivalent in English  *counterpart* 
 1. *vanish* *vanishment* 消失，灭亡 e.g The car was so fast that it vanish from my sight within seconds 
-    - *extinct* 灭绝的 *endangered* 濒临灭绝的
+    - *extinct* 灭绝的 *endangered* 濒临灭绝的 *extinguish distinguish*
 1. *variable* 可变的多变的，变量
 1. *reveal* 揭露 *revelation* 
 1. *convention* 传统，惯例 e.g By convention *conventional* 传统的
@@ -197,6 +196,9 @@
 1. *throughout* 自始至终，贯穿 e.g open daily throughout the year
 1. *undermine* 破坏，削弱 e.g Don't let them undermine your confidence
 1. *withdraw* 撤退，提取 e.g Government military were forced to withdraw
+
+***
+
 1. *worthwhile* 值得的，有价值的 e.g consider charity a worthwhile carreer
 1. *abuse* 滥用，虐待
 1. *acknowledge* 认可，承认 e.g acknowledge the force of his argument
@@ -212,7 +214,7 @@
 1. *boom* 繁荣，流行 *prosperity*
 1. *boost* 促进，增长 e.g new act will boost the development of tourism
 1. *bound* 边界，必然的 *be bound to* 必然会
-1. *bracket*  括号，等级
+1. *bracket*  括号，支架
 1. *branch* 树干，分支 e.g the bank has branches all over the country
     - bench 长椅
     - torch 火炬
@@ -236,7 +238,7 @@
 1. *deliver* 传递，交付，发表  *delivery* 传递，分娩
     - ...has been delivered to every customer
     - ...is te medium that delivers the information
-    - deliver a speech
+   - deliver a speech
 1. *desire* 愿望，渴望 *desirable* 理想的
 1. *dispute* 争论，纠纷 *conflict* *controversy* e.g ...to settle the dispute between two countries 
 1. *district* 区域 *region* *recreation* 娱乐 e.g walking around the recreation district *restrict* 约束，限制
@@ -1982,4 +1984,21 @@
 
 1. *tale* 故事 e.g I love listenning to his tale of his abroad
 1. *pace* 踱步，速度 e.g She works so fast that I can't keep pace with her
-1. 
+1. *crisis* 危机时刻 e.g They suffered huge losses in the financial crisis
+1. *mood* 心情 e.g She is a good mood because she just got a promotion
+1. *nerve* 神经 e.g The man lit a cigarette to calm his nerves
+1. *deed* 行为 e.g His heroic deeds have been widely celebrated 
+1. *formal* 正式的，正规的 e.g Formal diplomatic relations between the two countries...
+1. *latter* 后面的 e.g The latter point is the most important
+1. *flat* 平面的 e.g She is very flat
+1. *costly* 贵重的 e.g I hope the costly purchase is well worth it
+1. *hence* 因此 e.g The cost of transport is a major expense Hence factory location is an important...
+1. *enhance* 增强
+1. *largely* 主要
+
+***
+
+1. *whereby* 凭借 e.g The city introduced a new system whereby people could vote by telephone
+1. *via* 经由 e.g I heard about the sale via john
+1. *owing to* 由于 e.g Many flights were canceled, owing to the typhoon
+1. *whereas* 却 e.g Some are vaccinated whereas others are not

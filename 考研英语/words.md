@@ -701,7 +701,7 @@ c1. formation 形成
 1. *illiterate* 文盲的
 1. *analog* 模拟 *analogy* 类比，比喻 e.g He draw a conclusion on the analogy of yours
 1. *lucrative* 赚大钱的 e.g he inherited a lucrative business from his uncle
-1. *paralyse* 瘫痪，失去功能 e.g the car accident left her paralysed on both legs
+1. *paralyze* 瘫痪，失去功能 e.g the car accident left her paralysed on both legs
 1. *manufacture* 生产，制造
 1. *marginal* 边缘的 e.g This once imperative group is now becoming more and more marginal
 1. *marine* 海洋的 e.g marine creature
@@ -782,7 +782,7 @@ c1. formation 形成
 1. *extravagant* 奢侈的 e.g I was embarrassed by all the extravagant praise/compliment I was getting
 1. *prevail* 流行
 1. *converge* 聚集 e.g people converged from all over the country to watch the finals *convert* 转化
-1. *invert* 颠倒 
+1. *invert*  
 1. *divert* 分心 *distract*
 1. *conversely* 相反的  *abtrast*
 1. *pit* 洞，坑 e.g we dig a shallow pit and put the seeds in it
@@ -2002,3 +2002,78 @@ c1. formation 形成
 1. *via* 经由 e.g I heard about the sale via john
 1. *owing to* 由于 e.g Many flights were canceled, owing to the typhoon
 1. *whereas* 却 e.g Some are vaccinated whereas others are not
+1. *accountability* 责任 responsible
+1. *accrue* 增长 e.g Profits usually accrued to a company from good operating
+1. *activist* 积极分子 e.g A committed animal rights activist...
+1. *ageing* 老化 e.g The appearance of wrinkles around the eyes is one of the sign of ageing
+1. *akin* 相似的 e.g This language is closely akin to French
+1. *analogous* 相似的 e.g The question he raised in the report was analogous with mine
+1. *anatomy* 机体构造
+1. *applicant* 申请人 e.g There were over 500 applicants for the job
+1. *asteroid* 小行星 e.g Scientist had accidentally dicovered an asteroid crashed in the village...
+1. *authorization* 授权 e.g You need special authorization to use this theater
+1. *baseline* 基准
+1. *benchmark* 基准
+1. *billboard* 宣传 e.g Spent a lot of money on billboard advertisement
+1. *burnout* 燃尽，筋疲力竭
+1. *cascade* 小瀑布，倾泻 e.g A cascade of black hair fell down her shoulder
+
+***
+
+1. *ceremonial* 礼仪的 e.g The queen was in full ceremonial dress for the opening ceremony
+1. *citizenship* 公民身份 e.g You cannot apply for citizenship until...
+1. *combative* *aggresive* e.g He was in combative mode and refuse to make any concession
+1. *commonality* 共同点 e.g The same commonality of interest is the basis of cooperation
+1. *composure* 镇静 e.g She never losses her composure under any circumstances
+1. *contention* 论点 e.g There's a lot of contention about the issue
+1. *contributory* 促成的 e.g Too little exercise is a contributory factor in many disease
+1. *crabbed* 暴躁的 
+1. *crumble* 崩溃，捻着 e.g He crumbled the fallen leave between his fingers
+1. *decisiveness* 果断 e.g This is not a job for someone who lacks decisiveness
+1. *dire* 及其严重的 e.g This earthquake has cause dire damage to local people
+1. *disposable* 一次性的 e.g Disposable nappies
+1. *dispute* 争端，纠纷，质疑
+1. *disruption* 中断，破裂 e.g The earthquake cause disruption to the region
+1. *dominance* 优势
+1. *drawn-out* 持续很久的 e.g We had another drawn-out discussion about this problem
+1. *elude* 不被理解，躲避 e.g The questino has eluded many good poets
+1. *encompass* 包含 e.g intelligence encompass more than a score on the test
+1. *epithet* 绰号，词语 e.g They fear the anti-science epithet is in danger of becoming meaningless
+1. *exavation* 挖掘 e.g The exavation are open to the public
+1. *exterminate* 消灭 e.g It's very hard to exterminate all the pests in the field
+1. *fallout* 后果 e.g cancer can be caused by fallout from nuclear weapons
+1. *feverish* 激动的,发烧的，疯狂的 e.g He worked at a feverish pace
+1. *fleeting* 短暂的 e.g He saw aa fleeting smile on her face
+
+***
+
+1. *fourfold* 四倍的 e.g The population in this area has increased fourfold
+1. *gloominess* 黑暗，沮丧 e.g can not overcome the gloominess among companies
+1. *glowingly* 高兴的 e.g He talked glowingly about...
+1. *gratify* 满足 e.g in the desire of gratify appetites
+1. *hindrance* 妨碍 e.g She was more of a hindrance than a help
+1. *holistic* 整体的，全面的 e.g Education problems usually reqire holistic solution
+1. *hysteria* 歇斯底里 e.g She had recovered from her hysteria
+1. *inarticulate* 不善于表达 e.g Inarticulate and shy, she missed this job
+1. *incidental* 次要的 e.g you shouldn't be distracted by some incidental details
+1. *indulgence* 沉溺，放纵 e.g The mother's indulgence toward her son resulted the tragedy
+1. *insightful* 有深刻了解的 e.g He offered some insightful observation in the lecture
+1. *intervention* 干预 e.g Repeated intervention have failed to regulate prices
+1. *juggle* 尽力应付 e.g One guy was juggling with five flaming torches
+1. *maternal* 母亲的 e.g Her maternal instincts told her son was in danger
+1. *mindset* 思维方式 e.g It's a great challenge for the teacher to understand the strange mindset of those...
+1. *minconduct* 失职 e.g The official was fired for serious misconduct
+1. *misdeed* 恶行 e.g Sometimies, we need to slow down and reflect on our past misdeed
+1. *mitigate* 减轻，缓和 e.g The ministry of algriculture will take some measure to mitigate poverty
+1. *obscene* 淫秽，下流 e.g I like to watch obscene video on secret website
+1. *ornate* 豪华的 e.g He was astonished when he entered the room with an ornate ceiling and gold mirrors
+1. *perpetuate* 使持续 e.g Uncontrolled rumors of inflecious diseases can only perpetuate panic
+1. *presuppose* 假设 .g My arguments presuppose that it does not matter who is in charge
+1. *noteworthy* 值得注意的
+1. *quirk* 巧合，怪事 e.g You have to get used to their quirks
+1. *rampant* 泛滥的 e.g infectious diseased are rampant in areas with poor medical standard
+1. *reasoning* 推理 e.g Their reasoning is based on the wrong data
+1. *regrettably* 可惜的 
+1. *repercussion* 反响 e.g The collapse of the company will have repercussion for the whole industry
+
+***

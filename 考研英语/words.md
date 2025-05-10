@@ -597,7 +597,7 @@ c1. formation 形成
 1. *nonetheless* 尽管 *despite although*
 1. *offspring* 子女，后代
 1. *pearl* 珍珠
-1. *plain* 平原，清楚的
+1. *plain* 平原，清楚a
 1. *pledge* 保证，承诺 
 1. *poison poisonous* 有毒的
 1. *provided* 假如 *if* e.g He can join us provided he pays his own trip
@@ -871,7 +871,7 @@ c1. formation 形成
 1. *hazard* 危害 e.g Growing levels of pollution represent a serious health hazard to the local resident
 1. *hip* 臀部
 1. *impair* 削弱 e.g The injured leg has impaired his ability to run
-1. *incidene* 发生率 *incident episode* 事件
+1. *incidence* 发生率 *incident episode* 事件
 1. *indulge* 沉溺，纵容 e.g he indulged his children too much
 1. *inertia* 懒惰，惯性 
 1. *instalment* 分期 e.g paid the apartment by instalment
@@ -919,7 +919,7 @@ c1. formation 形成
 1. *residence* 住所 e.g the White house is the official residence of president
 1. *rigorous* 细致，严格 
     - he make a rigorous study to...
-    - corporate governance has become a log tighter and more rigorous...
+    - corporate governance has become a lot tighter and more rigorous...
 1. *rumour* 传言，谣言
 1. *savage* 野蛮的 e.g savage attack
 1. *scatter* 散布 e.g angry about the clothes scattered on the floor
@@ -934,7 +934,7 @@ c1. formation 形成
 1. *sovereign* 有主权的 e.g their authority is sovereign
 1. *sow* 播种 
 1. *splash* 泼洒 e.g water splashed onto the floor
-1. *spary* 喷 e.g the farmer sprays pesticides on the crops regularly
+1. *spray* 喷 e.g the farmer sprays pesticides on the crops regularly
 1. *spur* 激励，鼓舞 
 1. *diversion* 消遣，转移目标,转向 *diversity* 多样性 e.g I think your last argument was a diversion to make us forget the main point
 
@@ -996,7 +996,7 @@ c1. formation 形成
 1. *nap* 打盹
 1. *shear* 剪切 e.g the farmer showed us how to shear sheep
 
-***
+*** 
 
 1. *thrust* 猛推 e.g the correspondent thrust a microphone in front of him...
 1. *kidnap* 绑架 e.g Two business man have been kidnapped
@@ -1133,7 +1133,7 @@ c1. formation 形成
 1. *slender* 修长的，纤细的 e.g slender figures
 1. *eloquent* 有说服力的 convinced e.g his eloquent 
 1. *mute* 沉默的 e.g sat mutely
-1. *discretion* 审慎 e.g salary is left to the discretion of the supervisor
+1. *discretion* 谨慎，审慎 e.g salary is left to the discretion of the supervisor
 1. *wary* 小心的 e.g I am a little wary about giving my address to someone I don't know very well
 1. *benevolent* 仁慈的 e.g A benevolent uncle paid for her to learn Chinese
 1. *idle* 懒惰的 e.g Decreased demand for the products has left the worker idle for a month

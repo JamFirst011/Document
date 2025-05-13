@@ -1222,7 +1222,7 @@ c1. formation 形成
 1. *drawer* 抽屉
 1. *sponge* 海绵 
 1. *razor* 剃刀 e.g I bought my father a razor as a gift
-1. *strap* 带子 e.g I prefer a watch with a leather strap...
+1. *strap* 带子 e.g I prefer  watch with a leather strap...
 1. *spade* 铲子
 1. *elastic* 有弹性的 e.g The girl tied her hair with an elastic band
 1. *hose* 软管 e.g He washes his car down with a garden hose

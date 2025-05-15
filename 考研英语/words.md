@@ -1575,10 +1575,10 @@ c1. formation 形成
 1. *appraisal* 估计 e.t the newspaper give an objective appraisal of government's achievements...
 1. *conversion* 转换 e.g this device is designed for the conversion of waste into useable products
 1. *meditation* 沉思，冥想 e.g He devoted the rest of his life to meditation on the meaning of life
-1. *culprit* 原因，真相 e.g ...lead police to the reao culprit of the murder
+1. *culprit* 罪魁祸首 e.g ...lead police to the reao culprit of the murder
 1. *litter* 垃圾 e.g Council were given the right to impose fine for people who drop litter 
 1. *turmoil* 混乱，骚动 e.g The financial crisis put the whole country in economic turmoil
-1. *hedge* 规避，防备 e.g hedge rist 规避风险
+1. *hedge* 规避，防备 e.g hedge risk 规避风险
 1. *pillar* 柱子，支柱 e.g The pillar supporting the roof are made of concrete and steel
 1. *crane* 伸长脖子看 e.g He crained his neck above the crowd to look for his son
 1. *remnant* 剩余部分 e.g The remnant of last night's meal might have gone bad

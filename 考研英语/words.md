@@ -1667,7 +1667,7 @@ c1. formation 形成
 1. *shabby* 破旧的 e.g The outside of the house was beginning to look shabby
 1. *malignant* 恶性的 e.g A malignant tumor in his brain tooks his life
 1. *stale* 不新鲜的，污浊的 e.g a foul smell of stale bread fill the whole room
-1. *strenuous* 奋力的 e.g After a stenuous climb, the hikes decided to make camp before reaching the summit
+1. *strenuous* 奋力的 e.g After a strenuous climb, the hikes decided to make camp before reaching the summit
 1. *punctual* 准时的 e.g She is always punctual for every meeting
 1. *qualitative* 定型的 e.g There are qualitative difference between individuals
 1. *nominal* 名义上的 e.g He is half-retired and is only the nominal head of our college
@@ -1694,7 +1694,7 @@ c1. formation 形成
 1. *discrete* 分离的 e.g The change happens in a number of discrete steps
 1. *imminent* 即将发生的 e.g A new trade agreement is imminent
 1. *overt* 公开的，明显的 e.g His overt race discrimination aroused public indignation
-1. *proximate* 最接近的 *approximate* 
+1. *proximate* 直接的 *approximate* 
 1. *volatile* 易变的 e.g You can't be too careful in the highly volatile stock and bond markets
 
 ***

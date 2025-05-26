@@ -1853,7 +1853,7 @@ c1. formation 形成
 1. *evade* 逃离 e.g Mike changed to another topic to evade the embarassing question
 1. *blunder* 范愚蠢错误 e.g The police blundered badly by arresting the wrong man
 1. *sigh* 叹气
-1. *speculate* 推测 *imform*
+1. *speculate* 推测 infer
 1. *enrol* 登记，注册，加入 e.g According to the statistics, a total of 200 students have enrolled in...
 1. *gut* 直觉
 
@@ -1891,7 +1891,7 @@ c1. formation 形成
 1. *tempt* 引诱
 1. *exempt* 被免除 e.g In our country, citizens are exempt from military service
 1. *augment* 扩大，增加 e.g He takes on several part-time jobs in order to augment his income
-1. *endeavour* 努力，力图 e.g They always endeavour to please their customers
+1. *endeavor* 努力，力图 e.g They always endeavour to please their customers
 1. *intimate* 亲密的 e.g I only share my secrets with my intimate friends
 1. *segregate* 分开 e.g Smokers and non-smokers are segregated from each other in the hotel
 1. *hamper* 妨碍 
@@ -1927,7 +1927,7 @@ c1. formation 形成
 1. *incentive* 刺激 e.g Food is usually used as an incentive in training pet
 1. *hazard* 危险，危害
 1. *scarcely* 刚刚，几乎不 e.g The old man scarcely ever left his hometown
-1. *entail* 牵涉 e.g She didn't want to take on a job that would entail a lot of travelling
+1. *entail* 需要 e.g She didn't want to take on a job that would entail a lot of travelling
 1. *evacuate* 疏散 e.g During the earthquake, all the students were evacuated from the main building
 1. *extent* 程度，范围 e.g It is impossible to estimate the extent of damage
 1. *lean* 倾斜 e.g 

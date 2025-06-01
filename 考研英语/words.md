@@ -1977,7 +1977,7 @@ c1. formation 形成
 1. *dip* 浸，蘸 e.g Did you dip in to see how hot the water is
 1. *lag* 落在后面 e.g Jane lags behind her classmate so she need to study hard
 1. *ceiling* 天花板,上限 e.g She broke the glass ceiling to become the first woman winning the medal
-1. *sake* 缘故，价值 e.g This single mother works hard for the sake of her children
+1. *sake* 目的，好处 e.g This single mother works hard for the sake of her children
 1. *cater* 迎合 e.g He has to cater his boss
 
 ***
@@ -1998,12 +1998,12 @@ c1. formation 形成
 
 ***
 
-1. *whereby* 凭借 e.g The city introduced a new system whereby people could vote by telephone
+1. *whereby* 凭此 e.g The city introduced a new system whereby people could vote by telephone
 1. *via* 经由 e.g I heard about the sale via john
 1. *owing to* 由于 e.g Many flights were canceled, owing to the typhoon
 1. *whereas* 却 e.g Some are vaccinated whereas others are not
 1. *accountability* 责任 responsible
-1. *accrue* 增长 e.g Profits usually accrued to a company from good operating
+1. *accrue* 产生，积累 e.g Profits usually accrued to a company from good operating
 1. *activist* 积极分子 e.g A committed animal rights activist...
 1. *ageing* 老化 e.g The appearance of wrinkles around the eyes is one of the sign of ageing
 1. *akin* 相似的 e.g This language is closely akin to French
@@ -2014,7 +2014,7 @@ c1. formation 形成
 1. *authorization* 授权 e.g You need special authorization to use this theater
 1. *baseline* 基准
 1. *benchmark* 基准
-1. *billboard* 宣传 e.g Spent a lot of money on billboard advertisement
+1. *billboard* 宣传,广告牌 e.g Spent a lot of money on billboard advertisement
 1. *burnout* 燃尽，筋疲力竭
 1. *cascade* 小瀑布，倾泻 e.g A cascade of black hair fell down her shoulder
 
@@ -2036,10 +2036,10 @@ c1. formation 形成
 1. *disruption* 中断，破裂 e.g The earthquake cause disruption to the region
 1. *dominance* 优势
 1. *drawn-out* 持续很久的 e.g We had another drawn-out discussion about this problem
-1. *elude* 不被理解，躲避 e.g The questino has eluded many good poets
+1. *elude* 不被理解，躲避 e.g The question has eluded many good poets
 1. *encompass* 包含 e.g intelligence encompass more than a score on the test
 1. *epithet* 绰号，词语 e.g They fear the anti-science epithet is in danger of becoming meaningless
-1. *exavation* 挖掘 e.g The exavation are open to the public
+1. *excavation* 挖掘 e.g The excavation are open to the public
 1. *exterminate* 消灭 e.g It's very hard to exterminate all the pests in the field
 1. *fallout* 后果 e.g cancer can be caused by fallout from nuclear weapons
 1. *feverish* 激动的,发烧的，疯狂的 e.g He worked at a feverish pace
@@ -2059,10 +2059,10 @@ c1. formation 形成
 1. *indulgence* 沉溺，放纵 e.g The mother's indulgence toward her son resulted the tragedy
 1. *insightful* 有深刻了解的 e.g He offered some insightful observation in the lecture
 1. *intervention* 干预 e.g Repeated intervention have failed to regulate prices
-1. *juggle* 尽力应付 e.g One guy was juggling with five flaming torches
+1. *juggle* 尽力应付，平衡 e.g One guy was juggling with five flaming torches
 1. *maternal* 母亲的 e.g Her maternal instincts told her son was in danger
 1. *mindset* 思维方式 e.g It's a great challenge for the teacher to understand the strange mindset of those...
-1. *minconduct* 失职 e.g The official was fired for serious misconduct
+1. *misconduct* 失职 e.g The official was fired for serious misconduct
 1. *misdeed* 恶行 e.g Sometimies, we need to slow down and reflect on our past misdeed
 1. *mitigate* 减轻，缓和 e.g The ministry of algriculture will take some measure to mitigate poverty
 1. *obscene* 淫秽，下流 e.g I like to watch obscene video on secret website
@@ -2070,10 +2070,10 @@ c1. formation 形成
 1. *perpetuate* 使持续 e.g Uncontrolled rumors of inflecious diseases can only perpetuate panic
 1. *presuppose* 假设 .g My arguments presuppose that it does not matter who is in charge
 1. *noteworthy* 值得注意的
-1. *quirk* 巧合，怪事 e.g You have to get used to their quirks
+1. *quirk* 怪事 e.g You have to get used to their quirks
 1. *rampant* 泛滥的 e.g infectious diseased are rampant in areas with poor medical standard
 1. *reasoning* 推理 e.g Their reasoning is based on the wrong data
-1. *regrettably* 可惜的 
-1. *repercussion* 反响 e.g The collapse of the company will have repercussion for the whole industry
+1. *regretably* 可惜的 
+1. *repercussion* 反响,不好的影响 e.g The collapse of the company will have repercussion for the whole industry
 
 ***

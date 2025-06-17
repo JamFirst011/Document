@@ -82,7 +82,7 @@ Scrum团队的性质：
 - 从而<创造出某种价值> : 为什么要这样的功能Why
 
 **3C原则**:
-Card(placeholder),Conversation,Confirmation
+Card(placeholder),Conversation,Confirmation, 作为用户故事的三个核心要素
 
 用户故事是占位符，也即是card，他不必清晰的描述需求，而是告诉开发人员有一个需求需要完成，当排到这个需求时，再当面进行讨论，直到对需求达成concensus,然后设定接收标准，即做成什么样才算完成了这个需求(回答了如何得知他已经完工), 并按照接收标准写出自动化测试(TDD)
 

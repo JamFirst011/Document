@@ -8,12 +8,11 @@ state: what the system must do and how the system provice value for stakeholders
 
 ### Constraints
 
-A constrains is a pre-specified decisions that the system MUST comply with, and they are satisfied by accepting the 
-design decision and reconciling it with other affected decisions
+A constrains is a pre-specified decisions that the system MUST comply with, and they are satisfied by accepting the design decision and reconciling it with other affected decisions
 
 ### Quality requirements/attributes
 
-**state**: quality requirements is the qualification of the functional requirement, if the quality requirement is important, then software architecture should constrains the allocation of functional onto various structure, like a system must handle 5000 requests per second.
+**state**: quality requirements is the quality of the functional requirement, if the quality requirement is important, then software architecture should constrains the allocation of functional onto various structure, like a system must handle 5000 requests per second.
 
 **quality attibutes**: same as quality requirements, but is expressed in a different abstract remedy like performance, security etc.
 

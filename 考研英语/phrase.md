@@ -12,3 +12,5 @@
 1. *beware of* 当心 
 1. *for the sake of* 为了...
 1. *from scratch* 从零开始
+1. *fly in the face of* 违背
+1. *at odds* 不一致

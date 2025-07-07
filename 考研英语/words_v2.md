@@ -34,6 +34,7 @@ sway
 bucket
 subsidy
 dam
+ham
 revoke
 convict
 religious
@@ -55,3 +56,4 @@ velocity
 correspond
 amiable
 agreeble
+supervise

@@ -12,7 +12,7 @@
 11. celebrity 名人，名望
 12. capacity 容量，能力
 13. participant 参与者
-14. capture 1. 抓住，捕获 2.吸引 3.记录
+14. capture 1. 抓住，捕获 2.吸算数
 15. procedure 步骤，程序
 16. recession 衰退期
 17. casual 随便的，偶然的

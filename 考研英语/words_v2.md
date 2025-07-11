@@ -79,4 +79,4 @@ collective
 claw crawl spite manual manipulate plural accord predominant harsh deposit scene episode 
 agreeble
 supervise
-
+perceive hinder liberate implement consistent exclusive plentiful rag necessitate plague vague stationary discern erupt inverse locomotive manufacture strive spectrum universal persecute deviate lubricate accessory frustrate tease intrude stall deceive circuit prominent limb glimpse magnitude shiver scheme overwhelm arithmetic aesthetic slender consent pave margin bunch elapse remainder pact proceedings adhere merit setback 

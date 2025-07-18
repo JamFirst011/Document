@@ -87,3 +87,15 @@ perceive hinder liberate implement consistent exclusive plentiful rag necessitat
 ### 7.15
 
 likewise clarity spoil succession shed exotic debut veteran tip prevail prevalent dye mill pitch diligent temporal ventilated cape temper layoff nuisance trumpet frank 
+
+### 7.16
+
+concede conceive oblige principal censorship handy metropolitan fuss acquaintance scandal recollect plug curl whirl unite patrol optimum veto tame pavement puff obedience curb herd textile texture strife proclaim cling 
+
+### 7.17
+
+hawk suite decisive stake chancellor ministry sector lavatory junction conjunction swarm seize slam productivity obscure accommodation tissue recall descend strain periodical assemble
+
+### 7.18 
+
+pyramid merchant guild intelligible plough application depict jolly statesman swell notorious manifestation deem cellar irrespective tick procession prosper stripe strip manuscript decimal denounce personnel substitute fabric thrift charity 

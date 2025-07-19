@@ -1,35 +1,35 @@
 linguistic
 couch
 indicative
-surge
+**surge**
 pat
-disguise
+**disguise**
 distinguish
 constituent
-contempt
-correspondence
-correspond
+**contempt**
+**correspondence**
+**correspond**
 resort
-align
+**align**
 invoke
 erect
 hail
-dome
+**dome**
 chip
 precedent
-fuse
-fume
+**fuse**
+**fume**
 constitute
 farewell
 layman
-inspect
+**inspect**
 obstruct
 despise
 property
 toll
 nonetheless
 invert
-default
+**default**
 notwithstanding
 fancy
 sway
@@ -37,19 +37,19 @@ bucket
 subsidy
 dam
 ham
-revoke
+**revoke**
 evoke
 convict
 religious
-expedition
-lumber
+**expedition**
+**lumber**
 stumble
 exception
 torment
-insulate
+**insulate**
 excess
 trench
-administer
+**administer**
 cement
 glamour
 terrific
@@ -59,30 +59,30 @@ velocity
 correspond
 amiable
 agreeble
-tube cube 
-trail
+**tube cube**
+**trail**
 foam
-offset
+**offset**
 sip
 flap
 creep
-drag
+**drag**
 sophisticated
 thrust
 scale
 obtain
 occasion
-premium
+**premium**
 cumulative
 maiden
 rod
-ritual
+**ritual**
 overlook
 collective
-claw crawl spite manual manipulate plural accord predominant harsh deposit scene episode 
+claw crawl spite manual **manipulate** plural **accord** predominant harsh **deposit** **scene** episode 
 agreeble
 supervise
-perceive hinder liberate implement consistent exclusive plentiful rag necessitate plague vague stationary discern erupt inverse locomotive manufacture strive spectrum universal persecute deviate lubricate fabricate accessory frustrate tease intrude stall deceive circuit prominent limb glimpse magnitude shiver scheme overwhelm arithmetic aesthetic slender consent decent resent pave margin bunch elapse remainder pact proceedings adhere merit interim setback 
+**perceive** hinder liberate implement **consistent** exclusive plentiful rag necessitate plague vague stationary discern erupt inverse locomotive manufacture **strive** spectrum **universal** persecute deviate lubricate fabricate accessory frustrate tease intrude stall **deceive** circuit prominent limb glimpse **magnitude** shiver scheme **overwhelm** arithmetic aesthetic slender **consent decent resent** pave **margin** bunch elapse remainder **pact** proceedings **adhere** merit interim **setback**
 
 ### 7.15
 

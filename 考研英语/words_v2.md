@@ -86,7 +86,7 @@ supervise
 
 ### 7.15
 
-likewise clarity spoil succession shed exotic debut veteran tip prevail prevalent dye mill pitch diligent temporal ventilated cape temper layoff nuisance trumpet frank 
+likewise clarity **spoil** succession shed exotic debut veteran tip prevail prevalent dye mill pitch diligent temporal ventilated cape temper layoff nuisance trumpet frank 
 
 ### 7.16
 
@@ -98,4 +98,12 @@ hawk suite decisive stake chancellor ministry sector lavatory junction conjuncti
 
 ### 7.18 
 
-pyramid merchant guild intelligible plough application depict jolly statesman swell notorious manifestation deem cellar irrespective tick procession prosper stripe strip manuscript decimal denounce personnel substitute fabric thrift charity 
+pyramid merchant merchandise guild intelligible plough application depict jolly statesman swell notorious manifestation deem cellar irrespective tick procession prosper stripe strip manuscript decimal denounce personnel substitute fabric thrift charity 
+
+### 7.21
+
+cohesive coherent **slot** fulfilling stir apparatus ideology ingenious wander ponder fling(have a fling) permeate passive passionate grip strap feasible restore skim infer confer narrative extensive temperament remains whereby whereas retain vanity 
+
+### 7.22
+
+spectator stain tender knot syndrome resultant leisure courtesy reserve whilst disrupt enclosure shuttle clause lamp sophomore notify vain famine definite 

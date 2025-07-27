@@ -14,3 +14,5 @@
 1. *from scratch* 从零开始
 1. *fly in the face of* 违背
 1. *at odds* 不一致
+1. *contend with* 对付 *content against* 抗衡
+1. *be down to* 由某人负责

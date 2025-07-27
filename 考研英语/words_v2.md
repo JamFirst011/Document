@@ -98,7 +98,7 @@ hawk suite decisive stake chancellor ministry sector lavatory junction conjuncti
 
 ### 7.18 
 
-pyramid merchant merchandise guild intelligible plough application depict jolly statesman swell notorious manifestation deem cellar irrespective tick procession prosper stripe strip manuscript decimal denounce personnel substitute fabric thrift charity 
+pyramid merchant merchandise guild intelligible plough application depict jolly statesman swell notorious manifestation deem cellar irrespective tick procession prosper stripe strip manuscript decimal **denounce** personnel substitute fabric thrift charity 
 
 ### 7.21
 
@@ -106,4 +106,20 @@ cohesive coherent **slot** fulfilling stir apparatus ideology ingenious wander p
 
 ### 7.22
 
-spectator stain tender knot syndrome resultant leisure courtesy reserve whilst disrupt enclosure shuttle clause lamp sophomore notify vain famine definite 
+spectator stain tender knot syndrome resultant leisure courtesy **reserve** whilst disrupt enclosure shuttle **clause** lamp sophomore notify vain famine definite 
+
+### 7.24
+
+fraud patent **disposition** tablet vulgar **gear mute** tram refer **commit** convene **contend** spray transient limp epoch mingle **grim grin grind** charter wreck patch lick stretch distinction distinct futile futility susceptible
+
+### 7.25 
+ 
+counsel concise chunk **account roundabout** kit prolong litre superstition menace **idle** discharge indignant twinkle juvenile **liability** scold **crude** specimen analogy analog category catalog vigorous rigorous irrigate **plausible** tale eradicate bleak orbit **scrutinize** lever plunge 
+
+### 7.26
+
+compile impulse distant drift repay superiority urge merge emerge booth bulletin jury toil consist lucrative eclipse moral breed kin oar majesty incline superfluous superficial drawback **discount** stipulate
+
+### 7.27 
+
+plaster flatter tow approval tangle consecutive spade **lump** eminent **submit** paralyze **dispose deposit** retent retention sow undertake proposition **tense tension** revolve thumb leap civilization valley gallery whip preclude sob resolute resolution furnish aspire 

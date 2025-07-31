@@ -16,3 +16,4 @@
 1. *at odds* 不一致
 1. *contend with* 对付 *content against* 抗衡
 1. *be down to* 由某人负责
+1. *zoom in* 放大

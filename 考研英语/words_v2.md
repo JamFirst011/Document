@@ -82,7 +82,7 @@ collective
 claw crawl spite manual **manipulate** plural **accord** predominant harsh **deposit** **scene** episode 
 agreeble
 supervise
-**perceive** hinder liberate implement **consistent** exclusive plentiful rag necessitate plague vague stationary discern erupt inverse locomotive manufacture **strive** spectrum **universal** persecute deviate lubricate fabricate accessory frustrate tease intrude stall **deceive** circuit prominent limb glimpse **magnitude** shiver scheme **overwhelm** arithmetic aesthetic slender **consent decent resent** pave **margin** bunch elapse remainder **pact** proceedings **adhere** merit interim **setback**
+**perceive** hinder liberate implement **consistent** exclusive plentiful rag necessitate plague vague stationary discern erupt inverse locomotive manufacture **strive thrive** spectrum **universal** persecute deviate lubricate fabricate accessory frustrate tease intrude stall **deceive** circuit prominent limb glimpse **magnitude** shiver scheme **overwhelm** arithmetic aesthetic slender **consent decent resent** pave **margin** bunch elapse remainder **pact** proceedings **adhere** merit interim **setback**
 
 ### 7.15
 
@@ -118,8 +118,20 @@ counsel concise chunk **account roundabout** kit prolong litre superstition mena
 
 ### 7.26
 
-compile impulse distant drift repay superiority urge merge emerge booth bulletin jury toil consist lucrative eclipse moral breed kin oar majesty incline superfluous superficial drawback **discount** stipulate
+compile impulse distant drift repay **superiority priority** urge merge emerge booth bulletin jury toil consist lucrative eclipse moral breed kin oar majesty incline superfluous superficial drawback **discount** stipulate
 
 ### 7.27 
 
-plaster flatter tow approval tangle consecutive spade **lump** eminent **submit** paralyze **dispose deposit** retent retention sow undertake proposition **tense tension** revolve thumb leap civilization valley gallery whip preclude sob resolute resolution furnish aspire 
+plaster flatter tow approval **tangle** consecutive spade **lump** eminent **submit** paralyze **dispose deposit** retent retention sow undertake proposition **tense tension revolve** thumb leap civilization valley gallery whip preclude sob resolute **resolution** furnish aspire 
+
+### 7.28
+
+parasite dread militant complement heave **dictate** glorious commence **constitution** inhabitant inhabit lounge rug carve tragic bolster ripe stroll indication radical spacious sly credential barren **residence** restraint lease dismay dismiss **prompt** reproach ethic promotion mood **sphere** 
+
+### 7.31
+
+linger sheer diversion diffuse gulf **rear** wrinkle **snap attendant** panorama shutter scatter **proceed** priest appoint appointment dividend lure compel console concurrent elevate surveillance albeit transmission 
+
+
+
+

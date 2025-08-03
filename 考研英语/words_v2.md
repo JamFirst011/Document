@@ -126,12 +126,16 @@ plaster flatter tow approval **tangle** consecutive spade **lump** eminent **sub
 
 ### 7.28
 
-parasite dread militant complement heave **dictate** glorious commence **constitution** inhabitant inhabit lounge rug carve tragic bolster ripe stroll indication radical spacious sly credential barren **residence** restraint lease dismay dismiss **prompt** reproach ethic promotion mood **sphere** 
+parasite dread militant complement heave **dictate** glorious commence **constitution** inhabitant inhabit lounge rug carve tragic **bolster** ripe stroll indication radical spacious sly credential barren **residence** restraint lease dismay dismiss **prompt** reproach ethic promotion mood **sphere** 
 
 ### 7.31
 
-linger sheer diversion diffuse gulf **rear** wrinkle **snap attendant** panorama shutter scatter **proceed** priest appoint appointment dividend lure compel console concurrent elevate surveillance albeit transmission 
+linger sheer diversion **diffuse** gulf **rear** wrinkle **snap attendant** panorama shutter scatter **proceed** priest appoint appointment dividend lure **compel** console concurrent elevate surveillance albeit transmission 
 
+### 8.1
 
+tunnel sake **objection object** eloquent oval sneeze cabin overt vast disturb **acclaim** rational tribe **ground** flatter recreation relish **stock** sigh **strike striking** volatile versatile favorable surpass tribute treaty banquet 
 
+### 8.2
 
+correspondent magnetic extravagant kidnap affiliate weary wary piracy pirate petition **diplomatic** **condense** sew **account** trace **pinch** radius **compact** 

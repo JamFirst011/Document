@@ -139,3 +139,20 @@ tunnel sake **objection object** eloquent oval sneeze cabin overt vast disturb *
 ### 8.2
 
 correspondent magnetic extravagant kidnap affiliate weary wary piracy pirate petition **diplomatic** **condense** sew **account** trace **pinch** radius **compact** 
+
+### 8.3
+
+elusive incident incidental dwelling **attain** slim **splash** vivid conform refute **mandate** deputy reign omit **weep** enlighten throne thorn **bare** 
+
+### 8.4
+
+vague **undergo** routine deduce disturbance remnant **sketch** violate spouse **collision** clique **authentic** **prior** **slice** intrigue **embark** clash **dip** stride 
+
+### 8.5
+
+**viable** blunt scope agitate **retort** **sentiment** accordance summon prone **involve** plight fierce patron deceptive eject premise pretext tentative incorporate hint imperial empirical hound howl **vicious** propel **inform** slash 
+
+### 8.8
+
+essence elect gracious coil tile **resume** obsolete statute **illuminate** worship bulk evade swamp revise stubborn fare 
+

@@ -1,158 +1,43 @@
-linguistic
-couch
-indicative
-**surge**
-pat
-**disguise**
-distinguish
-constituent
-**contempt**
-**correspondence**
-**correspond**
-resort
-**align**
-invoke
-erect
-hail
-**dome**
-chip
-precedent
-**fuse**
-**fume**
-constitute
-farewell
-layman
-**inspect**
-obstruct
-despise
-property
-toll
-nonetheless
-invert
-**default**
-notwithstanding
-fancy
-sway
-bucket
-subsidy
-dam
-ham
-**revoke**
-evoke
-convict
-religious
-**expedition**
-**lumber**
-stumble
-exception
-torment
-**insulate**
-excess
-trench
-**administer**
-cement
-glamour
-terrific
-revenue
-barrel
-velocity
-correspond
-amiable
-agreeble
-**tube cube**
-**trail**
-foam
-**offset**
-sip
-flap
-creep
-**drag**
-sophisticated
-thrust
-scale
-obtain
-occasion
-**premium**
-cumulative
-maiden
-rod
-**ritual**
-overlook
-collective
-claw crawl spite manual **manipulate** plural **accord** predominant harsh **deposit** **scene** episode 
-agreeble
-supervise
-**perceive** hinder liberate implement **consistent** exclusive plentiful rag necessitate plague vague stationary discern erupt inverse locomotive manufacture **strive thrive** spectrum **universal** persecute deviate lubricate fabricate accessory frustrate tease intrude stall **deceive** circuit prominent limb glimpse **magnitude** shiver scheme **overwhelm** arithmetic aesthetic slender **consent decent resent** pave **margin** bunch elapse remainder **pact** proceedings **adhere** merit interim **setback**
+Inform dominant confront inherent inherit internal interior interval transition subjective objective overlook neglect omit ignore eliminate reluctant spontaneous commerce commence immerse immense commit dismiss commodity obscure appeal implication propose proposal prospective prospect publication acquisition reap radical regulation derive presence consequently consequent considerate considerable strain drain assure ascertain entitle trait equivalent equivalence counterpart reveal convention conventional contradictory controversial violate involve entail alongside outcome result outline undermine 
 
-### 7.15
+anticipate blame bracket category catalog charge cope tackle handle curb determine dispute elite engage finding outcome result initiative instinct intuition gut lean panel patent peer peep peel  poll cite refer quote recruit relief relieve release rival scheme stem stick sticky wipe sovereign monarch auction embody predecessor precede excel chronic disclose reveal dedicate devote denote immerse deduce durable differentiate flourish boom prosperity fraction friction fiction fracture aggravate deteriorate degenerate eliminate dismiss publication publicity derive derivation involve revolve evolve evoke 
 
-likewise clarity **spoil** succession shed exotic debut veteran tip prevail prevalent dye mill pitch diligent temporal ventilated cape temper layoff nuisance trumpet frank 
+negligible noble prudent prudential readily rear shrink slight snap tactic underlying warrant agony precaution discern coalition condense essence confer excessive  superfluous surplus adhere lateral eligible paralyze novelty appetite duplicate offense practitioner probe prone assimilate conspicuous detach abound divert distract conversely pit magnitude spectacle spectacular
 
-### 7.16
+confer implement irony agony anguish negligible eligible duplicate offense rational designate indignant indignation abound pit implication cope tackle curb finding disclose deduce durable 
 
-concede conceive oblige principal censorship handy metropolitan fuss acquaintance scandal recollect plug curl whirl unite patrol optimum veto tame pavement puff obedience curb herd textile texture strife proclaim cling 
+drawback withdraw outset withhold abide bare bald bleak blunder plunge forge boast chimney cling cliff sting coil cosy paralyse cripple defer postpone earnest esteem estate implicit explicit feeble faint frown impair impart undermine inertia intrinsic inherent linger medieval mortgage parcel plead plot slot preach breach prey predator rigorous shove slum steer stiff strip tease trivial verge converge weary fatigue wary pant whirl stagger grope probe ascend scramble segregate aggregate aggravate dump ditch desert discard hurl nap shear strain drain
+	
+scrap scrape strip strap compensate force 
 
-### 7.17
+oath overthrow overturn amend breach violate disperse deplore retort concede redeem impart intercourse endow entitle clutch deter mediate moan groan loan stroll theft allege charge accuse flatter plaster stagger intimidate intimate uphold articulate envisage  rectify toss humiliate chest abdomen spine rib bowel comrade sibling kin rejoice anguish grief grieve appall stun dread foul flush blush relish compassion awe dismay dubious irritate fume mourn evoke thrill thrift tremble zeal empathy fuss versatile versatility timid sane cohesive coherent snobbish eccentric petty trivial mute discretion wary benevolent idle sly eminent ruthless shrewd compartment lawn vicinity orchard slope cemetery venue junction jargon pretext premise satire irony sleeve accessory cloak soak excursion sightseeing pedestrian ferry pickup lid mug oven knit weave cope 
+	
+bracket intrinsic preach breach directive coherence introduce axe thermometer broom boom sponge razor pedal pendulum trademark pump rein ribbon harness wardrobe rake poultry beverage cruise bruise pharmacy quarantine ward herb casualty handicap lame shepherd attendant raid autonomy intrigue decree legislation legitimate ballet ballot compact ethnic rally flock ally sue unanimous agitate defy endorse stall banquet coupon freight gauge auction augment lofty heap reap miniature scrap fragile fragment fragrant patch reptile horn weed thorn bud mammal ore ebb ridge mutter 
 
-hawk suite decisive stake chancellor ministry sector lavatory junction conjunction swarm seize slam productivity obscure accommodation tissue recall descend strain periodical assemble
+defy their oppression
 
-### 7.18 
+torrent barren swamp meadow lawn plateau lens impetus equator humid damp moist humidity breeze frost arithmetic excerpt benign sarcastic fable riddle dwarf taboo divine desolate isolation segregate quarantine perplex ignite shatter transcend recede precede concede lash spur eject expel collide detain dissipate weave snatch elapse eclipse hoist enclose reconcile mediate contrive renovate avail preclude escalate slump aggregate aggravate convene deplete elicit inflict stagnate stipulate glow ponder spit spill blend bump glitter complement compliment dilute evaporate expire exile fabricate magnify amplify refund perish avert overt coincide dazzle saturate soar tilt frustrate herald fringe strife appraisal meditation culprit turmoil hedge trivial trifle longitude latitude prosecute
 
-pyramid merchant merchandise guild intelligible plough application depict jolly statesman swell notorious manifestation deem cellar irrespective tick procession prosper stripe strip manuscript decimal **denounce** personnel substitute fabric thrift charity 
+debut symmetry procession testify testimony scent odour discrepancy plight reproach repression harassment aftermath bearing stance paradigm archive strand  ego bait retention allege allegiance intrigue conspiracy inventory retrospect retrospective synthesis tribute salient conspicuous cardinal optimum integral reciprocal affluent apt inward malignant stale stain strenuous nominal adjacent solitary solidarity portable thermal futile fertile fertilizer obsolete latent lateral discreet discrete discretion compatible comparable optical verbal dual daunting imminent eminent overt volatile proximate approximate
 
-### 7.21
+handy staple cardinal limp utter adverse ample auxiliary blunt dim exotic formidable intact intensive interim monotonous anonymous tedious predominant slippery mortal henceforth namely exceedingly respective irrespective albeit hum gasp motion jaw facet texture stab perfume culminate cultivate brace embrace flap vibrate solitary solidarity
 
-cohesive coherent **slot** fulfilling stir apparatus ideology ingenious wander ponder fling(have a fling) permeate passive passionate grip strap feasible restore skim infer confer narrative extensive temperament remains whereby whereas retain vanity 
+goodness dull resilient rash passage doze dose dozen plague overtake extent tent saw recipient tense muscle sheet rag towel conscience conscientious grip imperative resent wrench wage reservoir sneeze contagious oar paddle ore lease novelty
 
-### 7.22
+It’s dangerous to overtake on the bend
 
-spectator stain tender knot syndrome resultant leisure courtesy **reserve** whilst disrupt enclosure shuttle **clause** lamp sophomore notify vain famine definite 
+fountain worship evade enroll trunk branch tuition nutrition elaborate extravagant gross tangible stern commission exempt endeavor hamper cast spite sketch statute courtesy hygiene regime sprinkle render incentive hazard entail endow entitle embody extent hostile hostage lure stimulate stipulate subtle deprive  rigid revolt rebel trim clip captive irrigate irritate  latent 
 
-### 7.24
+tick lag cater sake crisis deed indeed formal latter hence enhance whereby whereas accountability accrue akin analogous applicant asteroid authorize authorization benchmark cascade ceremonial commonality composure contention contributory crabbed crumble decisiveness dire disposable domain dominate dominance elude encompass excavation exterminate fallout feverish pace fleeting gloom gloominessg gratify hindrance holistic hysteria inarticulate incidental indulgence insightful juggle mindset misdeed mitigate ornate perpetuate quirk rampant reasoning repercussion dismay dizzy synthesis preclude savage interest
+	
 
-fraud patent **disposition** tablet vulgar **gear mute** tram refer **commit** convene **contend** spray transient limp epoch mingle **grim grin grind** charter wreck patch lick stretch distinction distinct futile futility susceptible
+self-esteem penalize penalise picky sanction vacancy indifferent regardless defect deficit customize congress progress regress flock revive nurture contrast contract swell disparity dispatch exert excerpt refer deduce deduct emerge arrest depress mitigate perpetuate salient 
 
-### 7.25 
- 
-counsel concise chunk **account roundabout** kit prolong litre superstition menace **idle** discharge indignant twinkle juvenile **liability** scold **crude** specimen analogy analog category catalog vigorous rigorous irrigate **plausible** tale eradicate bleak orbit **scrutinize** lever plunge 
+guild monopoly nostalgic dwell insult impose let thorny issue perpetuate commute distinct instinct doctrine share price stakeholder shareholder odd capital review linger rub spectacle spectacular 
 
-### 7.26
+contend disclaim defendant disrupt abrupt corrupt 
 
-compile impulse distant drift repay **superiority priority** urge merge emerge booth bulletin jury toil consist lucrative eclipse moral breed kin oar majesty incline superfluous superficial drawback **discount** stipulate
 
-### 7.27 
 
-plaster flatter tow approval **tangle** consecutive spade **lump** eminent **submit** paralyze **dispose deposit** retent retention sow undertake proposition **tense tension revolve** thumb leap civilization valley gallery whip preclude sob resolute **resolution** furnish aspire 
 
-### 7.28
-
-parasite dread militant complement heave **dictate** glorious commence **constitution** inhabitant inhabit lounge rug carve tragic **bolster** ripe stroll indication radical spacious sly credential barren **residence** restraint lease dismay dismiss **prompt** reproach ethic promotion mood **sphere** 
-
-### 7.31
-
-linger sheer diversion **diffuse** gulf **rear** wrinkle **snap attendant** panorama shutter scatter **proceed** priest appoint appointment dividend lure **compel** console concurrent elevate surveillance albeit transmission 
-
-### 8.1
-
-tunnel sake **objection object** eloquent oval sneeze cabin overt vast disturb **acclaim** rational tribe **ground** flatter recreation relish **stock** sigh **strike striking** volatile versatile favorable surpass tribute treaty banquet 
-
-### 8.2
-
-correspondent magnetic extravagant kidnap affiliate weary wary piracy pirate petition **diplomatic** **condense** sew **account** trace **pinch** radius **compact** 
-
-### 8.3
-
-elusive incident incidental dwelling **attain** slim **splash** vivid conform refute **mandate** deputy reign omit **weep** enlighten throne thorn **bare** 
-
-### 8.4
-
-vague **undergo** routine deduce disturbance remnant **sketch** violate spouse **collision** clique **authentic** **prior** **slice** intrigue **embark** clash **dip** stride 
-
-### 8.5
-
-**viable** blunt scope agitate **retort** **sentiment** accordance summon prone **involve** plight fierce patron deceptive eject premise pretext tentative incorporate hint imperial empirical hound howl **vicious** propel **inform** slash 
-
-### 8.8
-
-essence elect gracious coil tile **resume** obsolete statute **illuminate** worship bulk evade swamp revise stubborn fare 
 

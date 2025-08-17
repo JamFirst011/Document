@@ -29,7 +29,7 @@ property
 nonetheless
 invert
 **default**
-notwithstanding
+**notwithstanding**
 fancy
 sway
 bucket
@@ -149,9 +149,12 @@ vague **undergo** routine deduce disturbance remnant **sketch** violate spouse *
 
 ### 8.5
 
-**viable** blunt scope agitate **retort refute** **sentiment** accordance summon prone **involve** plight fierce patron deceptive eject premise pretext tentative incorporate hint imperial empirical hound howl **vicious** propel **inform** slash 
+**viable** blunt scope agitate **retort refute** **sentiment** accordance summon prone **involve** plight fierce patron deceptive eject premise pretext tentative incorporate hint imperial empirical hound howl **vicious** **propel** **inform** slash 
 
 ### 8.8
 
 essence elect erect eject gracious coil tile **resume** obsolete statute **illuminate** worship bulk evade swamp revise stubborn fare 
 
+## Dynamic Inventory
+
+dip proceed undertake occasion harsh scene

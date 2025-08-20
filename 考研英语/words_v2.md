@@ -26,18 +26,13 @@ goodness dull resilient **rash** passage doze dose dozen plague **overtake** ext
 
 It’s dangerous to overtake on the bend
 
-fountain worship evade enroll trunk branch tuition nutrition elaborate extravagant gross tangible stern commission exempt endeavor hamper cast spite sketch statute courtesy hygiene regime sprinkle render incentive hazard entail endow entitle embody extent hostile hostage lure stimulate stipulate subtle deprive  rigid revolt rebel trim clip captive irrigate irritate  latent 
+fountain worship evade **enroll** trunk branch tuition nutrition elaborate extravagant gross tangible stern commission exempt endeavor hamper cast spite sketch statute courtesy hygiene regime sprinkle render incentive hazard entail endow entitle embody extent hostile hostage lure stimulate stipulate subtle deprive  rigid **revolt** rebel trim **clip** captive irrigate irritate  latent 
 
-tick lag cater sake crisis deed indeed formal latter hence enhance whereby whereas accountability accrue akin analogous applicant asteroid authorize authorization benchmark cascade ceremonial commonality composure contention contributory crabbed crumble decisiveness dire disposable domain dominate dominance elude encompass excavation exterminate fallout feverish pace fleeting gloom gloominessg gratify hindrance holistic hysteria inarticulate incidental indulgence insightful juggle mindset misdeed mitigate ornate perpetuate quirk rampant reasoning repercussion dismay dizzy synthesis preclude savage interest
+tick lag cater sake crisis **deed** indeed formal latter **hence** enhance whereby whereas accountability **accrue** akin **analogous** applicant asteroid authorize authorization benchmark cascade ceremonial commonality **composure** **contention** contributory crabbed crumble **decisiveness dire** disposable domain dominate dominance **elude encompass excavation exterminate** fallout feverish pace fleeting gloom gloominess gratify hindrance holistic hysteria inarticulate incidental indulgence **insightful** juggle mindset **misdeed** mitigate ornate perpetuate quirk rampant reasoning **repercussion** dismay dizzy synthesis preclude savage interest
 	
 
-self-esteem penalize penalise picky sanction vacancy indifferent regardless defect deficit customize congress progress regress flock revive nurture contrast contract swell disparity dispatch exert excerpt refer deduce deduct emerge arrest depress mitigate perpetuate salient 
+self-esteem penalize penalise picky **sanction** vacancy indifferent regardless defect **deficit** customize **congress progress regress** flock revive nurture **contrast** contract swell disparity dispatch exert excerpt refer deduce deduct emerge arrest **depress** mitigate perpetuate salient 
 
-guild monopoly nostalgic dwell insult impose let thorny issue perpetuate commute distinct instinct doctrine share price stakeholder shareholder odd capital review linger rub spectacle spectacular 
+guild monopoly nostalgic dwell dwelling insult impose let **thorny** issue perpetuate commute distinct instinct doctrine share price stakeholder shareholder odd **capital review** linger rub spectacle spectacular 
 
-contend disclaim defendant disrupt abrupt corrupt 
-
-
-
-
-
+contend **disclaim defendant** disrupt abrupt corrupt erupt **extrinsic** diverse 

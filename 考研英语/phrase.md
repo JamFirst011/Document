@@ -17,3 +17,8 @@
 1. *contend with* 对付 *content against* 抗衡
 1. *be down to* 由某人负责
 1. *zoom in* 放大
+1. *tied to* 和...有关
+1. *have yet to* 尚未
+1. *sink in* 完全理解
+1. *come what may* 无论如何
+1. *be trapped in* 被困在

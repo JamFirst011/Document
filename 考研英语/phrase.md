@@ -22,3 +22,4 @@
 1. *sink in* 完全理解
 1. *come what may* 无论如何
 1. *be trapped in* 被困在
+1. *in somebody's favor* 对某人有利

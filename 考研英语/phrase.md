@@ -23,3 +23,12 @@
 1. *come what may* 无论如何
 1. *be trapped in* 被困在
 1. *in somebody's favor* 对某人有利
+1. *part with* 放弃
+
+**would/could/should have done**: 都带有对过去的推测，分别表示：
+- would have done: 本想做，但是没有做： *I would have gone to college but I chose to go for a trip*
+- would not have done: 当然不会这么做，包含对过去的推测： *A wiser man wouldn't have done such a foolish thing*
+- could have done: 本可以做，但是没有做
+- should have done: 本应该做，但是没有做
+
+1. *for which reason* 因此，等于 *for this reason/because of this*

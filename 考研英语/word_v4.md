@@ -12,4 +12,8 @@ benevolent obsolete repression brace analogous elude regress capital disclaim ex
 
 ## 8.31
 
-toil undertake commitment commission uprise subside 
+toil undertake **commitment** commission uprise **subside**
+
+## 9.4 
+
+fascination wonder 

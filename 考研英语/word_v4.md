@@ -17,3 +17,15 @@ toil undertake **commitment** commission uprise **subside**
 ## 9.4 
 
 fascination wonder proponent 
+
+## 9.7
+
+affect affection mischievous disputable duly surpass coverage 
+
+## 9.8
+
+ruling goodwill issue issued academic epidemic compelling dividend exotic submit substance subtle 
+
+## 9.9
+
+shaky ethic ethnic worth 

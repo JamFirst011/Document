@@ -32,3 +32,6 @@
 - should have done: 本应该做，但是没有做
 
 1. *for which reason* 因此，等于 *for this reason/because of this*
+1. *it is taken for granted that* 被认为是理所当然的
+1. *act on* 果断采取行动
+1. *time was when...* 曾经...

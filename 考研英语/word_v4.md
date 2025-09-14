@@ -32,4 +32,12 @@ shaky ethic ethnic worth
 
 ## 9.11 
 
-turnover disgrace promote steady stem anticipate assembly conduct discipline disclose household huddle console constituent delicate constitution constrain distinct distinction frustrate liability liberal anchor appliance discriminate necessitate stretch 
+turnover disgrace promote steady stem anticipate assembly conduct discipline disclose household huddle console constituent delicate constitution **constrain** **distinct distinction** frustrate liability liberal anchor appliance discriminate **necessitate** stretch commitment
+
+## 9.13
+
+justification wronged upside downside initial initiate initiative prescribe prescription press religion strain arouse volumn stir approach conform confuse mock preliminary premium dilute conceive episode epoch 
+
+## 9.14
+
+dishonor evolution panel saving safeguard magnitude lawsuit identify oblige objection radiant tow **term** terminal underestimate underlie unemployment weary whirl zoom knit patent perceive means measure thrift throughout utter wonder 

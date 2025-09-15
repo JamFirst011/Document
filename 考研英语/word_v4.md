@@ -41,3 +41,7 @@ justification wronged upside downside initial initiate initiative prescribe pres
 ## 9.14
 
 dishonor evolution panel saving safeguard magnitude lawsuit identify oblige objection radiant tow **term** terminal underestimate underlie unemployment weary whirl zoom knit patent perceive means measure thrift throughout utter wonder 
+
+## 9.15 
+
+whereas co- abide dazzle economical fabricate fancy embody upgrade uphold ventilate benign characterise define deliberate fierce mediated medium absorb bar cast casualty sketch

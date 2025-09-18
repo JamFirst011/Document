@@ -39,3 +39,10 @@
 1. *without a net* 没有保障
 1. *essay to do* 试图做某事
 1. *be up to somebody* 取决于某人
+1. *up in arms* 愤怒的
+1. *for all* 尽管 
+1. *blame on* 归咎于
+
+## sentences
+
+1. This distinction is so much so that where the latter is lacking, as it is for these homeless people, the former becomes all the more urgent

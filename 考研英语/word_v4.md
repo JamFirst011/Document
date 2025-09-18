@@ -44,4 +44,16 @@ dishonor evolution panel saving safeguard magnitude lawsuit identify oblige obje
 
 ## 9.15 
 
-whereas co- abide dazzle economical fabricate fancy embody upgrade uphold ventilate benign characterise define deliberate fierce mediated medium absorb bar cast casualty sketch
+whereas co- abide dazzle economical fabricate fancy embody upgrade uphold ventilate benign characterise define deliberate fierce mediated medium **absorb** bar cast casualty **sketch**
+
+## 9.16
+
+lever manifest offend offspring quest span scheme accommodate bid department eminent grand grant immense immune adopt vicious closet guild acknowledge recognize recover detention detain detach 
+
+## 9.17
+
+abide abiding demoralization perish organism rational sensible tolerant chip **verbal** vessel brisk alternate complement diffuse encounter endorse specify force enforce folk fore forge gross literally signify slack
+
+## 9.18
+
+row beam derive designate desirable fling hint hitherto petition resent setback toll sow coincide coincidence commend deter ponder assume doom proclaim productive institute institution 

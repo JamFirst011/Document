@@ -32,7 +32,7 @@ shaky ethic ethnic worth
 
 ## 9.11 
 
-turnover disgrace promote steady stem anticipate assembly conduct discipline disclose household huddle console constituent delicate constitution **constrain** **distinct distinction** frustrate liability liberal anchor appliance discriminate **necessitate** stretch commitment
+**turnover** disgrace promote steady stem anticipate assembly conduct discipline disclose household huddle console constituent delicate constitution **constrain** **distinct distinction** frustrate liability liberal anchor appliance discriminate **necessitate** stretch commitment
 
 ## 9.13
 
@@ -57,3 +57,7 @@ abide abiding demoralization perish organism rational sensible tolerant chip **v
 ## 9.18
 
 row beam derive designate desirable fling hint hitherto petition resent setback toll sow coincide coincidence commend deter ponder assume doom proclaim productive institute institution 
+
+## 9.21
+
+attribute extend extent nerve prominent reserve resilient resort successive assure counsel exploit tumble stumble avail due mutual norm supplement initiate 

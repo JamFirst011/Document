@@ -32,7 +32,7 @@ shaky ethic ethnic worth
 
 ## 9.11 
 
-**turnover** disgrace promote steady stem anticipate assembly conduct discipline disclose household huddle console constituent delicate constitution **constrain** **distinct distinction** frustrate liability liberal anchor appliance discriminate **necessitate** stretch commitment
+**turnover** disgrace promote steady stem anticipate assembly conduct discipline disclose household huddle console constituent delicate constitution constrain distinct distinction frustrate liability liberal anchor appliance **discriminate** necessitate stretch commitment
 
 ## 9.13
 
@@ -40,19 +40,20 @@ justification wronged upside downside initial initiate initiative prescribe pres
 
 ## 9.14
 
-dishonor evolution panel saving safeguard magnitude lawsuit identify oblige objection radiant tow **term** terminal underestimate underlie unemployment weary whirl zoom knit patent perceive means measure thrift throughout utter wonder 
+dishonor evolution panel saving safeguard magnitude lawsuit **identify** oblige objection radiant tow term terminal underestimate underlie unemployment weary whirl zoom knit patent perceive means measure thrift throughout utter wonder 
 
 ## 9.15 
 
-whereas co- abide dazzle economical fabricate fancy embody upgrade uphold ventilate benign characterise define deliberate fierce mediated medium **absorb** bar cast casualty **sketch**
+whereas co- abide dazzle economical fabricate fancy embody upgrade uphold ventilate benign characterise define deliberate fierce mediated medium **absorb** bar cast casualty sketch
 
 ## 9.16
 
-lever manifest offend offspring quest span scheme accommodate bid department eminent grand grant immense immune adopt vicious closet guild acknowledge recognize recover detention detain detach 
+lever manifest offend offspring quest span scheme **accommodate** bid department eminent grand grant immense immune adopt vicious closet guild acknowledge recognize recover detention detain detach 
+
 
 ## 9.17
 
-abide abiding demoralization perish organism rational sensible tolerant chip **verbal** vessel brisk alternate complement diffuse encounter endorse specify force enforce folk fore forge gross literally signify slack
+abide abiding demoralization perish organism rational sensible tolerant chip **verbal** vessel brisk alternate complement diffuse **encounter** endorse specify force enforce folk fore forge gross literally **signify** slack
 
 ## 9.18
 
@@ -60,4 +61,56 @@ row beam derive designate desirable fling hint hitherto petition resent setback 
 
 ## 9.21
 
-attribute extend extent nerve prominent reserve resilient resort successive assure counsel exploit tumble stumble avail due mutual norm supplement initiate 
+attribute **extend** extent nerve prominent reserve resilient resort successive assure counsel exploit tumble stumble avail due mutual norm supplement initiate 
+
+## 9.22
+
+cumulative awkward invoke susceptible antenna antique desolate barren despair 
+
+## 10.1
+
+overshadow eclipse alongside pressure concrete prosecute differentaite indifference 
+
+## 10.2
+
+proceeding merit align obstruct notwithstanding revoke convict **lumber** insulate insult ritual manual harsh predominent prominent aggreeable liberate consistent constant plague stall 
+
+## 10.3
+
+clarity shed dye layoff **trumpet** censorship recollect veto tame lame puff herd textile tissue descend ascend depict jolly cellar irrespective strap feasible viable temperament spectator tender knot enclosure 
+
+## 10.4
+
+tram spray limp wreck patch chunk account menace idle **discharge** juvenile crude vigorous rigorous bleak drift merge emerge **eclipse** majesty superficial stipulate consecutive retention leap valley gallery **furnish** aspire parasite complement heave lounge rug predominance bolster spacious authentic **authenticate** desolate barren dismay **prompt** mood sphere **perception** sizable **content** 
+
+## 10.5
+
+counteract forge aggreeable 
+
+## 10.6
+
+linger diversion scatter proceed surveillance transmission transition tunnel extravagant piracy sneeze overt avert tribe relish perish stock tribute correspondent sew sow compact **elusive** exclusive incidental refute retort omit intrigue dip **sentiment** accordance summon prone plight deceptive pretext imperial empirical **slam slash** bulk 
+
+## 10.11
+
+fascination disputable duly subtract fling nerve counteract bulk manufacturer automobile genuinely
+
+## 10.12
+
+objective appeal prestige strain lean sticky lateral latent pit spectacular spectacle spectator adverse adversity perseverance inspiration impetus
+
+## 10.14
+
+raid autonomy rally unanimous defy augment **lofty** bud riddle divine dissipate contrive spill bearing integral malignant thermal proximate **compatible daunting trial**
+
+## 10.15
+
+levy intellectual **integrity philosophy**
+
+## 10.16
+
+adverse adversity formidable monotonous respective gasp culminate **rash** lash overtake undertake rag rug sneeze chunk trunk akin authorize commonality **contention** crabbed dire disposable encompass fleeting gratify ornate rampant deficit dispatch defendant vengeance nationalisation phase 
+
+## 10.17
+
+neutral neutrality partiality faculty 

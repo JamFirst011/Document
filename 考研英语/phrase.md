@@ -42,6 +42,8 @@
 1. *up in arms* 愤怒的
 1. *for all* 尽管 
 1. *blame on* 归咎于
+1. *by all account* 据大家所说
+1. *let alone* 更不用说
 
 ## sentences
 

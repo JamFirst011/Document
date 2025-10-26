@@ -24,6 +24,7 @@
 1. *be trapped in* 被困在
 1. *in somebody's favor* 对某人有利
 1. *part with* 放弃
+1. *well-off* 赋予的，顺利的
 
 **would/could/should have done**: 都带有对过去的推测，分别表示：
 - would have done: 本想做，但是没有做： *I would have gone to college but I chose to go for a trip*
@@ -44,6 +45,8 @@
 1. *blame on* 归咎于
 1. *by all account* 据大家所说
 1. *let alone* 更不用说
+1. *not least* 尤其是
+1. *identify with* 认同，产生共鸣
 
 ## sentences
 

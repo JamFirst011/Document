@@ -109,8 +109,20 @@ levy intellectual **integrity philosophy**
 
 ## 10.16
 
-adverse adversity formidable monotonous respective gasp culminate **rash** lash overtake undertake rag rug sneeze chunk trunk akin authorize commonality **contention** crabbed dire disposable encompass fleeting gratify ornate rampant deficit dispatch defendant vengeance nationalisation phase 
+adverse adversity formidable monotonous respective gasp culminate **rash** lash overtake undertake rag rug sneeze chunk trunk akin authorize commonality **contention** crabbed dire disposable encompass fleeting gratify ornate rampant deficit dispatch defendant venge vengeance nationalisation phase 
 
 ## 10.17
 
-neutral neutrality partiality faculty 
+neutral neutrality **partiality** faculty 
+
+## 10.18 
+
+defect deficiency well-off well-being discipline subject decline imitate adoration 
+
+## 10.21
+
+speculate distinctive attach conspire inflate demonstrate occupation sanction magnificent hesitate premier inerrupt vain vanity conviction be doom to gaze glance glimpse 
+
+## 10.26
+
+discourse lubricate lucrative remedy repel tangible  

@@ -92,3 +92,38 @@
 
 - **享受**: enjoy 替换为 relish时，relish更加文学，且后面跟名词，例如: enjoy exercise -> relish the joyful moment of exercise
 - **满足需求**: fulfill one's need/demand/requirement/desire/goal
+
+### 10.28
+
+- **需要做某事**: be require to do, be responsible for doing
+- **yet的正确用法**: 
+    1. 转折: he is poor, yet happy(=but)
+    2. 还未: Have you eat yet?
+    3. 甚至,更加: A yet more difficult question arise.
+
+### 10.29
+
+- **有更好的了解**: gain a deeper understanding/obtain a clearer perception/enhance one's understanding/achieve a more profound cmoprehension of
+- **观众**: audience/spectator(尤指体育比赛观众)/viewer
+- **正如标题描述的那样**: As specified by the title above...
+- **传播**: propagation(观点理论)/promotion
+- **体现了一种氛围...**: convey a ... atmosphere/a ... atmosphere is shown
+
+### 10.30
+
+- **考虑某人**: take sb into consideration
+- **持续的/不断的**: unceasing/perpetual/continuous/persistent
+
+### 11.1
+
+- **对某物的接触**: exposure to ...
+- **display用法**: 注意display是不及物动词，也就是必须要有主语，所以不能倒桩。
+
+### 11.3
+
+- **希望你们越来越好**: May your enterprise achieve even greater accomplishments/wish your team ever-growing success
+- **通用结尾**: 
+    1. Thank you for your attention to this matter
+    2. Thank you for handling this issue promptly
+    3. I appreciate your prompt assistance
+    4. Thank you in advance for your help and understanding

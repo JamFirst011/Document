@@ -802,7 +802,7 @@ c1. formation 形成
 1. *roundabout* 环岛，说话兜圈子的 e.g it is painful to read these roundabout accounts today
 1. *upright* 挺直的，直立的 e.g Please stand upright when saluting to the commander
 1. *warehouse repository* 仓库 *stock storage*
-1. *accuse*指控 *abute* 滥用，虐待 
+1. *accuse*指控 *abuse* 滥用，虐待 
 1. *withhold* 拒绝提供，拒给 e.g ...was accused of withholding crucial information from the police
 1. *abide* 忍受，遵守 *endure comply conform* e.g I can't abide people with no humor
 1. *acclaim* 称赞 e.g ...was acclaimed as a success

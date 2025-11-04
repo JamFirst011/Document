@@ -77,23 +77,23 @@ proceeding merit align obstruct notwithstanding revoke convict **lumber** insula
 
 ## 10.3
 
-clarity shed dye layoff **trumpet** censorship recollect veto tame lame puff herd textile tissue descend ascend depict jolly cellar irrespective strap feasible viable temperament spectator tender knot enclosure 
+clarity shed dye layoff **trumpet** **censorship** recollect veto tame lame puff herd textile tissue descend ascend depict jolly cellar irrespective strap feasible viable temperament spectator tender knot enclosure 
 
 ## 10.4
 
-tram spray limp wreck patch chunk account menace idle **discharge** juvenile crude vigorous rigorous bleak drift merge emerge **eclipse** majesty superficial stipulate consecutive retention leap valley gallery **furnish** aspire parasite complement heave lounge rug predominance bolster spacious authentic **authenticate** desolate barren dismay **prompt** mood sphere **perception** sizable **content** 
+tram spray limp wreck patch chunk account menace idle **discharge** juvenile crude vigorous rigorous bleak drift merge emerge **eclipse** majesty superficial stipulate consecutive retention leap valley gallery **furnish** aspire parasite complement heave lounge rug **predominance** bolster spacious authentic **authenticate** desolate barren dismay **prompt** mood sphere **perception** sizable **content** 
 
 ## 10.5
 
-counteract forge aggreeable 
+**counteract** forge aggreeable 
 
 ## 10.6
 
-linger diversion scatter proceed surveillance transmission transition tunnel extravagant piracy sneeze overt avert tribe relish perish stock tribute correspondent sew sow compact **elusive** exclusive incidental refute retort omit intrigue dip **sentiment** accordance summon prone plight deceptive pretext imperial empirical **slam slash** bulk 
+linger diversion scatter proceed surveillance transmission transition tunnel extravagant piracy **sneeze** overt avert tribe relish perish stock tribute correspondent sew sow compact **elusive** exclusive incidental refute retort **omit** intrigue dip **sentiment** accordance summon prone plight deceptive pretext imperial empirical **slam slash** bulk 
 
 ## 10.11
 
-fascination disputable duly subtract fling nerve counteract bulk manufacturer automobile genuinely
+fascination disputable **duly** subtract fling nerve counteract bulk manufacturer automobile genuinely
 
 ## 10.12
 
@@ -101,7 +101,7 @@ objective appeal prestige strain lean sticky lateral latent pit spectacular spec
 
 ## 10.14
 
-raid autonomy rally unanimous defy augment **lofty** bud riddle divine dissipate contrive spill bearing integral malignant thermal proximate **compatible daunting trial**
+raid autonomy rally unanimous defy augment **lofty** bud riddle divine **dissipate** contrive spill bearing integral malignant thermal proximate **compatible daunting trial**
 
 ## 10.15
 
@@ -121,8 +121,28 @@ defect deficiency well-off well-being discipline subject decline imitate adorati
 
 ## 10.21
 
-speculate distinctive attach conspire inflate demonstrate occupation sanction magnificent hesitate premier inerrupt vain vanity conviction be doom to gaze glance glimpse 
+speculate **distinctive** attach conspire inflate demonstrate occupation sanction magnificent **hesitate** premier interrupt vain vanity conviction **be doom to** gaze glance glimpse 
 
 ## 10.26
 
-discourse lubricate lucrative remedy repel tangible  
+**discourse** lubricate lucrative remedy repel tangible  
+
+## 10.28
+
+**contemplate** **foremost** outset outlet **conform** comply earnest instalment **odds** pastime recreation occupation diversion
+
+## 10.29
+
+stare glimpse glance glare gaze pant stoop prosecute persecute deplore redeem persevere spray splash sprinkle spill moan groan stumble tumble lumber **tenant**
+
+## 10.30
+
+**distress** empathy cordial eloquent amiable vulgar deck dock aural cruise bruise pedestrian momentum monument fuse edible scout **vocation** feudal **equity** warrant 
+
+## 10.31
+
+metaphor instrumental contaminate sniff snatch alienate elapse reconcile sprout contrive eradicate credential reassure affiliate 
+
+## 11.2
+
+herald tangle tangible remnant paradigm exquisite resultant malignant redundant consecutive discrete discreet discretion precarious

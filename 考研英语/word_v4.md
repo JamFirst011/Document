@@ -121,7 +121,7 @@ defect deficiency well-off well-being discipline subject decline imitate adorati
 
 ## 10.21
 
-speculate **distinctive** attach conspire inflate demonstrate occupation sanction magnificent **hesitate** premier interrupt vain vanity conviction **be doom to** gaze glance glimpse 
+speculate **distinctive** attach conspire inflate demonstrate occupation sanction magnificent **hesitate** premier interrupt vain vanity conviction **be doomed to** gaze glance glimpse 
 
 ## 10.26
 
@@ -141,8 +141,16 @@ stare glimpse glance glare gaze pant stoop prosecute persecute deplore redeem pe
 
 ## 10.31
 
-metaphor instrumental contaminate sniff snatch alienate elapse reconcile sprout contrive eradicate credential reassure affiliate 
+metaphor instrumental contaminate eradicate sniff snatch alienate elapse reconcile sprout contrive eradicate credential reassure affiliate 
 
 ## 11.2
 
-herald tangle tangible remnant paradigm exquisite resultant malignant redundant consecutive discrete discreet discretion precarious
+herald tangle tangible remnant paradigm exquisite resultant malignant redundant consecutive discrete discreet discretion **precarious**
+
+## 11.3
+
+loom gloom pledge segregate humiliate burnout contention crumble holistic hostage hostile misdeed 
+
+## 11.10
+
+coined 

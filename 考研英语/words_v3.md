@@ -89,7 +89,7 @@ likewise **clarity spoil** succession shed exotic **debut** veteran **tip** prev
 
 ### 7.16
 
-concede **conceive** oblige principal censorship handy metropolitan fuss acquaintance scandal recollect plug curl whirl unite patrol optimum veto **tame** pavement puff obedience **curb herd textile texture** strife proclaim **cling cliff**
+concede **conceive** oblige principal censorship handy metropolitan fuss acquaintance scandal recollect plug curl whirl unite patrol optimum veto **tame** pavement puff obedience obsess obsession **curb herd textile texture** strife proclaim **cling cliff**
 
 ### 7.17
 

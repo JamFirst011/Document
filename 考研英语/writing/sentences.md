@@ -127,3 +127,23 @@
     2. Thank you for handling this issue promptly
     3. I appreciate your prompt assistance
     4. Thank you in advance for your help and understanding
+
+### 11.4
+
+- **充斥着某种现象**: 
+    1. There is a prevailing phenomenon
+    2. ... prevades our society
+    3. The prevalence of ... in society has becoming increasingly alarming
+
+### 11.5
+
+- **扎实的掌握**：solid grasp
+- **赞扬**: 
+    1. 工作: diligent, detail-oriented, goal-oriented, efficient, organized
+    2. 个人发展: self-motivated, proficient in(精通)
+
+### 11.6
+
+- **削弱抽象事物**: tear apart/undermine/impair
+- **被体现/描述...**: as shown/embodied by/in (少用which)
+- **对事物的坚持**: 用persist而不是insist更合理

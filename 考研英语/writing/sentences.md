@@ -100,6 +100,7 @@
     1. 转折: he is poor, yet happy(=but)
     2. 还未: Have you eat yet?
     3. 甚至,更加: A yet more difficult question arise.
+    4. 而且(大部分): this is a good idea, yet simpler
 
 ### 10.29
 
@@ -147,3 +148,7 @@
 - **削弱抽象事物**: tear apart/undermine/impair
 - **被体现/描述...**: as shown/embodied by/in (少用which)
 - **对事物的坚持**: 用persist而不是insist更合理
+
+### 11.11
+
+- **又一个**: yet another

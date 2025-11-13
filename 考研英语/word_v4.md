@@ -153,4 +153,4 @@ loom gloom pledge segregate humiliate burnout contention crumble holistic hostag
 
 ## 11.10
 
-coined 
+coined conclusive fluid coordination 

@@ -67,7 +67,7 @@
 - **磨难/挫折/挑战**: setback/adversity/failure/trial/plight/tribulation
 - **描述**: depict(表示客观的描述), portray(主观色彩的刻画/塑造)
 - **狂热的**: fanatic/fanatical/feverish(带贬义), passionate/enthusiastic/devoted(不带贬义)
-- **构成**: be composed of/consist of(被动)，constitute/account for(主动)
+- **构成**: be composed of/consist of(被动)，constitute(主动)
 
 ### 10.21
 
@@ -133,7 +133,7 @@
 
 - **充斥着某种现象**: 
     1. There is a prevailing phenomenon
-    2. ... prevades our society
+    2. ... pervades our society
     3. The prevalence of ... in society has becoming increasingly alarming
 
 ### 11.5

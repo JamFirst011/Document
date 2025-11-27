@@ -152,3 +152,8 @@
 ### 11.11
 
 - **又一个**: yet another
+
+### 11.27
+
+- **引发了我的思考**: give me much to think about/trigger or spark my reflection/thinking
+- **人与人之间的交往**: interaction, 不能用intercourse，表示性交

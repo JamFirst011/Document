@@ -157,3 +157,10 @@
 
 - **引发了我的思考**: give me much to think about/trigger or spark my reflection/thinking
 - **人与人之间的交往**: interaction, 不能用intercourse，表示性交
+
+### 11.28
+
+- **描述图画后的结尾**:
+    - 反映问题：the picture touches on a profound issue:...
+    - 中性社会现象: the picture capture a typical scene in today's society, where.../the picture reflects a common social phenomenon
+    - 反映一种美德: the picture highlights a commendable virtue:.../conveys a valuable quality:...

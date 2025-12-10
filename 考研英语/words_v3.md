@@ -33,7 +33,7 @@ invert
 fancy
 sway
 bucket
-**subsidy**
+**subsidy subside**
 dam
 ham
 **revoke**

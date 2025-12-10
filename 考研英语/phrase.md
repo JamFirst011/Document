@@ -5,7 +5,7 @@
 1. *at stake* 处于危险
 1. *gear somehing for/to/towards* 改装以适应...
 1. *plead with somebody to do* 恳求某人做
-1. *shed tears* 流泪
+1. **shed tears** 流泪
 1. *well-heeled* 有钱的
 1. *at stake* 处于危险中
 1. *deprive sb of sth* 剥夺了某人的某物
@@ -15,10 +15,10 @@
 1. *at odds with* 不一致
 1. *contend with* 对付 *contend against* 抗衡
 1. *be down to* 由某人负责
-1. *zoom in* 放大
+1. **zoom in** 放大
 1. *tied to* 和...有关
 1. *have yet to* 尚未
-1. *sink in* 完全理解，不及物，eg. the implication took a while to sink in
+1. **sink in** 完全理解，不及物，eg. the implication took a while to sink in
 1. *come what may* 无论如何
 1. *be trapped in* 被困在
 1. *in somebody's favor* 对某人有利
@@ -38,16 +38,18 @@
 1. *it is taken for granted that* 被认为是理所当然的
 1. *act on* 果断采取行动
 1. *time was when...* 曾经...
-1. *without a net* 没有保障
+1. **without a net** 没有保障
 1. *be up to somebody* 取决于某人
 1. *up in arms* 愤怒的
-1. *for all* 尽管 
+1. **for all** 尽管 
 1. *blame on* 归咎于
-1. *by all accounts* 据大家所说
+1. **by all accounts** 据大家所说
 1. *let alone* 更不用说
-1. *not least* 尤其是
+1. **not least** 尤其是
 1. *identify with* 认同，产生共鸣
 1. *scoop up* 囊括 
+1. **tangle with**
+1. *deny sb sth* 剥夺了某人的某物，e.g deny management the flexibility
 
 ## sentences
 

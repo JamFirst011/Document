@@ -8,7 +8,9 @@ differentiate gratitude gratify **bewilder** mischief nucleus stagger stagnate c
 
 semester session sew shipment tenant **thereafter affluent plain** marital navigation quiver shiver shrink thesis vicinity **analogy** mechanic **simultaneous** feudal heave hoist **induce** nest optical **refuge** civilize **gracious** slim descendant plunge **slump** sly owe
 
-shallow shed delegate elect throne voyage **altogether** loan retain retention revolutionary stale ascribe intermittent intersection 
+shallow shed **delegate** elect throne voyage **altogether** loan retain retention **revolutionary** stale **ascribe intermittent** intersection 
+
+strap bribe exile ashore **aspire** ripe rip motive stitch rib ridge draft drought expel **stroll** sturdy submerge substract punctual ruthless burglar 
 
 **Key**:
 - operational: the new airport is now fully operational 

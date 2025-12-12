@@ -12,6 +12,8 @@ shallow shed **delegate** elect throne voyage **altogether** loan retain retenti
 
 strap bribe exile ashore **aspire** ripe rip motive stitch rib ridge draft drought expel **stroll** sturdy submerge substract punctual ruthless burglar 
 
+bump frontier overflow overhaul overhear rot rouse autonomy dump duplicate provision 
+
 **Key**:
 - operational: the new airport is now fully operational 
 - engage: They never learn a skill to engage attention of the others

@@ -10,9 +10,9 @@ semester session sew shipment tenant **thereafter affluent plain** marital navig
 
 shallow shed **delegate** elect throne voyage **altogether** loan retain retention **revolutionary** stale **ascribe intermittent** intersection 
 
-strap bribe exile ashore **aspire** ripe rip motive stitch rib ridge draft drought expel **stroll** sturdy submerge substract punctual ruthless burglar 
+strap bribe exile ashore **aspire** ripe **rip** motive stitch **rib** ridge draft drought **expel stroll sturdy submerge** substract punctual **ruthless** burglar 
 
-bump frontier overflow overhaul overhear rot rouse autonomy dump duplicate provision 
+**bump dump** frontier overflow **overhaul** ovlrhear rot rouse autonomy duplicate provision 
 
 **Key**:
 - operational: the new airport is now fully operational 

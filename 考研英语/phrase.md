@@ -44,12 +44,12 @@
 1. **for all** 尽管 
 1. *blame on* 归咎于
 1. **by all accounts** 据大家所说
-1. *let alone* 更不用说
+1. **let alone** 更不用说
 1. **not least** 尤其是
-1. *identify with* 认同，产生共鸣
+1. **identify with** 认同，产生共鸣
 1. *scoop up* 囊括 
 1. **tangle with**
-1. *deny sb sth* 剥夺了某人的某物，e.g deny management the flexibility
+1. **deny sb sth** 剥夺了某人的某物，e.g deny management the flexibility
 
 ## sentences
 

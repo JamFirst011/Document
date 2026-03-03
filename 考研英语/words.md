@@ -8,7 +8,7 @@
 7. *bias* *prejudice* 偏差，偏见
 8. brief 短暂的，简洁的 e.g There was a brief silence before his speech
 9. forcast 预测，预报
-10. perceive 意识到，将...视为
+10. perceive 看待d
 11. celebrity 名人，名望
 12. capacity 容量，能力
 13. participant 参与者
@@ -57,7 +57,7 @@ c1. formation 形成
 56. *inherent* 内在的，本质的 *inherit* 继承
 57. identify 认出
 58. identify with 认同
-59. intellecture 智力的，知识分子
+59. intellectual 智力的，知识分子
 60. internal interior内部的 interval 间隔
 61. transition 过渡
 62. objective 目标，客观的 *intention* *aim* *target* 目的
@@ -92,7 +92,7 @@ c1. formation 形成
 89. *promote* 促进 *prompt* 迅速的，促进，提示，提示符
 90. *immune* 免疫的 *immune system* 免疫系统 *immunity* 免疫力
 91. *renaissance* 复兴
-92. *enormous* *massive* 巨大的 *abundant* 大量丰富的 *substantial immense* 大量的 *considerabel* 
+92. *enormous* *massive* 巨大的 *abundant* 大量丰富的 *substantial immaense* 大量的 *considerable* 
 93. *obscure* 模糊的，费解的
 94. *adopt* 采纳，收养
 95. *impact* 显著影响，冲击

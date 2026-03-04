@@ -479,7 +479,7 @@ c1. formation 形成
 1. *persist persistent persistence insist* 坚持
 1. *substitute* 代替
 1. *sole* = *only* e.g she is the sole surviving member of the accident
-1. *solidate consolidate consolidation* 巩固 e.g consolidate her power
+1. *consolidate consolidation* 巩固 e.g consolidate her power
 1. *resort* 采取 e.g solve this problem without resorting violence
 1. *spacious* 广阔的 *extensive*
 1. *sphere hemisphere* 球 半球
@@ -493,7 +493,7 @@ c1. formation 形成
 1. *maintenance* 维护，维修 e.t this machinery needs constant maintenance
 1. *attain* 达到
 1. *tempt* 引诱，诱惑 e.g I was tempted by the dessert menu
-1. *contempt* 轻视 *despice* 鄙视
+1. *contempt* 轻视 *despise 鄙视
 1. *contend* 声称，竞争 e.g John has to contend with great difficulties
 
 ***

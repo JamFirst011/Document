@@ -869,7 +869,7 @@ c1. formation 形成
 1. *handful* 少量的，一把 e.g the girl picked up a handful of sand and threw it towards us
 1. *haste* 匆忙 *snap*  *hasty*
 1. *hazard* 危害 e.g Growing levels of pollution represent a serious health hazard to the local resident
-1. *hip* 臀部
+1. *hip* 臀
 1. *impair* 削弱 e.g The injured leg has impaired his ability to run
 1. *incidence* 发生率 *incident episode* 事件
 1. *indulge* 沉溺，纵容 e.g he indulged his children too much
@@ -1875,7 +1875,7 @@ c1. formation 形成
 1. *extravagant* 昂贵的，消耗多的
 1. *reign* 统治，支配 *rein* 缰绳 e.g The reign of ... lasted more than sixty years
 1. *gross* 总的 
-1. *coherent* 连贯的，团结的 e.g The scientist has to develop a cohrent view of the natural world
+1. *coherent* 连贯的 e.g The scientist has to develop a cohrent view of the natural world
 1. *tangible* 明确的 e.g We need tangible evidence of john's guilt
 1. *stern* 严峻的，严厉的 e.g the police are planning sterner measure to combat crime
 

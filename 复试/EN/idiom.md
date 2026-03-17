@@ -15,3 +15,5 @@
 1. low coupling 低耦合
 1. volume 数量，容量，e.g The volume of order 订单量
 1. non-determinism 不确定性
+1. comments or description of code 代码的注释/说明
+1. code snippet 代码片段

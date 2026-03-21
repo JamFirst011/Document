@@ -17,3 +17,7 @@
 1. non-determinism 不确定性
 1. comments or description of code 代码的注释/说明
 1. code snippet 代码片段
+1. convolutional 卷积
+1. sematic segmentation 语义分片
+1. image retargeting 图像显示适配
+1. mainstream 主流的
